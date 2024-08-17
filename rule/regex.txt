@@ -1,4 +1,4 @@
-# Update time: 2024-08-17 08:46:30
+# Update time: 2024-08-17 20:17:00
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -167,6 +167,8 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -189,8 +191,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 ||gtlpa*.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 stepup99
 ||158.247.208.
 ||23.109.82.
