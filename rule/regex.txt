@@ -1,4 +1,4 @@
-# Update time: 2024-08-21 08:48:35
+# Update time: 2024-08-21 20:19:05
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -22,6 +22,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -99,7 +100,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -167,6 +167,8 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -189,8 +191,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 ||gtlpa*.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 stepup99
 ||158.247.208.
 ||23.109.82.
