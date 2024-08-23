@@ -1,4 +1,4 @@
-# Update time: 2024-08-23 08:49:12
+# Update time: 2024-08-23 20:19:26
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -191,12 +191,12 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||gtlpa*.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-stepup99
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
+stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
