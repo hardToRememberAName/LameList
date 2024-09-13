@@ -1,18 +1,18 @@
-# Update time: 2024-09-12 20:20:38
+# Update time: 2024-09-13 08:52:28
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||prebid-*.rubiconproject.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
 728x90.jpg|
-||acookie.*.gif?
 ||onetrust.
+||acookie.*.gif?
 ||allyes.
 ||icast.
 ||gg.
