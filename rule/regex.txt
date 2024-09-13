@@ -1,4 +1,4 @@
-# Update time: 2024-09-13 08:52:28
+# Update time: 2024-09-13 20:20:02
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -22,7 +22,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -88,6 +87,7 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -110,6 +110,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -151,7 +152,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
