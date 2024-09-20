@@ -1,4 +1,4 @@
-# Update time: 2024-09-20 08:53:18
+# Update time: 2024-09-20 20:21:03
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -10,8 +10,8 @@
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
-728x90.jpg|
 ||acookie.*.gif?
+728x90.jpg|
 ||onetrust.
 ||allyes.
 ||icast.
@@ -190,12 +190,12 @@ advertisers.js|
 ||gtlpa*.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-stepup99
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
+stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||clog*.yuanfudao.com^
