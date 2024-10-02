@@ -1,16 +1,17 @@
-# Update time: 2024-10-02 08:54:49
+# Update time: 2024-10-02 20:21:57
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||prebid-*.rubiconproject.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
 728x90.jpg|
+||acookie.*.gif?
 ||onetrust.
 ||allyes.
 ||icast.
@@ -32,7 +33,6 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
-||acookie.*.gif?
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
