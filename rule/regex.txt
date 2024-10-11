@@ -1,4 +1,4 @@
-# Update time: 2024-10-11 08:54:36
+# Update time: 2024-10-11 20:21:20
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -76,6 +76,18 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||adash*.m.taobao.com^
+||ad.api.*.youku.com^
+||adash*.ut.taobao.com^
+||das.*.youku.com^
+speed.*.ad.*.prod.hosts.ooklaserver.net^
+||store.*.api.3g.youku.com^
+||adsview*.qq.com^
+||atanx*.alicdn.com^
+||ecm*.bdimg.com^
+||adservice.google.*^
+||msg*.video.qiyi.com^
+||adv.sec*.miui.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -139,18 +151,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||adash*.m.taobao.com^
-||ad.api.*.youku.com^
-||adash*.ut.taobao.com^
-||das.*.youku.com^
-speed.*.ad.*.prod.hosts.ooklaserver.net^
-||store.*.api.3g.youku.com^
-||adsview*.qq.com^
-||atanx*.alicdn.com^
-||ecm*.bdimg.com^
-||adservice.google.*^
-||msg*.video.qiyi.com^
-||adv.sec*.miui.com^
 ||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
@@ -204,9 +204,9 @@ stepup99
 ||tracking.olx.
 ||rum*.a.trbcdn.net^
 ||adservice.google.
-||xlog*-*.tiktokv.com^
 ||analytics-api.dvdfab.
 ||analytics-*-nfl.yinzcam.com^
+||xlog*-*.tiktokv.com^
 ||host*.carl-ras.dk^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
@@ -234,9 +234,9 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||f-log-*.grammarly.io^
 ||wa.gmx.
 ||analytics*.clickdimensions.com^
-||mon*-*.tiktokv.us^
 ||bi-eventtracker-*.amazonaws.com^
 ||pxl-*.ozone.ru^
+||mon*-*.tiktokv.us^
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
 ||imp-*.jampp.com^
@@ -254,8 +254,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||trk*.vidible.tv^
 ||sock*-goguardian.pusher.com^
 ||gscounters.*.gigya.com^
-||mcs-va-*.tiktokv.com^
 ||c*hit.zerkalo.io^
+||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||mon-*.tiktokv.com^
 ||pixelapi-*.cs.mysamba.tv^
@@ -267,9 +267,11 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||beacons*.gvt3.com^
-||rtlog*.tiktokv.com^
+||tnc*.zijieapi.com^
 ||flurry.agentportal.*.yahoodns.net^
+||rtlog*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
+||log*.zijieapi.com^
 ||log*.aliyuncs.com^
 ||stat*.1internet.tv^
 ||analyzer*.fc2.com^
@@ -314,6 +316,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 |piwik.
 ||datacollector-*.dt.hicloud.com^
 ||logger-*.dailymotion.com^
+||polaris*-normal-*.zijieapi.com^
 ||analytics*.carambo.la^
 ||mon*-platform-*.tiktokv.com^
 ||collect-elb-*.amazonaws.com^
