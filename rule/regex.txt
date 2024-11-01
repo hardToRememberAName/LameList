@@ -1,4 +1,4 @@
-# Update time: 2024-10-31 20:21:43
+# Update time: 2024-11-01 08:59:48
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -331,6 +331,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||auth-*.hismarttv.com^
 ||batchlogging*-eu.truecaller.com^
 ||eum*.instana.io^
+||report.*.gbqofs.io^
 directtrack.*.js
 ||tnc16-*.byteoversea.com^
 ||stat.tiara.
