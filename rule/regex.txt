@@ -1,12 +1,12 @@
-# Update time: 2024-11-04 20:23:00
+# Update time: 2024-11-05 08:54:14
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||prebid-*.rubiconproject.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -73,6 +73,18 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||adash*.m.taobao.com^
+||ad.api.*.youku.com^
+||adash*.ut.taobao.com^
+||das.*.youku.com^
+speed.*.ad.*.prod.hosts.ooklaserver.net^
+||store.*.api.3g.youku.com^
+||adsview*.qq.com^
+||atanx*.alicdn.com^
+||ecm*.bdimg.com^
+||adservice.google.*^
+||msg*.video.qiyi.com^
+||adv.sec*.miui.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -138,18 +150,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||adash*.m.taobao.com^
-||ad.api.*.youku.com^
-||adash*.ut.taobao.com^
-||das.*.youku.com^
-speed.*.ad.*.prod.hosts.ooklaserver.net^
-||store.*.api.3g.youku.com^
-||adsview*.qq.com^
-||atanx*.alicdn.com^
-||ecm*.bdimg.com^
-||adservice.google.*^
-||msg*.video.qiyi.com^
-||adv.sec*.miui.com^
 ||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
@@ -164,8 +164,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -190,6 +188,8 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
