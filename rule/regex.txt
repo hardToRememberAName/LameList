@@ -1,4 +1,4 @@
-# Update time: 2024-11-27 08:58:58
+# Update time: 2024-11-27 20:24:00
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -165,6 +165,11 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||track.
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -189,11 +194,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -278,6 +278,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log*.zijieapi.com^
 ||telemetry*.api.playstation.com^
 ||log*.aliyuncs.com^
+||log*-normal-useast1a.lemon8-app.com^
 ||stat*.1internet.tv^
 ||analyzer*.fc2.com^
 ||geoloc*.geovisite.ovh^
