@@ -1,12 +1,12 @@
-# Update time: 2024-11-27 20:24:00
+# Update time: 2024-11-28 08:59:16
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||prebid-*.rubiconproject.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -165,11 +165,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||track.
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -194,6 +189,11 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
