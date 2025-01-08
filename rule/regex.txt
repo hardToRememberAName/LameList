@@ -1,4 +1,4 @@
-# Update time: 2025-01-07 20:22:26
+# Update time: 2025-01-08 08:55:55
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -163,6 +163,8 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -187,8 +189,6 @@ advertisers.js|
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
