@@ -1,8 +1,9 @@
-# Update time: 2025-01-16 08:53:53
+# Update time: 2025-01-16 20:21:20
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
 ||prebid-*.rubiconproject.com^
+||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
