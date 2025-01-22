@@ -1,13 +1,13 @@
-# Update time: 2025-01-22 08:55:33
+# Update time: 2025-01-22 20:21:45
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -23,7 +23,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -210,6 +210,7 @@ stepup99
 |load.sst.
 ||host*.carl-ras.dk^
 ||liveme-sensors-collect2-*.amazonaws.com^
+%2Fs-links.producthunt.com%2Foo%2F*%2Fe.gif
 ||rtlog*.tiktokv.us^
 ||log*-normal-*.tiktokv.us^
 ||st-*.dynamicyield.com^
@@ -270,6 +271,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sgtm.fairmont.
 ||acr-*-prd.samsungcloud.tv^
 ||analytics.streamfab.
+||collector-*.px-client.net^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad*.ettoday.net^
