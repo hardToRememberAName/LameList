@@ -1,4 +1,4 @@
-# Update time: 2025-01-21 20:21:49
+# Update time: 2025-01-22 08:55:33
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -23,6 +23,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -96,7 +97,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
