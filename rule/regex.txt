@@ -1,4 +1,4 @@
-# Update time: 2025-01-23 20:21:58
+# Update time: 2025-01-24 08:54:23
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -23,7 +23,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -97,6 +96,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -293,6 +293,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||mon*-misc-lf.fqnovel.com^
 ||cnt.winporn.
 ||t*.zcvh.net^
+||ulog*.kwai-pro.com^
 ||cs*.mp3bars.com^
 ||tracking-v*.a.run.app^
 ||collector.hamsterix.
