@@ -1,4 +1,4 @@
-# Update time: 2025-01-29 08:54:18
+# Update time: 2025-01-29 20:21:43
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -11,8 +11,8 @@
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
-728x90.jpg|
 ||acookie.*.gif?
+728x90.jpg|
 ||onetrust.
 ||allyes.
 ||icast.
@@ -23,7 +23,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -109,6 +108,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -164,6 +164,13 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -188,13 +195,6 @@ advertisers.js|
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
