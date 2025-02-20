@@ -1,4 +1,4 @@
-# Update time: 2025-02-19 20:20:38
+# Update time: 2025-02-20 08:55:49
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -9,9 +9,9 @@
 ||rgfftupf.
 ||advert*.livesportmedia.eu^
 ||prebid-*.rubiconproject.com^
+||ad*.on.cc^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
-||ad*.on.cc^
 728x90.jpg|
 ||onetrust.
 ||acookie.*.gif?
@@ -24,6 +24,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -110,7 +111,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -166,8 +166,6 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -192,6 +190,8 @@ advertisers.js|
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
