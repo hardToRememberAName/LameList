@@ -1,4 +1,4 @@
-# Update time: 2025-02-21 20:22:12
+# Update time: 2025-02-22 08:53:59
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -75,19 +75,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||adash*.m.taobao.com^
-||ad.api.*.youku.com^
-||adash*.ut.taobao.com^
-||das.*.youku.com^
-speed.*.ad.*.prod.hosts.ooklaserver.net^
-||store.*.api.3g.youku.com^
-||adsview*.qq.com^
-||atanx*.alicdn.com^
-||ecm*.bdimg.com^
-||adservice.google.*^
-||msg*.video.qiyi.com^
-||adv.sec*.miui.com^
-||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -153,6 +140,19 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+||adash*.m.taobao.com^
+||ad.api.*.youku.com^
+||adash*.ut.taobao.com^
+||das.*.youku.com^
+speed.*.ad.*.prod.hosts.ooklaserver.net^
+||store.*.api.3g.youku.com^
+||adsview*.qq.com^
+||atanx*.alicdn.com^
+||ecm*.bdimg.com^
+||adservice.google.*^
+||msg*.video.qiyi.com^
+||adv.sec*.miui.com^
+||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -171,6 +171,8 @@ advertisers.js|
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -195,8 +197,6 @@ advertisers.js|
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -343,6 +343,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
+||gecko*.tiktov.us^
 ||stlog*-local.kakao.com^
 |load.sgtm.
 ||collect-v*.51.la^
