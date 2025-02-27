@@ -1,4 +1,4 @@
-# Update time: 2025-02-26 20:23:18
+# Update time: 2025-02-27 08:57:00
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -12,9 +12,9 @@
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
+||acookie.*.gif?
 728x90.jpg|
 ||onetrust.
-||acookie.*.gif?
 ||allyes.
 ||icast.
 ||gg.
@@ -75,6 +75,19 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||adash*.m.taobao.com^
+||ad.api.*.youku.com^
+||adash*.ut.taobao.com^
+||das.*.youku.com^
+speed.*.ad.*.prod.hosts.ooklaserver.net^
+||store.*.api.3g.youku.com^
+||adsview*.qq.com^
+||atanx*.alicdn.com^
+||ecm*.bdimg.com^
+||adservice.google.*^
+||msg*.video.qiyi.com^
+||adv.sec*.miui.com^
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -140,19 +153,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||adash*.m.taobao.com^
-||ad.api.*.youku.com^
-||adash*.ut.taobao.com^
-||das.*.youku.com^
-speed.*.ad.*.prod.hosts.ooklaserver.net^
-||store.*.api.3g.youku.com^
-||adsview*.qq.com^
-||atanx*.alicdn.com^
-||ecm*.bdimg.com^
-||adservice.google.*^
-||msg*.video.qiyi.com^
-||adv.sec*.miui.com^
-||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -345,7 +345,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
-||gecko*.tiktov.us^
 ||stlog*-local.kakao.com^
 |load.sgtm.
 ||collect-v*.51.la^
