@@ -1,4 +1,4 @@
-# Update time: 2025-03-01 20:20:27
+# Update time: 2025-03-02 09:00:44
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -321,6 +321,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||px*.mediahills.ru^
 ||t.delfi.
 ||ubacollect-*.cloud.dbankcloud.cn^
+click.official.infomaniak.com%2Fo%2F
 ||track.*.roku.com^
 ||appanalysis*.banggood.com^
 ||device-metrics-*.amazon.com^
