@@ -1,14 +1,14 @@
-# Update time: 2025-03-12 08:57:49
+# Update time: 2025-03-12 20:23:25
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -190,13 +190,13 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -269,6 +269,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sock*-goguardian.pusher.com^
 |load.ss.
 ||gscounters.*.gigya.com^
+||d4?appidtype*
 ||c*hit.zerkalo.io^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
@@ -305,6 +306,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||t*.zcvh.net^
 ||ulog*.kwai-pro.com^
 ||cs*.mp3bars.com^
+||grs.dbankcloud.
 ||tracking-v*.a.run.app^
 ||collector.hamsterix.
 ||hotapi*.tiktokv.us^
