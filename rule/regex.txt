@@ -1,4 +1,4 @@
-# Update time: 2025-03-17 20:24:13
+# Update time: 2025-03-18 08:58:14
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -13,8 +13,8 @@
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
 728x90.jpg|
-||onetrust.
 ||acookie.*.gif?
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -24,6 +24,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -87,6 +88,7 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -110,7 +112,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -152,7 +153,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -166,8 +166,6 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -193,6 +191,8 @@ advertisers.js|
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
