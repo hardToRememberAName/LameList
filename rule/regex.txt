@@ -1,4 +1,4 @@
-# Update time: 2025-03-19 20:23:53
+# Update time: 2025-03-20 08:58:06
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -24,6 +24,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -110,7 +111,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -237,6 +237,7 @@ stepup99
 ||browser-intake-*-datadoghq.com^
 ||edgetrksvc.ebay.
 ||log*-misc-lf.amemv.com^
+||collector-*.px-cdn.net^
 ||stats.zone-telechargement.
 ||host*.polaroid.com^
 ||staging-*.ispot.tv^
