@@ -1,14 +1,14 @@
-# Update time: 2025-03-21 08:59:14
+# Update time: 2025-03-21 20:23:07
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -153,19 +153,6 @@ advertisers.js|
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
 ||report.*.qq.com^
-||irs01.*^
-||stadig*.ifeng.com^
-||count.
-||yt-adp.*^
-||count*.pconline.com.cn^
-||biz*.kankan.com^
-||8*.tianya.cn^
-%adclick
-||stat.
-@@||adidas.*^
-||biz*.sandai.net^
-||uedas.*^
-||track.
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -197,6 +184,19 @@ advertisers.js|
 ||get-me-wow.
 ||142.91.159.
 ||23.109.87.
+||irs01.*^
+||stadig*.ifeng.com^
+||count.
+||yt-adp.*^
+||count*.pconline.com.cn^
+||biz*.kankan.com^
+||8*.tianya.cn^
+%adclick
+||stat.
+@@||adidas.*^
+||biz*.sandai.net^
+||uedas.*^
+||track.
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
