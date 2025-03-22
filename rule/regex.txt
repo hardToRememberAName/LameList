@@ -1,4 +1,4 @@
-# Update time: 2025-03-22 08:57:30
+# Update time: 2025-03-22 20:20:41
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -166,11 +166,8 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -195,8 +192,11 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
