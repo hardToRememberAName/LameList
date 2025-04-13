@@ -1,4 +1,4 @@
-# Update time: 2025-04-12 20:21:18
+# Update time: 2025-04-13 10:29:34
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -13,8 +13,8 @@
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
 728x90.jpg|
-||onetrust.
 ||acookie.*.gif?
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -166,7 +166,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-page_view_count
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -193,6 +192,7 @@ page_view_count
 @@||cdn-msp*.18comic*.*^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+page_view_count
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
