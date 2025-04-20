@@ -1,4 +1,4 @@
-# Update time: 2025-04-19 20:21:37
+# Update time: 2025-04-20 09:05:38
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -13,8 +13,8 @@
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
 728x90.jpg|
-||acookie.*.gif?
 ||onetrust.
+||acookie.*.gif?
 ||allyes.
 ||icast.
 ||gg.
@@ -140,6 +140,18 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+||adash*.m.taobao.com^
+||ad.api.*.youku.com^
+||adash*.ut.taobao.com^
+||das.*.youku.com^
+speed.*.ad.*.prod.hosts.ooklaserver.net^
+||store.*.api.3g.youku.com^
+||adsview*.qq.com^
+||atanx*.alicdn.com^
+||ecm*.bdimg.com^
+||adservice.google.*^
+||msg*.video.qiyi.com^
+||adv.sec*.miui.com^
 ||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
@@ -154,18 +166,6 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-||adash*.m.taobao.com^
-||ad.api.*.youku.com^
-||adash*.ut.taobao.com^
-||das.*.youku.com^
-speed.*.ad.*.prod.hosts.ooklaserver.net^
-||store.*.api.3g.youku.com^
-||adsview*.qq.com^
-||atanx*.alicdn.com^
-||ecm*.bdimg.com^
-||adservice.google.*^
-||msg*.video.qiyi.com^
-||adv.sec*.miui.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -190,6 +190,8 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 page_view_count
 ||158.247.208.
 ||23.109.82.
@@ -197,8 +199,6 @@ page_view_count
 ||142.91.159.
 ||23.109.87.
 ||admi2fib4exit^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
