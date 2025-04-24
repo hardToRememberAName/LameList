@@ -1,4 +1,4 @@
-# Update time: 2025-04-23 20:25:06
+# Update time: 2025-04-24 09:01:49
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -75,6 +75,7 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+page_view_count
 ||adx.
 ||adx-
 ||adsfs.
@@ -146,7 +147,6 @@ advertisers.js|
 ||142.91.159.
 ||23.109.87.
 ||admi2fib4exit^
-page_view_count
 ||report.*.qq.com^
 ||adash*.m.taobao.com^
 ||ad.api.*.youku.com^
@@ -160,21 +160,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
-||irs01.*^
-||stadig*.ifeng.com^
-||count.
-||yt-adp.*^
-||count*.pconline.com.cn^
-||biz*.kankan.com^
-||8*.tianya.cn^
-%adclick
-||stat.
-@@||adidas.*^
-||biz*.sandai.net^
-||uedas.*^
-||track.
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -199,6 +184,21 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+||irs01.*^
+||stadig*.ifeng.com^
+||count.
+||yt-adp.*^
+||count*.pconline.com.cn^
+||biz*.kankan.com^
+||8*.tianya.cn^
+%adclick
+||stat.
+@@||adidas.*^
+||biz*.sandai.net^
+||uedas.*^
+||track.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
