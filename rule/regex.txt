@@ -1,14 +1,14 @@
-# Update time: 2025-04-26 08:59:49
+# Update time: 2025-04-26 20:21:39
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -24,7 +24,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -111,6 +110,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -166,6 +166,13 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+page_view_count
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
+||admi2fib4exit^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -192,13 +199,6 @@ advertisers.js|
 @@||cdn-msp*.18comic*.*^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-page_view_count
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||admi2fib4exit^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
