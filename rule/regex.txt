@@ -1,4 +1,4 @@
-# Update time: 2025-05-03 20:22:19
+# Update time: 2025-05-04 09:08:44
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -12,29 +12,9 @@
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
-728x90.jpg|
 ||acookie.*.gif?
+728x90.jpg|
 ||onetrust.
-||allyes.
-||icast.
-||gg.
-||union.
-||ad.
-||ads.
-||cnzz.
-||adsfile.
-||adserver.
-||adservice.
-||adpic.
-||sax.sina.
-||biz5.
-||adsense.
-||xmindchina.
-||ggg.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -76,6 +56,25 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||allyes.
+||icast.
+||gg.
+||union.
+||ad.
+||ads.
+||cnzz.
+||adsfile.
+||adserver.
+||adpic.
+||sax.sina.
+||biz5.
+||adsense.
+||xmindchina.
+||ggg.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ||adash*.m.taobao.com^
 ||ad.api.*.youku.com^
 ||adash*.ut.taobao.com^
@@ -88,6 +87,7 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -111,6 +111,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -152,7 +153,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -166,6 +166,9 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+page_view_count
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -190,9 +193,6 @@ advertisers.js|
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-page_view_count
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
