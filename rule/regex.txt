@@ -1,14 +1,14 @@
-# Update time: 2025-05-05 20:25:33
+# Update time: 2025-05-06 09:02:51
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -75,6 +75,18 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||adash*.m.taobao.com^
+||ad.api.*.youku.com^
+||adash*.ut.taobao.com^
+||das.*.youku.com^
+speed.*.ad.*.prod.hosts.ooklaserver.net^
+||store.*.api.3g.youku.com^
+||adsview*.qq.com^
+||atanx*.alicdn.com^
+||ecm*.bdimg.com^
+||adservice.google.*^
+||msg*.video.qiyi.com^
+||adv.sec*.miui.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -140,19 +152,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
-||adash*.m.taobao.com^
-||ad.api.*.youku.com^
-||adash*.ut.taobao.com^
-||das.*.youku.com^
-speed.*.ad.*.prod.hosts.ooklaserver.net^
-||store.*.api.3g.youku.com^
-||adsview*.qq.com^
-||atanx*.alicdn.com^
-||ecm*.bdimg.com^
-||adservice.google.*^
-||msg*.video.qiyi.com^
-||adv.sec*.miui.com^
 page_view_count
 ||158.247.208.
 ||23.109.82.
@@ -160,6 +159,7 @@ page_view_count
 ||142.91.159.
 ||23.109.87.
 ||admi2fib4exit^
+||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -199,6 +199,7 @@ page_view_count
 @@||cdn-msp*.18comic*.*^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||gtmdev.jabra.
@@ -285,6 +286,7 @@ d4?appid*type*
 ||sonar*.xy.fbcdn.net^
 ||mcs-*.lemon8-app.us^
 ||analytics.ahrefs.
+||discovery-ios-*.ertelecom.ru^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.tvsquared.com^
 ||counter*-yadro*-ru.unblocked.lol^
