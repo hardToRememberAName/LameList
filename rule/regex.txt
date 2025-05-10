@@ -1,4 +1,4 @@
-# Update time: 2025-05-09 20:24:46
+# Update time: 2025-05-10 09:01:01
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -190,6 +190,8 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 page_view_count
 ||158.247.208.
 ||23.109.82.
@@ -197,8 +199,6 @@ page_view_count
 ||142.91.159.
 ||23.109.87.
 ||admi2fib4exit^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
