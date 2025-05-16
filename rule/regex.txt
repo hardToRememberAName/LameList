@@ -1,14 +1,14 @@
-# Update time: 2025-05-16 09:04:19
+# Update time: 2025-05-16 20:26:16
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -166,6 +166,12 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
+||admi2fib4exit^
 page_view_count
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
@@ -191,12 +197,6 @@ page_view_count
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||admi2fib4exit^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 stepup99
