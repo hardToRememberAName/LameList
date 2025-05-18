@@ -1,14 +1,14 @@
-# Update time: 2025-05-18 09:08:35
+# Update time: 2025-05-18 20:22:54
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -153,13 +153,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
 ||report.*.qq.com^
-page_view_count
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||admi2fib4exit^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -199,6 +192,13 @@ page_view_count
 @@||cdn-msp*.18comic*.*^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
+||admi2fib4exit^
+page_view_count
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
