@@ -1,4 +1,4 @@
-# Update time: 2025-05-19 09:06:55
+# Update time: 2025-05-19 20:26:54
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -13,8 +13,8 @@
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
 728x90.jpg|
-||acookie.*.gif?
 ||onetrust.
+||acookie.*.gif?
 ||allyes.
 ||icast.
 ||gg.
@@ -24,7 +24,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -99,6 +98,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -166,6 +166,12 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
+||admi2fib4exit^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -191,12 +197,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
 page_view_count
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||admi2fib4exit^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 stepup99
