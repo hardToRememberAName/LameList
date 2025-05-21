@@ -1,4 +1,4 @@
-# Update time: 2025-05-20 20:26:56
+# Update time: 2025-05-21 09:04:25
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -87,6 +87,7 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -368,7 +369,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||sensorsdata*.read.duokan.com^
 ||app-analytics-*.snapchat.com^
 ||api*.amplitude.com^
-||report.*.qq.com^
 ||px*.mediahills.ru^
 ||ulog.*.kwai-pro.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
