@@ -1,4 +1,4 @@
-# Update time: 2025-05-23 09:03:55
+# Update time: 2025-05-23 20:25:30
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -153,6 +153,12 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
 ||report.*.qq.com^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
+||admi2fib4exit^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -166,6 +172,7 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
+page_view_count
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -192,13 +199,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 @@||cdn-msp*.18comic*.*^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||admi2fib4exit^
-page_view_count
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -242,6 +242,7 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||t*.playdigo.live^
 ||sock*-goguardian.pusher.com^
 |load.ss.
+||tnc16-*.hypic.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||sgtm.fairmont.
