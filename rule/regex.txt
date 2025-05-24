@@ -1,4 +1,4 @@
-# Update time: 2025-05-23 20:25:30
+# Update time: 2025-05-24 09:01:27
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -140,6 +140,14 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+page_view_count
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
+||admi2fib4exit^
+||report.*.qq.com^
 ||adash*.m.taobao.com^
 ||ad.api.*.youku.com^
 ||adash*.ut.taobao.com^
@@ -152,13 +160,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
-||report.*.qq.com^
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||admi2fib4exit^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -172,7 +173,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-page_view_count
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
