@@ -1,4 +1,4 @@
-# Update time: 2025-05-26 20:25:34
+# Update time: 2025-05-27 09:03:26
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -24,7 +24,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -88,6 +87,7 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -111,6 +111,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -152,7 +153,12 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+||23.109.87.
+||admi2fib4exit^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -166,12 +172,7 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-||23.109.87.
-||admi2fib4exit^
+page_view_count
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -198,7 +199,6 @@ advertisers.js|
 @@||cdn-msp*.18comic*.*^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-page_view_count
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
