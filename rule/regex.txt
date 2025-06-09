@@ -1,14 +1,14 @@
-# Update time: 2025-06-09 09:09:00
+# Update time: 2025-06-09 20:26:59
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -24,7 +24,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -88,7 +87,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
-||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -112,6 +110,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -153,6 +152,7 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -190,6 +190,7 @@ advertisers.js|
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+page_view_count
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
@@ -198,7 +199,6 @@ advertisers.js|
 ||admi2fib4exit^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-page_view_count
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
