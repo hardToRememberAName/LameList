@@ -1,4 +1,4 @@
-# Update time: 2025-06-26 09:05:59
+# Update time: 2025-06-26 20:27:10
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -88,6 +88,7 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
+||report.*.qq.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -152,7 +153,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-||report.*.qq.com^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
