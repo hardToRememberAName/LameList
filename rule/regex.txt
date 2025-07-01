@@ -1,20 +1,20 @@
-# Update time: 2025-06-30 20:27:19
+# Update time: 2025-07-01 09:13:57
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
+||acookie.*.gif?
 728x90.jpg|
 ||onetrust.
-||acookie.*.gif?
 ||allyes.
 ||icast.
 ||gg.
@@ -24,7 +24,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -99,6 +98,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -152,7 +152,15 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||adservice.google.*^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
+page_view_count
 ||report.*.qq.com^
+||158.247.208.
+||23.109.82.
+||get-me-wow.
+||142.91.159.
+|167.206.10.148^
+||23.109.87.
+||admi2fib4exit^
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -166,7 +174,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-page_view_count
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
@@ -193,13 +200,6 @@ page_view_count
 @@||cdn-msp*.18comic*.*^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||158.247.208.
-||23.109.82.
-||get-me-wow.
-||142.91.159.
-|167.206.10.148^
-||23.109.87.
-||admi2fib4exit^
 stepup99
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
