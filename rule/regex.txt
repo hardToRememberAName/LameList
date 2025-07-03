@@ -1,14 +1,14 @@
-# Update time: 2025-07-03 09:06:17
+# Update time: 2025-07-03 20:27:17
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 ||reachableads-av.*.amazonaws.com^
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
 ||fxhpaoxqyajvmdg.
 ||rgfftupf.
+||advert*.livesportmedia.eu^
+||prebid-*.rubiconproject.com^
 ||ads*.opensubtitles.org^
 @@||cdn*.porn300.com^
 ||ad*.on.cc^
@@ -24,6 +24,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -98,7 +99,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
