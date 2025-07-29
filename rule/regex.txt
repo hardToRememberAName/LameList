@@ -1,4 +1,4 @@
-# Update time: 2025-07-29 09:18:37
+# Update time: 2025-07-29 20:30:12
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -153,6 +153,7 @@ advertisers.js|
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
 ||report.*.qq.com^
+page_view_count
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -166,7 +167,6 @@ advertisers.js|
 ||biz*.sandai.net^
 ||uedas.*^
 ||track.
-page_view_count
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||zabdybod*.club^
