@@ -1,4 +1,4 @@
-# Update time: 2025-08-07 09:12:32
+# Update time: 2025-08-07 20:30:04
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -24,7 +24,6 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -58,6 +57,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -190,9 +190,9 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
-page_view_count
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+page_view_count
 ||158.247.208.
 ||23.109.82.
 ||get-me-wow.
