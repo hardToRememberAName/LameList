@@ -1,4 +1,4 @@
-# Update time: 2025-08-31 20:22:54
+# Update time: 2025-09-01 09:11:11
 # 
 ||cas.*.criteo.com^
 ||allsportsflix.
@@ -153,7 +153,6 @@ speed.*.ad.*.prod.hosts.ooklaserver.net^
 ||msg*.video.qiyi.com^
 ||adv.sec*.miui.com^
 ||report.*.qq.com^
-page_view_count
 ||irs01.*^
 ||stadig*.ifeng.com^
 ||count.
@@ -191,6 +190,7 @@ page_view_count
 ||zbc6hy*.live^
 ||gtlpa*.com^
 @@||cdn-msp*.18comic*.*^
+page_view_count
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 ||158.247.208.
