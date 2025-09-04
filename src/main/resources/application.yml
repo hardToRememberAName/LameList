@@ -12,92 +12,77 @@ application:
   rule:
     #远程规则
     remote:
-      # EasyList
-      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' #EasyList adservers
-      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt' #easylist - allowlist
-      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt' #EasyList adservers popup
-      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt' #EasyList general block
-      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_popup.txt' #EasyList general popup
-      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_hide.txt' #easylist_general_hide
-      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
-      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt' #easylist_thirdparty_popup
-      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt' #easylist_specific_block
-      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt' #easylist_specific_block_popup
-      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide.txt' #easylist_specific_hide
-      - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
-      - 'https://easylist-downloads.adblockplus.org/antiadblockfilters.txt' #Adblock Warning Removal List
-      - 'https://raw.githubusercontent.com/easylist/antiadblockfilters/master/antiadblockfilters/antiadblock_english.txt' #easylist/antiadblockfilters
-      # Fanboy
-      - 'https://easylist.to/easylist/fanboy-social.txt'
-      - 'https://secure.fanboy.co.nz/fanboy-annoyance.txt'
-      - 'https://secure.fanboy.co.nz/fanboy-cookiemonster.txt'
-      # AdGuard
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt' #AdGuard DNS BaseFilter
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt' #AdGuard BaseFilter — first-party servers
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/content_blocker.txt' #BaseFilter content_blocker
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/allowlist.txt' #BaseFilter allowlist 
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/banner_sizes.txt' #banner sizes
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_elemhide.txt' #general_elemhide
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_extensions.txt' #general_extensions
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_url.txt' #general_url
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/allowlist_web.txt' #MobileFilter allowlist_web
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/specific.txt' #Chinese specific
+      # Adguard
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt' #AdGuard DNS BaseFilter
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt' #AdGuard BaseFilter — first-party servers
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/content_blocker.txt' #BaseFilter content_blocker
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/allowlist.txt' #BaseFilter allowlist 
+      #- 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_original_trackers.txt' #cname-trackers adspyglass
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt' #AdGuard DNS filter mobile
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/allowlist_app.txt' #MobileFilter allowlist_app
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/allowlist_web.txt' #MobileFilter allowlist_web
+      - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #AdGuard DNS filter
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #AdGuard Base filter
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt' #AdGuard Chinese filter
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt' #AdGuard Chinese filter — first-party servers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/antiadblock.txt'#ChineseFilter antiadblock
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/general_elemhide.txt' #general_elemhide
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/general_extensions.txt'#general_extensions
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/general_url.txt' #general_url
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/replace.txt' #replace
-      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/specific.txt' #specific
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt' #ChineseFilter allowlist
-      - 'https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt' #AdGuard Tracking Protection filter 
-      # cjx82630/cjxlist
-      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt'
-      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
-      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt'
-      # adgk
-      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt'
-      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt'
-      # xinggsf/Adblock-Plus-Rule
-      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt'
-      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt'
-      # TG-Twilight/AWAvenue-Ads-Rule
-      - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
-      # FutaGuard/LowTechFilter
-      - 'https://filter.futa.gg/filter.txt' 
-      - 'https://filter.futa.gg/hide_farm_from_search.txt'
-      - 'https://filter.futa.gg/removeparam.txt'
-      - 'https://filter.futa.gg/TW165.txt' #TW165
-      # 1Hosts
-      - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt'
-      # QuarkList
-      - 'https://raw.githubusercontent.com/francis-zhao/quarklist/master/dist/quarklist.txt'
-      # Crystal-RainSlide/AdditionalFiltersCN
-      - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN.txt'
-      - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/Intl.txt'
-      - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/Game.txt'
-      - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN/NoWeWontChat.txt'
-      - 'https://raw.githubusercontent.com/Crystal-RainSlide/AdditionalFiltersCN/master/CN/fix.txt'
-      # damengzhu/banad
-      - 'https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt'
-      # jiayiming/jCleanList
-      - 'https://raw.githubusercontent.com/jiayiming/jCleanList/master/jCleanList_all.txt'
-      #  ABP anti-circumvention filter list
-      - 'https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt'
-      - 'https://gitlab.com/eyeo/anti-cv/abp-filters-anti-cv/-/raw/master/chinese.txt?ref_type=heads'
-      - 'https://gitlab.com/eyeo/anti-cv/abp-filters-anti-cv/-/raw/master/english.txt?ref_type=heads'
-      # DandelionSprout/adfilt ClearURLs for uBo
-      - 'https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt'
-      # Noyllopa/NoAppDownload
-      - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt'
-      # Spam404
-      - 'https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt' 
+      # EasyList
+      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' #EasyList
+      #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
+      - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt' #easylist - allowlist
+      - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
+      # Tracking Server
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt' #AdGuard Tracking Protection filter — third-party trackers
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt' #AdGuard Tracking Protection filter — first-party trackers
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/allowlist.txt' #AdGuard Tracking Protection filter - allowlist
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile_allowlist.txt' #AdguardFilters SpywareFilter mobile - allowlist
+      #- 'https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt' #AdGuard Tracking Protection filter 
+      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt' #AdguardFilters SpywareFilter mobile
+      - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt' #EasyPrivacy
+      - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt' #EasyPrivacy third party
+      # - 'https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt' #bongochong/CombinedPrivacyBlockLists
       # Cryptominers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt' #AdGuard Cryptominers
       - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' #hoshsadiq/adblock-nocoin-list
+      # Malicious URLs
+      - 'github.com/AdguardTeam/HostlistsRegistry/raw/refs/heads/main/assets/filter_11.txt' #Adguard malicious URLs
+      # Others
+      #- 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #durablenapkin/scamblocklist
+      #- 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
+      # - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #Adgk
+      #- 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt' #1Hosts
+      #- 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt' #Cats-Team/AdRules
+      - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #AWAvenue Ads Rule
+      - 'https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt' #damengzhu/banad
+      - 'https://raw.githubusercontent.com/FutaGuard/LowTechFilter/master/hosts.txt' #FutaGuard/LowTechFilter - hosts
+      - 'https://filter.futa.gg/TW165_abp.txt' #FutaGuard/LowTechFilter - LowTechHost
+      #- 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt' #jerryn70/GoodbyeAds
+      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/mv.txt' #乘风视频过滤规则
+      - 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/refs/heads/master/rule.txt' #乘风通用过滤规则
+      - 'https://easylist-downloads.adblockplus.org/fanboy-social.txt' #Fanboy's Social Blocking List 禁止社交媒体图标列表
+      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjx-annoyance.txt' #cjx-annoyance
+      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/refs/heads/master/cjxlist.txt' #cjxlist
+      - 'https://raw.githubusercontent.com/ilpl/ad-hosts/refs/heads/master/hosts' #ilpl/ad-hosts 偏向小说网站
+      - 'https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/refs/heads/master/Hosts.txt' #BlackJack8/iOSAdblockList
+      - 'http://rssv.cn/adguard/api.php?type=black' #晴雅
+      - 'https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt' #PiHoleBlocklist/SmartTV-AGH
+      - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #Noyllopa/NoAppDownload
+      - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/regex.txt' #afwfv/DD-AD regex
+      #白名单
+      - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt' #afwfv/DD-AD
+      # 整合
+      #- 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
+      #- 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
+      #- 'https://hblock.molinero.dev/hosts_adblock.txt' #hectorm/hblock
+      #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adblockfilters
+      #- 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost 整合了Ad-wars, Anti-ad, StevenBlack
+      #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #217heidai/adblockfilters
+      #- 'https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt' #/5-whys/adh-rules - medium
+      #- 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt' #8680/GOODBYEADS
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
-      #- 'mylist.txt'
+      - 'mylist.txt'
   output:
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
     files:
