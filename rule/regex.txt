@@ -1,4 +1,4 @@
-# Update time: 2025-09-07 20:22:20
+# Update time: 2025-09-08 09:02:33
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -160,8 +160,8 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 @@||p*-passport.byteacctimg.com^
 |load.sst.
 ||host*.carl-ras.dk^
-||log*-normal-*.tiktokv.us^
 ||allsportsflix.
+||log*-normal-*.tiktokv.us^
 ||hw-sh-pcdn-*.biliapi.net^
 ||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
@@ -340,8 +340,8 @@ directtrack.*.js
 ||host*.polaroid.com^
 ||staging-*.ispot.tv^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||datacollector-*.dt.dbankcloud.cn^
 ||cas.*.criteo.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||batchlogging*-noneu.truecaller.com^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
 ||imp-*.jampp.com^
@@ -394,8 +394,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||api*.amplitude.com^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
-||ulog.*.kwai-pro.com^
 ||23.109.87.
+||ulog.*.kwai-pro.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||appanalysis*.banggood.com^
 google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
@@ -412,8 +412,8 @@ google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 ||ulog*.kwaipros.com^
 ||log*-*.tiktokv.com^
 ||p*-local-ads.byteimg.com^
-||logs-*.rebxgame.com^
 ||158.247.208.
+||logs-*.rebxgame.com^
 ||df.infra.sz.shopee.
 ||geoloc*.geostats.ovh^
 |load.gtm.
@@ -455,6 +455,7 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||collector*.ex.co^
 ||bpc-***.leadintelligent.com^
 ||s4-***.leadchina.cn^
+||get-me-wow.
 ||admi2fib4exit^
 ||bitgin^
 ||stepup99^
@@ -469,6 +470,7 @@ analytics-*.aasaam.com
 ||w*statistics.info^
 ||bondzgi*.
 ||etargetnet.*.hu^
+||prebid-*.rubiconproject.com^
 ||partner.superbahisaffiliates*.com^
 ||adservice.google.co.*
 ||v.tzbox*.xyz^
@@ -518,13 +520,13 @@ analytics-*.aasaam.com
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
 ||ad*.bilgin.pro^
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||matomo.*.vn^
 ||medialand.
 ||rotaban.
 ||rusrestbest.
 ||v.newsportal*.ru^
-||get-me-wow.
 ||popuptraf.
 ||as*.prog.hu^
 ||vst.videolink.
@@ -566,15 +568,13 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
+||ads*.dfiles.ru^
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||ads*.dfiles.ru^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 Banner468x60
