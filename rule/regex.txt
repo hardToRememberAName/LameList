@@ -1,4 +1,4 @@
-# Update time: 2025-09-11 09:18:09
+# Update time: 2025-09-11 09:29:05
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -18,16 +18,12 @@
 ||api*.bidmachine.io^
 ||ad*.nexage.com^
 ||aan.amazon.*^
-||iad-*.braze.com^
-||ms*.applvn.com^
 ||adserver.*.yahoodns.net^
 ||v*-ad.video.yximgs.com^
 ||marketplace-*.hyprmx.com^
 ||api*.batmobil.net^
 ||adx-*.dbankcloud.
 ||prebid-cache*.ifunny.co^
-||api*.batmobi.net^
-||mediate-ios-*.hyprmx.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||mob*.novanewsapp.com^
 ||ads*-normal*.zijieapi.com^
@@ -41,17 +37,24 @@
 ||events-*.op.hicloud.com^
 ||adx-*.dbankedge.cn^
 ||banner.*.tccapis.com^
-||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
 ||ad*.nownews.com^
 ||onetrust.
+||api*.batmobi.net^
+||mediate-ios-*.hyprmx.com^
+||us.*.qwadro.com^
+||iad-*.braze.com^
+||ms*.applvn.com^
+||ifengad.*.ifeng.com^
+||cdn-adn-*.rayjump.com^
+||bjsvp*.space^
 ||allyes.
 ||icast.
 ||gg.
@@ -97,8 +100,8 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-||acookie.*.gif?
 728x90.jpg|
+||acookie.*.gif?
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -470,6 +473,7 @@ analytics-*.aasaam.com
 ||w*statistics.info^
 ||bondzgi*.
 ||etargetnet.*.hu^
+||prebid-*.rubiconproject.com^
 ||partner.superbahisaffiliates*.com^
 ||adservice.google.co.*
 ||v.tzbox*.xyz^
@@ -520,6 +524,7 @@ analytics-*.aasaam.com
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
 ||ad*.bilgin.pro^
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||matomo.*.vn^
 ||medialand.
@@ -567,15 +572,13 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
+||ads*.dfiles.ru^
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||ads*.dfiles.ru^
-||advert*.livesportmedia.eu^
-||prebid-*.rubiconproject.com^
 Banner468x60
