@@ -27,11 +27,13 @@ application:
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt' #AdGuard Chinese filter — first-party servers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/antiadblock.txt'#ChineseFilter antiadblock
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt' #ChineseFilter allowlist
+      
       # EasyList
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt' #EasyList
       #- 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt' #EasyList — third-party servers
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt' #easylist - allowlist
       - 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt' #EasyList China
+      
       # Tracking Server
       #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt' #AdGuard Tracking Protection filter — third-party trackers
       #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt' #AdGuard Tracking Protection filter — first-party trackers
@@ -42,11 +44,27 @@ application:
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt' #EasyPrivacy
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt' #EasyPrivacy third party
       # - 'https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt' #bongochong/CombinedPrivacyBlockLists
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt' #Amazon
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt' #Apple
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt' #Huawei
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt' #MS
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt' #Samsung
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt' #TikTok (Fingerprinting)
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.extended.txt' #TikTok (Fingerprinting) Aggressive
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.lgwebos.txt' #LG webOS
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.roku.txt' #Roku
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.vivo.txt' #VIVO
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt' #OPPO/Realme
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt' #Xiaomi
+      
       # Cryptominers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt' #AdGuard Cryptominers
       - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' #hoshsadiq/adblock-nocoin-list
+      
       # Malicious URLs
       - 'github.com/AdguardTeam/HostlistsRegistry/raw/refs/heads/main/assets/filter_11.txt' #Adguard malicious URLs
+      #- 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt' #hagezi - Top Most Abused Top Level Domains
+      
       # Others
       #- 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #durablenapkin/scamblocklist
       #- 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
@@ -69,9 +87,11 @@ application:
       - 'https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt' #PiHoleBlocklist/SmartTV-AGH
       - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #Noyllopa/NoAppDownload
       - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/regex.txt' #afwfv/DD-AD regex
+      
       #白名单
       - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt' #afwfv/DD-AD
-      # 整合
+      
+      # 整合性项目
       #- 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
       #- 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #anti-AD
       #- 'https://hblock.molinero.dev/hosts_adblock.txt' #hectorm/hblock
@@ -80,6 +100,7 @@ application:
       #- 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #217heidai/adblockfilters
       #- 'https://raw.githubusercontent.com/5-whys/adh-rules/main/rules/output_medium.txt' #/5-whys/adh-rules - medium
       #- 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt' #8680/GOODBYEADS
+      
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
