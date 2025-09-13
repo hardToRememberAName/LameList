@@ -1,4 +1,4 @@
-# Update time: 2025-09-12 20:24:27
+# Update time: 2025-09-13 08:55:21
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -45,13 +45,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||ad*.nownews.com^
+||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||onetrust.
-||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -74,15 +74,6 @@
 ||adsame.
 728x90.jpg|
 ||acookie.*.gif?
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -108,6 +99,15 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||matt.mercadolibre.
@@ -120,8 +120,8 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 @@||p*-passport.byteacctimg.com^
 ||host*.carl-ras.dk^
 |load.sst.
-||allsportsflix.
 ||log*-normal-*.tiktokv.us^
+||allsportsflix.
 ||hw-sh-pcdn-*.biliapi.net^
 ||ysdm*.ys137.com.cn^
 ||faro-collector-prod-*.grafana.net^
@@ -166,8 +166,8 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||ac*.786ip.com^
 ||t*.playdigo.live^
 ||sock*-goguardian.pusher.com^
-||geotargetly-api-*.com^
 |load.ss.
+||geotargetly-api-*.com^
 ||tnc16-*.hypic.com^
 ||mcs-va-*.tiktokv.com^
 ||fpb*.51edu.com^
@@ -226,6 +226,7 @@ d4?appid*type*
 %2Fvia%2Fo%3Fh%3D
 ||pixel-*.rubiconproject.com^
 ||mcs-*.lemon8-app.com^
+||js*.abolezi.com^
 ||ads*-normal-hl.zijieapi.com^
 ||log-va*.capcutapi.com^
 ||track.tiara.
@@ -312,8 +313,8 @@ directtrack.*.js
 ||host*.polaroid.com^
 ||staging-*.ispot.tv^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
+||cas.*.criteo.com^
 ||qpb*.sohu.com^
 ||batchlogging*-noneu.truecaller.com^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
@@ -372,8 +373,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||app-analytics-*.snapchat.com^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
-||23.109.87.
 ||ulog.*.kwai-pro.com^
+||23.109.87.
 ||static*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
@@ -399,8 +400,8 @@ google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 ||sf*-ttcdn-tos.pstatp.com^
 @@||p*-sdbk2-media.byteimg.com^
 ||ssp*.rtb.beeline.ru^
-||pixel.archive.
 ||stats*.videonow.ru^
+||pixel.archive.
 ||api*.moengage.com^
 ||hba*.hepsiburada.com^
 ||bdcpro*.techweb.com.cn^
@@ -451,7 +452,6 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||impservice*.yodao.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
-||js*.abolezi.com^
 ||107.167.16.*.gif
 ||ja*.gamersky.com^
 ||vns86.oss-*.aliyuncs.com^
