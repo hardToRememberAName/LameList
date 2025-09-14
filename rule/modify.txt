@@ -1,4 +1,4 @@
-# Update time: 2025-09-13 20:21:49
+# Update time: 2025-09-14 09:03:15
 # 
 @@||technews.tw^$generichide,badfilter
 @@||wkstatic.bdimg.com/static/wkcore/widget/commerce/fengchao/*$domain=wenku.baidu.com
@@ -1312,6 +1312,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||dontbeevils.de^$websocket
 ||techhome-js.github.io/code.wsm^$third-party
 ||orbita-lviv.com/jquerys.js
+||afminer.com^$third-party
 ||bablace.com^$third-party
 ||omine.org^$third-party
 ||dynamo-kiev.com/jquerys.js
@@ -1326,6 +1327,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||offerreality.com^$third-party
 .3.n.2.2.l30.js
 .3.n.2.1.l50.js
+||brominer.com^$third-party
 .org/jquerys.js
 .n.2.1.js^$third-party
 ||dekoder.ws/*/m.js
@@ -1532,7 +1534,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||thewhizmarketing.com^$third-party
 @@||aptal.pro^$websocket
 /crypta.js
-||afminer.com^$third-party
 ||srcips.com^$third-party
 ||aeros02.tk^$third-party
 ||notmining.org^$third-party
@@ -1546,7 +1547,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 /lhnhelpouttab-current.min.js
 ||mine.blank.drawpad.org^$third-party
 /cryptonight-worker.
-||brominer.com^$third-party
 /miner?key=
 ||analytics.blue^$third-party
 ||uptostream.*/assets/$subdocument
@@ -6609,6 +6609,10 @@ sogou.com###bottom_appad
 epwk.com##.head_banner
 55haitao.com##.bbs-bottom-popup
 xyj321.com##.foot_alert_wrap
+||xml.opera.com^$ctag=device_tv
+||config.ioam.de^$ctag=device_tv|device_other
+||de.ioam.de^$ctag=device_tv
+||drscdn.500px.org^$ctag=device_tv
 ip.sb##[style='text-align: center;margin: 20px 0;width: 100%;']
 ##div.poi-row a > IMG[width='100%'][height='auto'][src]
 ##DIV[data-text-ad]
@@ -7107,7 +7111,6 @@ sogou.com##.pc-brand-wrapper
 ##div[id] > div[style*='z-index: 2147483647; width: 100vw; background: url']
 @@||cqshuda.com/template/conch/asset/js/conch.vip.js
 .xyz/gatsby?$third-party
-||baidu.com/rec?*=ad&
 ||627txt.com/da/*js
 baidu.com#@##page-pre
 ##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
@@ -7780,7 +7783,6 @@ sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 ##div#playlistbtn > A[href='/ht.html']
 bing.com,cn.bing.net##a[h$=",Ads"]
 .com/candy*.js$third-party
-||baidu.com/newspage/api/getmobads?
 /js/news2zz.js
 ##body#nr_body.nr_all.c_nr > section[id]
 ##[style='top: 8.2vw; display: block;']
@@ -7827,10 +7829,6 @@ qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 10
 ||killcovid2021.com/*.mp4
 cloudflareinsights.com$third-party
 ##[src^="https://img.sobot.com/chatres/"][title="sb"]
-||xml.opera.com^$ctag=device_tv
-||config.ioam.de^$ctag=device_tv|device_other
-||de.ioam.de^$ctag=device_tv
-||drscdn.500px.org^$ctag=device_tv
 huya.com###J_duyaHeaderRight > .clearfix.duya-header-control > .hy-nav-download.hy-nav-right
 up.woozooo.com##.ves
 suning.com##DIV.sn-sidebar:nth-child(41) > DIV.sn-sidebar-tabs.sn-sidebar-bottom-tabs:nth-child(3) > DIV.sn-sidebar-tab.sn-sidebar-wider-tab.sn-sidebar-code.sn-sidebar-tab-js.sn-sidebar-tab-hover:nth-child(3)
@@ -8462,6 +8460,7 @@ zhihu.com##.OpenInApp
 wk.baidu.com##.pop-manager-view-containter
 m.thepaper.cn##li.icon_openapp
 tieba.baidu.com#?#.more-btn-desc:contains(打开APP)
+smzdm.com##.btn-open-app
 bbs.meizu.cn##.download
 detail.mall.meizu.com##.app detail
 m.thepaper.cn###bottomBanner
@@ -8581,6 +8580,7 @@ m.ke.com##.conch-ui-ke.conch-ui-app-download
 taobao.com##.smartbanner-wrapper
 zhihu.com#?#button:contains(App)
 tieba.baidu.com###diversBanner
+smzdm.com##.damo-footer-open-app__fixed-logo
 zuimeia.com##.app-ad
 m.sohu.com##.navbar-icon
 egame.qq.com##.nav-download
@@ -8618,7 +8618,6 @@ egame.qq.com##.live-list-guess
 ifanr.com##DIV.page-body:first-child > HEADER.c-global-header:nth-child(3) > DIV.c-header-navbar:first-child > DIV.c-header-navbar__content > DIV.c-header-navbar－content__right:last-child > DIV.c-header-sns__about--hover:first-child > A:first-child
 ifeng.com#?#div[class^="index_link"]:contains(app)
 m.douban.com##.write-review
-smzdm.com##.btn-open-app-b.btn-open-app
 xw.qq.com##.btn-ok
 m.sogou.com##.recommend-pop.vr-recommend
 i.ifeng.com#?#div[class^=list-]:contains(APP)
@@ -10346,6 +10345,7 @@ barryblogs.com##.ad-single-top
 ||hh010.com/static/image/fff/
 ||sass.hk/plus/mytag_js.php?aid=
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
+||baidu.com/newspage/api/getmobads?
 myday.com.tw##.myday_ad_950
 1kkk.com,dm5.com##.yddiv
 anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
@@ -20776,6 +20776,7 @@ toolfk.com##wavy + div[style]
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
 tongxiang.net##.x15sdv.display_3_3
 ||cnzzla.com/public/scripts/money.js
+||baidu.com/rec?*=ad&
 baidu.com###search_bottomad
 m.baidu.com##.ec_adv
 ||eastday.com/jsfile/kuaiya_
@@ -22086,6 +22087,7 @@ operawire.com##.site-header-actions-social
 ##.post-share-float
 ##.sc--facebook
 dailymail.co.uk##.vjs-social-controls
+n-tv.de##.article__share
 ###facebook-widget-sidebar
 ##.undocked-share
 westword.com##.fdn-site-header-social-icons-block
@@ -30184,6 +30186,7 @@ thenewstack.io###tns-footer-bar
 ###articles-footer-social
 metroworldnews.com.br##.b-footer__social-links-container
 ###socialwrap
+agfk-bw.de,clara.es,hcb.net,travel.state.gov##.socialmedia
 ##.socials-text
 ##.fb_connect_240
 ##.site-share-button
@@ -30258,7 +30261,6 @@ _share_widget_
 porngals4.com##.soc
 ##.item-share-list
 leganerd.com##.LNPocket
-agfk-bw.de,clara.es,hcb.net##.socialmedia
 ##.ppr_priv_share
 ##.linfoShare
 ##.m-icon-facebook
