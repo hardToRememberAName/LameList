@@ -1,4 +1,4 @@
-# Update time: 2025-09-15 20:26:06
+# Update time: 2025-09-16 08:58:26
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -45,11 +45,6 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||bc.geocities.
-||collector-*.luigisbox.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||ad*.nownews.com^
 ||onetrust.
 ||allyes.
@@ -72,6 +67,11 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||bc.geocities.
+||collector-*.luigisbox.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
 728x90.jpg|
 ||acookie.*.gif?
 |samsungcloudsolution.net^
@@ -150,6 +150,7 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 ||bi-eventtracker-*.amazonaws.com^
 ||cnt.yeptube.
 @@||lf*-webcastcdn-tos.douyinstatic.com^
+||sax*.sina.
 ||iptracker-lb-*.amazonaws.com^
 @@||d*-magic.static.yximgs.com^
 ||pixel*.adswizz.com
@@ -220,8 +221,8 @@ click.official.infomaniak.com%2Fo%2F
 ||ubt.tracking.shopee.
 ||cnt.tubeon.
 d4?appid*type*
-||events*.cre.ma^
 ||aff*.kolektiva.net^
+||events*.cre.ma^
 %2Fvia%2Fo%3Fh%3D
 ||pixel-*.rubiconproject.com^
 ||mcs-*.lemon8-app.com^
@@ -252,8 +253,8 @@ d4?appid*type*
 ||backstory.ebay.
 ||event.*.shoplive.cloud^
 ||auth-*.hismarttv.com^
-||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
+||batchlogging*-eu.truecaller.com^
 ||ads*-normal-lf.amemv.com^
 ||report.*.gbqofs.io^
 ||eum*.instana.io^
@@ -281,9 +282,9 @@ directtrack.*.js
 ||dn*.ixinwei.com^
 ||rum*.a.trbcdn.net^
 @@||p*-piu.byteimg.com^
+||analytics-api.dvdfab.
 ||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
-||analytics-api.dvdfab.
 @@||lf*-dy-cdn-tos.bytegecko.com^
 ||sdk-*.moengage.com^
 @@||lf*-baike.searchpstatp.com^
@@ -349,10 +350,11 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log*.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||log*.aliyuncs.com^
+||sam*.baby-kingdom.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
-||df.infra.shopee.
 %2Fevent.gif%3F
+||df.infra.shopee.
 ||mssdk*.capcutapi.com^
 ||cnt.winporn.
 ||t*.zcvh.net^
@@ -370,8 +372,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||api*.amplitude.com^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
-||ulog.*.kwai-pro.com^
 ||23.109.87.
+||ulog.*.kwai-pro.com^
 ||static*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||appanalysis*.banggood.com^
@@ -397,8 +399,8 @@ google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 ||sf*-ttcdn-tos.pstatp.com^
 @@||p*-sdbk2-media.byteimg.com^
 ||ssp*.rtb.beeline.ru^
-||stats*.videonow.ru^
 ||pixel.archive.
+||stats*.videonow.ru^
 ||api*.moengage.com^
 ||hba*.hepsiburada.com^
 ||bdcpro*.techweb.com.cn^
@@ -425,6 +427,7 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||sgtm.wimdu.
 ||analytics.ticketmaster.
 ||snowplow-collector.
+||same*.stockstar.com^
 @@||p*-ecop-imagex.byteimg.com^
 ||gcw*.2liang.cn^
 @@||lf*-webcast-cdn-tos.bytegecko.com^
@@ -433,25 +436,22 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||fpb1.chinacar.
 ||pixel-*.convertagain.net^
 ||analytics*.prezly.com^
-||collector.xhamster*.
 |167.206.10.148^
+||collector.xhamster*.
 ||union*.365inews.com^
 ||collector*.ex.co^
 ||bpc-***.leadintelligent.com^
 ||s4-***.leadchina.cn^
-||sax*.sina.
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
-||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||impservice*.yodao.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||js*.abolezi.com^
-||sam*.baby-kingdom.com^
 ||107.167.16.*.gif
 ||ja*.gamersky.com^
 ||vns86.oss-*.aliyuncs.com^
