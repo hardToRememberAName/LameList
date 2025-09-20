@@ -1,4 +1,4 @@
-# Update time: 2025-09-19 20:25:59
+# Update time: 2025-09-20 08:57:15
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -45,13 +45,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
 ||onetrust.
-||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -73,7 +73,6 @@
 ||saxs.sina.
 ||adsame.
 728x90.jpg|
-||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -99,6 +98,7 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+||acookie.*.gif?
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -397,8 +397,8 @@ google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 ||sf*-ttcdn-tos.pstatp.com^
 @@||p*-sdbk2-media.byteimg.com^
 ||ssp*.rtb.beeline.ru^
-||pixel.archive.
 ||stats*.videonow.ru^
+||pixel.archive.
 ||api*.moengage.com^
 ||hba*.hepsiburada.com^
 ||bdcpro*.techweb.com.cn^
