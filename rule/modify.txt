@@ -1,4 +1,4 @@
-# Update time: 2025-09-21 20:22:34
+# Update time: 2025-09-22 09:04:13
 # 
 207.148.44.179$network
 ||ysx8.vip^$third-party
@@ -6618,6 +6618,10 @@ sogou.com###bottom_appad
 epwk.com##.head_banner
 55haitao.com##.bbs-bottom-popup
 xyj321.com##.foot_alert_wrap
+||xml.opera.com^$ctag=device_tv
+||config.ioam.de^$ctag=device_tv|device_other
+||de.ioam.de^$ctag=device_tv
+||drscdn.500px.org^$ctag=device_tv
 ip.sb##[style='text-align: center;margin: 20px 0;width: 100%;']
 ##div.poi-row a > IMG[width='100%'][height='auto'][src]
 ##DIV[data-text-ad]
@@ -6932,7 +6936,6 @@ www.xda-developers.com##.adzone-above-latest
 ##DIV#div1.div-relative[style='display:block;']
 www.jmhongyan.com##ins[class],.container p
 /yinghuacd/bottom.js
-||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 baike.baidu.com###J-attention-wrapper
 ##DIV.footer-appload.js-footer-appload
 ||manmanju.com/mg/show*.js
@@ -7116,7 +7119,6 @@ sogou.com##.pc-brand-wrapper
 ##div[id] > div[style*='z-index: 2147483647; width: 100vw; background: url']
 @@||cqshuda.com/template/conch/asset/js/conch.vip.js
 .xyz/gatsby?$third-party
-||baidu.com/rec?*=ad&
 ||627txt.com/da/*js
 baidu.com#@##page-pre
 ##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
@@ -7315,7 +7317,6 @@ bing.com,cn.bing.net##.adsMvC
 /assets/publish/*.1.js$~third-party
 .xyz:*/hm$third-party
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
-||feijisu*.com/js/huimi-
 ##[src^='https://dingbu.bj.bcebos.com/']
 ||qimiaomh.com/muban/m/static/js/common.js
 ##[href*='snnrb.com']
@@ -7490,7 +7491,6 @@ ix6080.com##DIV[style$='vw; display: block;']
 so.com##.inner_left
 www.xhfz2.com##DIV.HomeTuList
 unpkg.com/aladug/*.js
-||g.163.com/*&affiliate=
 baidu.com##DIV[class='qrcode call']
 /js/statistics/user_ad.js
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
@@ -7789,7 +7789,6 @@ sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 ##div#playlistbtn > A[href='/ht.html']
 bing.com,cn.bing.net##a[h$=",Ads"]
 .com/candy*.js$third-party
-||baidu.com/newspage/api/getmobads?
 /js/news2zz.js
 ##body#nr_body.nr_all.c_nr > section[id]
 ##[style='top: 8.2vw; display: block;']
@@ -7836,10 +7835,6 @@ qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 10
 ||killcovid2021.com/*.mp4
 cloudflareinsights.com$third-party
 ##[src^="https://img.sobot.com/chatres/"][title="sb"]
-||xml.opera.com^$ctag=device_tv
-||config.ioam.de^$ctag=device_tv|device_other
-||de.ioam.de^$ctag=device_tv
-||drscdn.500px.org^$ctag=device_tv
 huya.com###J_duyaHeaderRight > .clearfix.duya-header-control > .hy-nav-download.hy-nav-right
 up.woozooo.com##.ves
 suning.com##DIV.sn-sidebar:nth-child(41) > DIV.sn-sidebar-tabs.sn-sidebar-bottom-tabs:nth-child(3) > DIV.sn-sidebar-tab.sn-sidebar-wider-tab.sn-sidebar-code.sn-sidebar-tab-js.sn-sidebar-tab-hover:nth-child(3)
@@ -10357,6 +10352,7 @@ barryblogs.com##.ad-single-top
 ||hh010.com/static/image/fff/
 ||sass.hk/plus/mytag_js.php?aid=
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
+||baidu.com/newspage/api/getmobads?
 myday.com.tw##.myday_ad_950
 1kkk.com,dm5.com##.yddiv
 anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
@@ -11696,6 +11692,7 @@ qq.com##a[href^="http://www.10100000.com/"]
 @@||jav777.xyz/advertise/
 ##a[href="/ht.html"]
 image.baidu.com##.tjImgli
+||feijisu*.com/js/huimi-
 ###aside_cat_ad_bottom
 zhujicankao.com##.eboxx
 discuss.com.hk,uwants.com###right_column
@@ -16815,6 +16812,7 @@ jisilu.cn##div[style^="height:60px; width:960px;"]
 lanrentuku.com##.down_btn2
 /adcg/*
 ||bian-min.com/javascript/a/detail.js
+||g.163.com/*&affiliate=
 nick20.com###body_page_sharer ~ table[width="100%"]
 easyicon.net##.page_big_adv
 @@||notafree.host^$generichide
@@ -18085,6 +18083,7 @@ baidu.com##.ec_sma_im
 abmedia.io##.pum
 myday.com.tw##.myday_ad_right
 ||mowenxi.com/1.png
+||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 gs.chinanews.com.cn##.div1000_2 + .div980
 juxia.com##.index_bttg
 dailymotion.com#@#.ad_box
@@ -20789,6 +20788,7 @@ toolfk.com##wavy + div[style]
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
 tongxiang.net##.x15sdv.display_3_3
 ||cnzzla.com/public/scripts/money.js
+||baidu.com/rec?*=ad&
 baidu.com###search_bottomad
 m.baidu.com##.ec_adv
 ||eastday.com/jsfile/kuaiya_
