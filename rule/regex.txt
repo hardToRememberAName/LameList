@@ -1,4 +1,4 @@
-# Update time: 2025-09-27 20:21:50
+# Update time: 2025-09-28 09:05:27
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -45,13 +45,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
-||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||onetrust.
+||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -108,12 +108,6 @@
 ||fls-*.amazon.com^
 ||hbbtv.*.de^
 |lgtvsdp.com^
-||bpc-***.leadintelligent.com^
-||s4-***.leadchina.cn^
-@@||lf*-cdn-tos.bytegoofy.com^
-@@||p*-img.searchpstatp.com^
-@@||lf*material.searchpstatp.com^
-@@||p*.toutiaoimg.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||matt.mercadolibre.
@@ -122,14 +116,15 @@
 ||tracking.olx.
 ||adservice.google.
 notifications.google.com%2Fg%2Fimg%2F*.gif
+@@||p*-img.searchpstatp.com^
 @@||p*-passport.byteacctimg.com^
 ||host*.carl-ras.dk^
 |load.sst.
 ||log*-normal-*.tiktokv.us^
 ||allsportsflix.
 ||hw-sh-pcdn-*.biliapi.net^
-||faro-collector-prod-*.grafana.net^
 ||ysdm*.ys137.com.cn^
+||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
@@ -326,8 +321,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 @@||p*-ppx-sign.byteimg.com^
 ||event.*.karrotmarket.com^
 ||ulog.*.ksapisrv.com^
-||servo-report.dvdfab.
 ||a*.chajiaotong.com^
+||servo-report.dvdfab.
 ||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||c*hit.zerkalo.io^
@@ -351,8 +346,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
-||df.infra.shopee.
 %2Fevent.gif%3F
+||df.infra.shopee.
 ||cnt.winporn.
 ||mssdk*.capcutapi.com^
 ||ulog*.kwai-pro.com^
@@ -414,8 +409,8 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||analytics*.carambo.la^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
-%2Frw%2Fbeacon_
 ||thegreatesthits.
+%2Frw%2Fbeacon_
 ||d*.xinshipu.com^
 ||p*-ad-sign.byteimg.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
@@ -436,6 +431,11 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||collector.xhamster*.
 ||union*.365inews.com^
 ||collector*.ex.co^
+@@||lf*-cdn-tos.bytegoofy.com^
+@@||lf*material.searchpstatp.com^
+@@||p*.toutiaoimg.com^
+||bpc-***.leadintelligent.com^
+||s4-***.leadchina.cn^
 ||sax*.sina.
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -457,6 +457,7 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||ky891.oss-*.aliyuncs.com^
 ||107.167.22.*.gif
 ||bitgin^
+||venuspro^
 ||stepup99^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
