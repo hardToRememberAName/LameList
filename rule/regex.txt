@@ -1,4 +1,4 @@
-# Update time: 2025-10-02 20:24:48
+# Update time: 2025-10-03 08:58:13
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -45,12 +45,12 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||ad*.nownews.com^
 ||onetrust.
 ||allyes.
 ||icast.
@@ -72,6 +72,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+728x90.jpg|
+||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -97,8 +99,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-728x90.jpg|
-||acookie.*.gif?
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -340,8 +340,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||metric*.rediff.com^
 ||p*-ad.byteimg.com^
 @@||bgp.video-upload-v*.lf.bytelb.net^
-||tnc*.zijieapi.com^
 ||ac*.faxingchina.com^
+||tnc*.zijieapi.com^
 ||v*-novelapp.fqnovelvod.com^
 ||use-trk*.bluevoox.com^
 ||log*.zijieapi.com^
@@ -405,11 +405,12 @@ google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||logger-*.dailymotion.com^
 ||ub.galaxus.
-||polaris*-normal-*.zijieapi.com^
 ||bdlm*.hc360.com^
+||polaris*-normal-*.zijieapi.com^
 |a.klaviyo.com^
 %2Fopen.aspx%3F
 ||analytics*.carambo.la^
+||ya*.dwstatic.com^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
 ||thegreatesthits.
@@ -445,7 +446,6 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||impservice*.yodao.com^
-||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||js*.abolezi.com^
