@@ -1,4 +1,4 @@
-# Update time: 2025-10-06 20:26:32
+# Update time: 2025-10-07 08:59:25
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -45,13 +45,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
-||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||ad*.nownews.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -73,7 +73,6 @@
 ||saxs.sina.
 ||adsame.
 728x90.jpg|
-||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -99,6 +98,7 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+||acookie.*.gif?
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -121,8 +121,8 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 @@||p*-passport.byteacctimg.com^
 |load.sst.
 ||host*.carl-ras.dk^
-||log*-normal-*.tiktokv.us^
 ||allsportsflix.
+||log*-normal-*.tiktokv.us^
 ||hw-sh-pcdn-*.biliapi.net^
 ||ysdm*.ys137.com.cn^
 ||faro-collector-prod-*.grafana.net^
@@ -154,7 +154,6 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 ||sax*.sina.
 ||iptracker-lb-*.amazonaws.com^
 @@||d*-magic.static.yximgs.com^
-||impservice*.youdao.com^
 ||pixel*.adswizz.com
 ||ali-bj-pcdn-*.biliapi.net^
 ||tccd.douglas.
@@ -186,7 +185,6 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||report*.appmetrica.webvisor.com^
 ||log-collector.shopee.
 ||ad*.ettoday.net^
-||impservice*.yodao.com^
 ||beacons*.gvt3.com^
 ||rtlog*.tiktokv.com^
 ||flurry.agentportal.*.yahoodns.net^
@@ -296,7 +294,6 @@ directtrack.*.js
 @@||p*-novel.byteimg.com^
 ||st-*.dynamicyield.com^
 ||ads*-normal-lq.amemv.com^
-||ja*.gamersky.com^
 ||host*.ncoi.nl^
 ||ulog-*.ksapisrv.com^
 ||lively-collect-elb-*.amazonaws.com^
@@ -316,8 +313,8 @@ directtrack.*.js
 ||staging-*.ispot.tv^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||mon*.tiktokv.us^
-||datacollector-*.dt.dbankcloud.cn^
 ||cas.*.criteo.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||qpb*.sohu.com^
 ||batchlogging*-noneu.truecaller.com^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
@@ -395,8 +392,8 @@ google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 ||ulog*.kwaipros.com^
 ||log*-*.tiktokv.com^
 ||p*-local-ads.byteimg.com^
-||logs-*.rebxgame.com^
 ||158.247.208.
+||logs-*.rebxgame.com^
 ||df.infra.sz.shopee.
 ||geoloc*.geostats.ovh^
 |load.gtm.
@@ -421,8 +418,8 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||ya*.dwstatic.com^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
-||thegreatesthits.
 %2Frw%2Fbeacon_
+||thegreatesthits.
 ||d*.xinshipu.com^
 ||p*-ad-sign.byteimg.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
@@ -440,8 +437,8 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||fpb1.chinacar.
 ||pixel-*.convertagain.net^
 ||analytics*.prezly.com^
-||collector.xhamster*.
 |167.206.10.148^
+||collector.xhamster*.
 ||union*.365inews.com^
 ||collector*.ex.co^
 ||bpc-***.leadintelligent.com^
@@ -451,9 +448,12 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
+||impservice*.youdao.com^
+||impservice*.yodao.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||107.167.16.*.gif
+||ja*.gamersky.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
