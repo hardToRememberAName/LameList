@@ -1,4 +1,4 @@
-# Update time: 2025-10-10 08:59:27
+# Update time: 2025-10-10 09:21:12
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -155,6 +155,7 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 ||sax*.sina.
 ||iptracker-lb-*.amazonaws.com^
 @@||d*-magic.static.yximgs.com^
+||impservice*.youdao.com^
 ||ali-bj-pcdn-*.biliapi.net^
 ||pixel*.adswizz.com
 ||tccd.douglas.
@@ -186,6 +187,7 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||log-collector.shopee.
 ||ad*.ettoday.net^
 ||report*.appmetrica.webvisor.com^
+||impservice*.yodao.com^
 ||beacons*.gvt3.com^
 ||rtlog*.tiktokv.com^
 ||flurry.agentportal.*.yahoodns.net^
@@ -295,6 +297,7 @@ directtrack.*.js
 @@||p*-novel.byteimg.com^
 ||st-*.dynamicyield.com^
 ||ads*-normal-lq.amemv.com^
+||ja*.gamersky.com^
 ||ulog-*.ksapisrv.com^
 ||host*.ncoi.nl^
 ||lively-collect-elb-*.amazonaws.com^
@@ -449,12 +452,9 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
-||impservice*.youdao.com^
-||impservice*.yodao.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||107.167.16.*.gif
-||ja*.gamersky.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
