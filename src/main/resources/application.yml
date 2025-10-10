@@ -45,6 +45,7 @@ application:
       #- 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt' #EasyPrivacy #Combined in AdGuard DNS filter
       - 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt' #EasyPrivacy third party
       # - 'https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt' #bongochong/CombinedPrivacyBlockLists
+      - 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt' #crazy-max/WindowsSpyBlocker
       - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt' #Amazon
       - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt' #Apple
       - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.huawei.txt' #Huawei
