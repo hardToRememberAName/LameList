@@ -1,4 +1,4 @@
-# Update time: 2025-10-10 08:53:03
+# Update time: 2025-10-10 08:59:27
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -73,7 +73,17 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+728x90.jpg|
 ||acookie.*.gif?
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -99,16 +109,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-728x90.jpg|
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||matt.mercadolibre.
@@ -152,6 +152,7 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 ||mon*-*.tiktokv.us^
 ||cnt.yeptube.
 @@||lf*-webcastcdn-tos.douyinstatic.com^
+||sax*.sina.
 ||iptracker-lb-*.amazonaws.com^
 @@||d*-magic.static.yximgs.com^
 ||ali-bj-pcdn-*.biliapi.net^
@@ -225,6 +226,7 @@ d4?appid*type*
 %2Fvia%2Fo%3Fh%3D
 ||pixel-*.rubiconproject.com^
 ||mcs-*.lemon8-app.com^
+||js*.abolezi.com^
 ||ads*-normal-hl.zijieapi.com^
 ||log-va*.capcutapi.com^
 ||track.tiara.
@@ -350,6 +352,7 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log*.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||log*.aliyuncs.com^
+||sam*.baby-kingdom.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
 ||df.infra.shopee.
@@ -413,6 +416,7 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 |a.klaviyo.com^
 %2Fopen.aspx%3F
 ||analytics*.carambo.la^
+||ya*.dwstatic.com^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
 ||thegreatesthits.
@@ -425,6 +429,7 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||sgtm.wimdu.
 ||analytics.ticketmaster.
 ||snowplow-collector.
+||same*.stockstar.com^
 @@||p*-ecop-imagex.byteimg.com^
 ||gcw*.2liang.cn^
 @@||lf*-webcast-cdn-tos.bytegecko.com^
@@ -439,20 +444,15 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||collector*.ex.co^
 ||bpc-***.leadintelligent.com^
 ||s4-***.leadchina.cn^
-||sax*.sina.
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
-||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||impservice*.yodao.com^
-||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
-||js*.abolezi.com^
-||sam*.baby-kingdom.com^
 ||107.167.16.*.gif
 ||ja*.gamersky.com^
 ||vns86.oss-*.aliyuncs.com^
