@@ -63,7 +63,7 @@ application:
       - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt' #hoshsadiq/adblock-nocoin-list
       
       # Malicious URLs
-      - 'github.com/AdguardTeam/HostlistsRegistry/raw/refs/heads/main/assets/filter_11.txt' #Adguard malicious URLs
+      - 'https://raw.githubusercontent.com/AdguardTeam/HostlistsRegistry/refs/heads/main/assets/filter_11.txt' #Adguard malicious URLs
       - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt' #hagezi - Top Most Abused Top Level Domains
       
       # Others
