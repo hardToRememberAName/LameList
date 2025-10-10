@@ -64,7 +64,7 @@ application:
       
       # Malicious URLs
       - 'github.com/AdguardTeam/HostlistsRegistry/raw/refs/heads/main/assets/filter_11.txt' #Adguard malicious URLs
-      #- 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt' #hagezi - Top Most Abused Top Level Domains
+      - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt' #hagezi - Top Most Abused Top Level Domains
       
       # Others
       #- 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt' #durablenapkin/scamblocklist
