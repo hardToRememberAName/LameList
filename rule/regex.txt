@@ -1,4 +1,4 @@
-# Update time: 2025-10-11 20:22:20
+# Update time: 2025-10-12 09:02:33
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -73,6 +73,7 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+728x90.jpg|
 ||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
@@ -99,7 +100,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-728x90.jpg|
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -202,8 +202,8 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 @@||v*.douyinvod.com^
 ||grs.dbankcloud.
 ||tracking-v*.a.run.app^
-||tracking*.euroads.fi^
 ||stats*.credit-cooperatif.coop^
+||tracking*.euroads.fi^
 @@||img*.funshion.com^
 ||a*.smlog.co.kr^
 ||track.zalando.
@@ -220,8 +220,8 @@ click.official.infomaniak.com%2Fo%2F
 ||ubt.tracking.shopee.
 ||cnt.tubeon.
 d4?appid*type*
-||events*.cre.ma^
 ||aff*.kolektiva.net^
+||events*.cre.ma^
 %2Fvia%2Fo%3Fh%3D
 ||pixel-*.rubiconproject.com^
 ||mcs-*.lemon8-app.com^
@@ -398,8 +398,8 @@ google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 ||sf*-ttcdn-tos.pstatp.com^
 @@||p*-sdbk2-media.byteimg.com^
 ||ssp*.rtb.beeline.ru^
-||stats*.videonow.ru^
 ||pixel.archive.
+||stats*.videonow.ru^
 ||api*.moengage.com^
 ||hba*.hepsiburada.com^
 ||bdcpro*.techweb.com.cn^
@@ -413,6 +413,7 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 |a.klaviyo.com^
 %2Fopen.aspx%3F
 ||analytics*.carambo.la^
+||ya*.dwstatic.com^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
 ||thegreatesthits.
@@ -448,7 +449,6 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||impservice*.yodao.com^
-||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||js*.abolezi.com^
