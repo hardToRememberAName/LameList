@@ -1,4 +1,4 @@
-# Update time: 2025-10-12 20:22:29
+# Update time: 2025-10-13 09:03:44
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -46,13 +46,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
-||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||onetrust.
+||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -152,7 +152,6 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 ||bi-eventtracker-*.amazonaws.com^
 ||cnt.yeptube.
 @@||lf*-webcastcdn-tos.douyinstatic.com^
-||sax*.sina.
 ||iptracker-lb-*.amazonaws.com^
 @@||d*-magic.static.yximgs.com^
 ||pixel*.adswizz.com
@@ -165,8 +164,8 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 ||ana*.inews24.com^
 ||cnt.nuvid.
 r.rakuten.co.jp%2F*.gif%3Fmpe%3D
-||t*.playdigo.live^
 ||ac*.786ip.com^
+||t*.playdigo.live^
 ||sock*-goguardian.pusher.com^
 ||geotargetly-api-*.com^
 |load.ss.
@@ -253,8 +252,8 @@ d4?appid*type*
 ||backstory.ebay.
 ||event.*.shoplive.cloud^
 ||auth-*.hismarttv.com^
-||stats-*.p2pnow.ru^
 ||batchlogging*-eu.truecaller.com^
+||stats-*.p2pnow.ru^
 ||ads*-normal-lf.amemv.com^
 ||eum*.instana.io^
 ||report.*.gbqofs.io^
@@ -313,8 +312,8 @@ directtrack.*.js
 ||staging-*.ispot.tv^
 ||mon*.tiktokv.us^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
+||cas.*.criteo.com^
 ||qpb*.sohu.com^
 ||batchlogging*-noneu.truecaller.com^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
@@ -351,7 +350,6 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||log*.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||log*.aliyuncs.com^
-||sam*.baby-kingdom.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
 %2Fevent.gif%3F
@@ -415,7 +413,6 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 |a.klaviyo.com^
 %2Fopen.aspx%3F
 ||analytics*.carambo.la^
-||ya*.dwstatic.com^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
 %2Frw%2Fbeacon_
@@ -428,7 +425,6 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||sgtm.wimdu.
 ||analytics.ticketmaster.
 ||snowplow-collector.
-||same*.stockstar.com^
 @@||p*-ecop-imagex.byteimg.com^
 ||gcw*.2liang.cn^
 @@||lf*-webcast-cdn-tos.bytegecko.com^
@@ -443,16 +439,20 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||collector*.ex.co^
 ||bpc-***.leadintelligent.com^
 ||s4-***.leadchina.cn^
+||sax*.sina.
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||67.21.92.*.gif
 ||adi*.cnool.net^
 ||tupian888.*.bcebos.com^
+||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||impservice*.yodao.com^
+||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||js*.abolezi.com^
+||sam*.baby-kingdom.com^
 ||107.167.16.*.gif
 ||ja*.gamersky.com^
 ||vns86.oss-*.aliyuncs.com^
