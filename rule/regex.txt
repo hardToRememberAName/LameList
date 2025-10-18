@@ -1,4 +1,4 @@
-# Update time: 2025-10-17 20:26:35
+# Update time: 2025-10-18 08:57:48
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -122,8 +122,8 @@ notifications.google.com%2Fg%2Fimg%2F*.gif
 @@||p*-passport.byteacctimg.com^
 ||host*.carl-ras.dk^
 |load.sst.
-||allsportsflix.
 ||log*-normal-*.tiktokv.us^
+||allsportsflix.
 ||hw-sh-pcdn-*.biliapi.net^
 ||ysdm*.ys137.com.cn^
 ||faro-collector-prod-*.grafana.net^
@@ -168,8 +168,8 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||ac*.786ip.com^
 ||t*.playdigo.live^
 ||sock*-goguardian.pusher.com^
-||geotargetly-api-*.com^
 |load.ss.
+||geotargetly-api-*.com^
 ||tnc16-*.hypic.com^
 ||mcs-va-*.tiktokv.com^
 ||fpb*.51edu.com^
@@ -373,8 +373,8 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||api*.amplitude.com^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
-||23.109.87.
 ||ulog.*.kwai-pro.com^
+||23.109.87.
 ||static*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
@@ -437,8 +437,8 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||fpb1.chinacar.
 ||pixel-*.convertagain.net^
 ||analytics*.prezly.com^
-|167.206.10.148^
 ||collector.xhamster*.
+|167.206.10.148^
 ||union*.365inews.com^
 ||collector*.ex.co^
 ||bpc-***.leadintelligent.com^
