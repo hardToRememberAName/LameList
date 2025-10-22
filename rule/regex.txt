@@ -1,4 +1,4 @@
-# Update time: 2025-10-21 20:27:33
+# Update time: 2025-10-22 09:03:20
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -73,7 +73,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||acookie.*.gif?
 728x90.jpg|
 ||zcchyr*.xyz^
 ||js.*2023*.live^
@@ -100,6 +99,7 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+||acookie.*.gif?
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -414,6 +414,7 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 |a.klaviyo.com^
 %2Fopen.aspx%3F
 ||analytics*.carambo.la^
+||ya*.dwstatic.com^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*-normal-lf.zijieapi.com.dhcp^
 %2Frw%2Fbeacon_
@@ -449,7 +450,6 @@ notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
 ||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||impservice*.yodao.com^
-||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||js*.abolezi.com^
