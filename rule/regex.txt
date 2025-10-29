@@ -1,4 +1,4 @@
-# Update time: 2025-10-28 20:26:41
+# Update time: 2025-10-29 09:05:20
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -47,12 +47,12 @@
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 ||ad*.nownews.com^
-||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,7 +74,6 @@
 ||saxs.sina.
 ||adsame.
 728x90.jpg|
-||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -100,6 +99,7 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+||acookie.*.gif?
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -109,8 +109,6 @@
 ||fls-*.amazon.com^
 ||hbbtv.*.de^
 |lgtvsdp.com^
-||bpc-***.leadintelligent.com^
-||s4-***.leadchina.cn^
 @@||v*.douyinvod.com^
 ||ads*-normal-lf.zijieapi.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -165,6 +163,8 @@
 ||ads*-normal.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||bpc-***.leadintelligent.com^
+||s4-***.leadchina.cn^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -501,6 +501,7 @@ analytics-*.aasaam.com
 ||vst.videolink.
 ||158.247.208.
 ||logs-*.rebxgame.com^
+||data-track*.yingxiong.com^
 ||geoloc*.geostats.ovh^
 |load.gtm.
 ||ssp*.rtb.beeline.ru^
