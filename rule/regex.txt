@@ -1,4 +1,4 @@
-# Update time: 2025-11-01 09:05:56
+# Update time: 2025-11-01 20:23:20
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -36,6 +36,7 @@
 ||ads*-normal-lq.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||mobiadvert*.livesportmedia.eu^
 ||ad-*.appacc.dbankedge.cn^
 ||ads*.bojijulebu.com^
@@ -46,12 +47,12 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||ad*.nownews.com^
 ||onetrust.
 ||allyes.
 ||icast.
