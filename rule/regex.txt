@@ -1,4 +1,4 @@
-# Update time: 2025-11-04 20:29:05
+# Update time: 2025-11-05 09:04:30
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -74,8 +74,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||acookie.*.gif?
 728x90.jpg|
+||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
