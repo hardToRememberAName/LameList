@@ -1,4 +1,4 @@
-# Update time: 2025-11-07 20:26:36
+# Update time: 2025-11-08 09:00:17
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -234,6 +234,7 @@ analytics-*.aasaam.com
 ||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
+||log*-normal-*.tiktokv.com
 ||api-*.hismarttv.com^
 ||partner.superbahisaffiliates*.com^
 ||admob-app-id-*.firebaseio.com^
@@ -479,6 +480,7 @@ analytics-*.aasaam.com
 ||i-*.ci360.sas.com^
 ||ad*.bilgin.pro^
 ||app-analytics-*.snapchat.com^
+||tnc*.tiktokv.com^
 ||api*.amplitude.com^
 ||report.*.qq.com^
 ||px*.mediahills.ru^
