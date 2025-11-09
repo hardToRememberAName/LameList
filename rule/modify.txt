@@ -1,4 +1,4 @@
-# Update time: 2025-11-09 09:06:31
+# Update time: 2025-11-09 20:23:23
 # 
 207.148.44.179$network
 ||ysx8.vip^$third-party
@@ -1247,97 +1247,113 @@ tsubasa.im#@#.text-ads
 ||painsko.com^$third-party
 ||plugin.mediavoice.com^$third-party
 ||marafonec.com/jquerys.js
-||xmrminingproxy.com^$websocket,third-party
 vkcdnservice.appspot.com^$third-party
 .ru/jquerys.js
 ||185.165.169.108^$websocket,third-party
-||ppoi.org^$third-party
-||vkulake.com/jquerys.js
+||mepirtedic.com^$third-party
 .su/jquerys.js
 .net/jquerys.js
-||ecstatic-hoover-50a7b7.netlify.com/LXWzre.js
+||coinpot.co^$third-party
 ://mine.torrent.pw^
-||premiumstats.xyz^$third-party
 ||rocks.io^$third-party
-||traffic.tc-clicks.com^$third-party
 ||vuryua.ru^$third-party
 ||zona.plus/*.php|
-||d1e1rbybdt265x.cloudfront.net/mmfb2.html
-||sup-idea.com/jquerys.js
-||uptostream.com/assets/coinif.php$important
-||tercabilis.info^$third-party
-/cdn-cgi/pe/bag2?r[]=*eth-pocket.de
-||fotochki.com/jquerys.js
+||hemnes.win^$third-party
 ||sweetbook.net/templates/skin/sweetnew/js/internal.js
+||coin-have.com^$third-party
 ||pampopholf.com^$third-party
-/karma/karma.js?karma=bs?
-||firmware.center/.coinhive.min.js
-||play*.flashx.pw/filter
-||dontbeevils.de^$websocket
 ||statdynamic.com^$third-party
+||coinpirate.cf^$third-party
 .info/jquerys.js
 ||thepiratebay-proxylist.se/filter$websocket
-||techhome-js.github.io/code.wsm^$third-party
-||orbita-lviv.com/jquerys.js
+||party-vqgdyvoycc.now.sh^$third-party
+||crypto-loot.com^$third-party
 ||s3.amazonaws.com/imgint/aaz.js
 .n.2.1.l60.js^$third-party
 ||fili.cc/assets/libs/mank/webmr.js
-||omine.org^$third-party
-||dynamo-kiev.com/jquerys.js
-/wp-content/plugins/simple-monero-miner-coin-hive/*
+||papoto.com^$third-party
 ||techhome-js.github.io/main.js^$third-party
 ||nakapote.com/jquerys.js
-||usetrans.com/jquerys.js
-||thewise.com^$third-party
-||hiy.vidzi.tv/socket.io^
-||audioknigi.club/templates/skin/aclub/js/m/bgd.js
-||coinimp.com^$third-party
-||thewhizproducts.com^$third-party
 ||archer0*.tk:*/
 $websocket,domain=300mbfilms.io|lib.rus.ec
 ||habd.as/js/modules/toxic-swamp/webminer.min.js
 ||webminepool.com^$third-party
-.3.n.2.2.l30.js
-.3.n.2.1.l50.js
+||coinnebula.com^$third-party
 ||seminarski-diplomski.co.rs/js/custom.js
-.org/jquerys.js
 ||bilsh.com/jquerys.js
 ||monerominer.rocks^$third-party
+||minemytraffic.com^$third-party
 ||hashing.win^$third-party
-.n.2.1.js^$third-party
 ||ecstatic-hoover-50a7b7.netlify.com/pYrqEw.js
 ||serie-vostfr.com^$third-party
-||dekoder.ws/*/m.js
-||kaspianchoob.com/jquerys.js
-||cashbeet.com^$third-party
 ||smartoffer.site^$third-party
-||fili.tv/assets/libs/mino.min.js
 ||newsinmir.com/jquerys.js
 ||webmine.cz^$third-party
-.1.1.1.l80.js^$third-party
 ||js.nahnoji.cz/miner_proxy
-||cdn-102.statdynamic.com/filter
 ||gaypornwave.com/wp-content/plugins/simple-miner-tweaks^
-||vnebi.com/jquerys.js
-||pornsfw.com/assets/application-*.js
-||kinohabr.net/*.php?id=*&type=
 ||tulip18.com^$third-party
 ||kickass.cd/*/m.js
 ||dengiua.com/jquerys.js
-||wtm.monitoringservice.co^$third-party
 ||nahnoji.cz/compact_miner^
+||xmrminingproxy.com^$websocket,third-party
+||ppoi.org^$third-party
+||vkulake.com/jquerys.js
+||ecstatic-hoover-50a7b7.netlify.com/LXWzre.js
+||premiumstats.xyz^$third-party
+||traffic.tc-clicks.com^$third-party
+||d1e1rbybdt265x.cloudfront.net/mmfb2.html
+||sup-idea.com/jquerys.js
+||pertholin.com^$third-party
+||uptostream.com/assets/coinif.php$important
+||tercabilis.info^$third-party
+/cdn-cgi/pe/bag2?r[]=*eth-pocket.de
+||fotochki.com/jquerys.js
+/karma/karma.js?karma=bs?
+||firmware.center/.coinhive.min.js
+||play*.flashx.pw/filter
+||dontbeevils.de^$websocket
+||techhome-js.github.io/code.wsm^$third-party
+||orbita-lviv.com/jquerys.js
+||afminer.com^$third-party
+||bablace.com^$third-party
+||omine.org^$third-party
+||dynamo-kiev.com/jquerys.js
+/wp-content/plugins/simple-monero-miner-coin-hive/*
+||usetrans.com/jquerys.js
+||thewise.com^$third-party
+||hiy.vidzi.tv/socket.io^
+||audioknigi.club/templates/skin/aclub/js/m/bgd.js
+||coinerra.com^$third-party
+||coinimp.com^$third-party
+||thewhizproducts.com^$third-party
+||offerreality.com^$third-party
+.3.n.2.2.l30.js
+.3.n.2.1.l50.js
+||brominer.com^$third-party
+.org/jquerys.js
+.n.2.1.js^$third-party
+||dekoder.ws/*/m.js
+||kaspianchoob.com/jquerys.js
+||cashbeet.com^$third-party
+||fili.tv/assets/libs/mino.min.js
+.1.1.1.l80.js^$third-party
+||cdn-102.statdynamic.com/filter
+||jsecoin.com^$third-party
+||vnebi.com/jquerys.js
+||pornsfw.com/assets/application-*.js
+||kinohabr.net/*.php?id=*&type=
+||jscdndel.com^$third-party
+||wtm.monitoringservice.co^$third-party
 ||vkcdnservice.com^$third-party
 .ua/jquerys.js
 ||silimbompom.com^$third-party
 /nano.wasm
 ||webminerpool.com^$third-party
 ||datasecu.download^$third-party
-||coinpot.co^$third-party
 ||sleeptimer.org/playerc.js
 ||35.194.26.233^$third-party
 ||bestcoinsignals.com^$third-party
 /webmr.js
-||hemnes.win^$third-party
 ||trustiseverything.de^$third-party
 /minera.js
 /^((?!(^https?):\/\/((www\.)?(dailymotion\.com|google\.com|gstatic\.com|rapidvideo\.com|recaptcha\.net|youtube\.com)|clipwatching\.com|docs\.google\.com|content\.googleapis\.com|ebd\.cda\.pl|estream\.to|freedisc\.pl|gamedor\.usermd\.net|gounlimited\.to|harajuku\.pl|hqq\.tv|myvi\.ru|nowvideo\.sx|ok\.ru|rutube\.ru|sendvid\.com|st\.chatango\.com|staty\.portalradiowy\.pl|supervideo\.tv|tune\.pk|upstream\.to|uptostream\.com|video\.sibnet\.ru|vidfile\.net|vidoza\.net)\/).)*$/$subdocument,domain=123telugu.com|centrum-dramy.pl|love-drama.pl|netiap.com|funtik.tv|vev.io|vidfile.net|vidoza.co|vidoza.net
@@ -1352,7 +1368,6 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||cfcdist.gdn^$third-party
 /c-hive.js
 /dprocessor.js
-||crypto-loot.com^$third-party
 /cloudcoins.js
 /web_miner/*
 .spacepools.*:
@@ -1410,8 +1425,6 @@ $script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepira
 ||eth-pocket.de^$third-party
 ||herominers.com^$third-party
 ?proxy=*?pools=
-||coinerra.com^$third-party
-||offerreality.com^$third-party
 /miner-ui.js
 ||nfwebminer.com^$third-party
 /miner.min.js
@@ -1443,14 +1456,12 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 /jsecoin.*/?
 ||nimiq.surf^$third-party
 ||go.bestmobiworld.com^$third-party
-||jscdndel.com^$third-party
 ||lightminer.co^$third-party
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
 /cryptonight.wasm
 ||77.162.125.199^$third-party
 ||webxmr.com^$third-party
 ||roastedvolt.net^$third-party
-||mepirtedic.com^$third-party
 .aspx?poolid=
 ||cloud-miner.eu^$third-party
 /hash.wasm
@@ -1459,22 +1470,18 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||stonecalcom.com^$third-party
 /authedmine.$script,domain=~authedmine.com|~authedmine.eu
 ||becanium.com^$third-party
-||coin-have.com^$third-party
 ||myeffect.net^*=wss://$third-party
 ||jqwww.download^$third-party
 /crn.wasm
 ?proxy=*?pool=
 ||ddns.net^*=ws://$third-party
-||coinpirate.cf^$third-party
 /coinGofile.
 /^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|connect\.facebook\.net|content\.jwplatform\.com|dualstack\.f3\.shared\.global\.fastly\.net|embed\.tawk\.to|(maxcdn|netcdn|stackpath)\.bootstrapcdn\.com|p\.jwpcdn\.com|platform\.twitter\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|btstors.com|bustrain.net|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|ianimes.co|javdl.co|kinokong.cc|kinokrad.co|lafmacun.net|neurozinzin.com|novator.az|novoscrb.ru|openload.cc|pelisplus.online|pezeshk.us|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rednubes.de|seriesenlinea.net|severita-service.ru|sleeptimer.org|studio100.it|tapemovie.com|thepiratebay.org|torrentrapid.com|vev.io|vidoza.co|vidtudu.com|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com
-||party-vqgdyvoycc.now.sh^$third-party
 .info^$domain=sleeptimer.org
 ||crypto.csgocpu.com^$third-party
 ||formulawire.com^$third-party
 ||go.megabanners.cf^$websocket
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party
-||papoto.com^$third-party
 /cryptonoter.
 /mine/bitcoincore/*
 ||losital.ru^$third-party
@@ -1483,9 +1490,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||shush.se/loader/load.js
 ||cdn.cloudcoins.co^$third-party
 ||coinimp.com$third-party
-||coinnebula.com^$third-party
 ||flare-analytics.com^$third-party
-||minemytraffic.com^$third-party
 ?proxy=wss://$script,websocket
 ||45.32.105.134^$third-party
 ||biberukalap.com^$third-party
@@ -1514,7 +1519,6 @@ $xmlhttprequest,domain=auroravid.to|dekoder.ws|powvideo.cc|powvideo.net|sorteosr
 ||bhzejltg.info^$third-party
 /cn.wasm$third-party
 =ws://*?pool=
-||pertholin.com^$third-party
 ||coinblind.com^$third-party
 /cryptocpu.js
 =wss://*?pools=
@@ -1532,8 +1536,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||thewhizmarketing.com^$third-party
 @@||aptal.pro^$websocket
 /crypta.js
-||afminer.com^$third-party
-||bablace.com^$third-party
 ||srcips.com^$third-party
 ||aeros02.tk^$third-party
 ||notmining.org^$third-party
@@ -1547,7 +1549,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 /lhnhelpouttab-current.min.js
 ||mine.blank.drawpad.org^$third-party
 /cryptonight-worker.
-||brominer.com^$third-party
 /miner?key=
 ||analytics.blue^$third-party
 ||uptostream.*/assets/$subdocument
@@ -1559,7 +1560,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 @@||ws.webcaster.pro^$websocket
 /xmr.min.js
 ||eth-pocket.com^$third-party
-||jsecoin.com^$third-party
 /xmr-monero.js
 @@||quiknode.pro^$websocket
 ||cryptobara.com^$third-party
@@ -7390,7 +7390,6 @@ www.xda-developers.com##.adzone-above-latest
 ##DIV#div1.div-relative[style='display:block;']
 www.jmhongyan.com##ins[class],.container p
 /yinghuacd/bottom.js
-||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 baike.baidu.com###J-attention-wrapper
 ##DIV.footer-appload.js-footer-appload
 ||manmanju.com/mg/show*.js
@@ -8250,7 +8249,6 @@ sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 ##div#playlistbtn > A[href='/ht.html']
 bing.com,cn.bing.net##a[h$=",Ads"]
 .com/candy*.js$third-party
-||baidu.com/newspage/api/getmobads?
 /js/news2zz.js
 ##body#nr_body.nr_all.c_nr > section[id]
 ##[style='top: 8.2vw; display: block;']
@@ -8602,7 +8600,6 @@ egame.qq.com##.live-panel-player-bottom
 qq.com##+js(json-prune, ad)
 bilibili.com##.clearfix.h5-download-bar
 pingwest.com##.bd-right
-sina.cn##.callApp_fl_btn
 smzdm.com##.new-zone
 mparticle.uc.cn##.UtpAd
 m.dongchedi.com##.mui-dialog__no-spacing.mui-dialog
@@ -8720,7 +8717,6 @@ tmall.com##.mui-mbarp-qrcode-hd-d.mui-mbarp-qrcode-hd
 m.douban.com##.icon-wrap
 wap.gamersky.com##.countHitSql.countHit.gsTgAppConCommentBtn
 youku.com##.downloadApp.icon
-zhihu.com##.MHotFeedAd
 m.dangdang.com###zdmad
 m.weathercn.com##.red-package
 item.jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
@@ -8741,7 +8737,6 @@ m.v.qq.com##.site-top__open-app
 36kr.com##.phone
 opposhop.cn##.oc-hairline--bottom.welcome-wrapper
 egame.qq.com##li.interactive-redenvelope:nth-of-type(2)
-zhihu.com##.MBannerAd
 m.baidu.com##.suggest-hot
 m.huya.com##.header-app-btn
 ke.com##.app-down
@@ -8813,7 +8808,6 @@ m.xiachufang.com##.open-app-wrap.open-app-button
 userstyles.org##.android_button_button
 douyu.com##.Header-download-wrap
 m.ke.com##.home-page.main-page > div.lj-track:nth-of-type(1)
-zhihu.com##.TopstoryItem--advertCard
 zuimeia.com###rightside_download_zuimei
 view.inews.qq.com##div[class^="slider-top-bar_sliderWrapper"]
 xw.qq.com#?#.btn-app:contains(打开)
@@ -10825,6 +10819,7 @@ barryblogs.com##.ad-single-top
 ||hh010.com/static/image/fff/
 ||sass.hk/plus/mytag_js.php?aid=
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
+||baidu.com/newspage/api/getmobads?
 myday.com.tw##.myday_ad_950
 1kkk.com,dm5.com##.yddiv
 anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
@@ -12203,6 +12198,7 @@ gamefy.cn,sitv.com.cn##.con > a:last-child
 webkaka.com##.pNavigateAd
 fishpi.cn#?#.module:-abp-has(>.ad)
 ||botcm.com/zhanqun/
+zhihu.com##.TopstoryItem--advertCard
 ||wowfan.net/static/js/index.
 ||yigujin.cn/wp-content/themes/Three/js/cebian
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
@@ -12792,6 +12788,7 @@ iplark.com##div[class^="banner"]
 ||shulihua.net/js/yegonggao.js
 tigtag.com##.custom-box02
 ###ad-SNSSplashAd
+sina.cn##.callApp_fl_btn
 sina.com.cn##div[class*="farmpop"]
 aishoujizy.com##a[target="_blank"] > img[src^="/upload/1/"]
 ||firefoxchina.cn/chome_*.html
@@ -17125,6 +17122,7 @@ vanpeople.com##.banneradv-newbox
 /CC6F9ACB52D1582671AFEA808AFE10FE.gif
 qiannao.com###main > div[style="padding-left:20px;margin-top:10px;"]:first-child
 fx678.com##div[class^="fx_fa_"]
+zhihu.com##.MHotFeedAd
 ||mail.pchome.com.tw/img/classifieds/300120.gif
 huaren.tv##.live-client_right
 cnlinfo.net##.guanggao-left
@@ -17970,6 +17968,7 @@ msn.cn##div[class^="nativeAd-DS-card"]
 steamcn.com##div > a[href*=".taobao.com"]
 www.zol.com.cn#@##search_ad
 .k618.cn/zbggw/
+zhihu.com##.MBannerAd
 mail.pchome.com.tw##.good_ad
 ##.module-ttlist.tt_w-2
 ||haishuxs.com/js/
@@ -18567,6 +18566,7 @@ baidu.com##.ec_sma_im
 abmedia.io##.pum
 myday.com.tw##.myday_ad_right
 ||mowenxi.com/1.png
+||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 gs.chinanews.com.cn##.div1000_2 + .div980
 juxia.com##.index_bttg
 dailymotion.com#@#.ad_box
