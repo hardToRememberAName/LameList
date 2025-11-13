@@ -1,4 +1,4 @@
-# Update time: 2025-11-13 09:04:18
+# Update time: 2025-11-13 20:28:42
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -110,6 +110,8 @@
 ||fls-*.amazon.com^
 ||hbbtv.*.de^
 |lgtvsdp.com^
+||bpc-***.leadintelligent.com^
+||s4-***.leadchina.cn^
 @@||v*.douyinvod.com^
 ||ads*-normal-lf.zijieapi.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -164,8 +166,6 @@
 ||ads*-normal.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
-||bpc-***.leadintelligent.com^
-||s4-***.leadchina.cn^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -473,6 +473,7 @@ analytics-*.aasaam.com
 ||matomo-demo-*.amazonaws.com^
 ||log*.vietnamplus.vn^
 ||hn-ping*.hashnode.com^
+||sdk.fra-*.braze.eu^
 ||sensorsdata*.read.duokan.com^
 ||logstash-*.radio-canada.ca^
 ||mgbsdk*.matrix.easebar.com^
