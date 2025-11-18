@@ -1,4 +1,4 @@
-# Update time: 2025-11-18 09:03:35
+# Update time: 2025-11-18 20:28:24
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -76,6 +76,15 @@
 ||adsame.
 728x90.jpg|
 ||acookie.*.gif?
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -101,15 +110,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||bpc-***.leadintelligent.com^
 ||s4-***.leadchina.cn^
 @@||v*.douyinvod.com^
@@ -206,10 +206,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||booking-tw^
-||bitgin^
-||venuspro^
-||stepup99^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
