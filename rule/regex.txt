@@ -1,4 +1,4 @@
-# Update time: 2025-11-19 20:28:04
+# Update time: 2025-11-20 09:02:28
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -47,12 +47,12 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||ad*.nownews.com^
 ||onetrust.
 ||allyes.
 ||icast.
