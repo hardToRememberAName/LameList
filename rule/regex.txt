@@ -1,4 +1,4 @@
-# Update time: 2025-11-20 20:27:44
+# Update time: 2025-11-21 09:03:09
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -75,7 +75,6 @@
 ||saxs.sina.
 ||adsame.
 728x90.jpg|
-||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -101,6 +100,7 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+||acookie.*.gif?
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -397,6 +397,7 @@ analytics-*.aasaam.com
 ||xlog*-*.tiktokv.com^
 ||sdk-*.moengage.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
+||stats.*.ronghub.com^
 ||rtlog*.tiktokv.us^
 ||st-*.dynamicyield.com^
 ||bondzgi*.
