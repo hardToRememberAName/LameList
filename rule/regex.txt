@@ -1,4 +1,4 @@
-# Update time: 2025-11-27 20:28:50
+# Update time: 2025-11-28 09:01:56
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -75,6 +75,7 @@
 ||saxs.sina.
 ||adsame.
 728x90.jpg|
+||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -100,7 +101,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-||acookie.*.gif?
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
