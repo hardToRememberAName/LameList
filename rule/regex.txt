@@ -1,4 +1,4 @@
-# Update time: 2025-12-08 20:29:10
+# Update time: 2025-12-09 09:05:48
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -74,8 +74,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||acookie.*.gif?
-728x90.jpg|
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -101,6 +99,8 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
+||acookie.*.gif?
+728x90.jpg|
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
@@ -110,8 +110,6 @@
 ||fls-*.amazon.com^
 ||hbbtv.*.de^
 |lgtvsdp.com^
-||bpc-***.leadintelligent.com^
-||s4-***.leadchina.cn^
 @@||v*.douyinvod.com^
 ||ads*-normal-lf.zijieapi.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -166,6 +164,8 @@
 ||ads*-normal.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||bpc-***.leadintelligent.com^
+||s4-***.leadchina.cn^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
