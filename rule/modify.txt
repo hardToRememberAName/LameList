@@ -1,4 +1,4 @@
-# Update time: 2025-12-11 09:08:04
+# Update time: 2025-12-11 20:30:21
 # 
 @@||technews.tw^$generichide,badfilter
 @@||wkstatic.bdimg.com/static/wkcore/widget/commerce/fengchao/*$domain=wenku.baidu.com
@@ -70,6 +70,7 @@ ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#@##resu
 dep-family.hccg.gov.tw#@#.ad_2
 cnys.tv#@#.player-news > .news-list
 @@||hk.on.cc/js/v4/oncc-adbanner.js$domain=hk.on.cc
+@@||p3-tt.byteimg.com/obj/$domain=agedm.io
 ruanyifeng.com#@?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p > img
 @@||cdn.theguardian.tv/ad/*.m3u8$domain=theguardian.com
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=line.me
@@ -10266,6 +10267,7 @@ popo.tw#@#.header_ad
 poedb.tw###head_toolbar + .text-center
 163.com##.top-gg-area
 ||baidu.com/xpage/interface/sourcecontent?
+/tt1-1367073066.cos.
 ||subhd.*/kaiyad.
 ||88liu.com/data/attachment/portal/
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###search_baidu_promote
@@ -17884,6 +17886,7 @@ mitbbs.ca,mitbbs.com##.newskuang2
 megatime.com.tw,pchome.com.tw###sixi
 businessweekly.com.tw##.mainR_content:nth-child(5)
 ttsp.tv##.play_list_adbox
+||wuxianxs.net/m
 bbs.it168.com##.daoh2 + .bor8
 @@||weithenn.org^$generichide
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
@@ -21074,7 +21077,6 @@ zol.com.cn###downBoxGaosu + a
 pinshan.com##.b_taobao
 .us/js/ads/
 ###top_box > a[onclick^="javascript"]
-||wuxianxs.net/mm.
 ||setn.com/js/advertisement?
 @@||av30.xyz/cs/2.js
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hgame_mod_theme1
@@ -36323,7 +36325,6 @@ idlprocycling.com,indeleiderstrui.nl,twenteinsite.nl##.share_item
 ||*.exaapi.com^
 @@||prod.impartner.live^|
 .webhop.net^
--banner-iklan-
 @@||click.simba.taobao.com^|
 @@||js.monitor.azure.com^|
 @@||feed.adrelayer.com^|
