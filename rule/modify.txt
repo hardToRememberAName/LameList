@@ -1,4 +1,4 @@
-# Update time: 2025-12-16 20:30:39
+# Update time: 2025-12-17 09:03:58
 # 
 207.148.44.179$network
 ||ysx8.vip^$third-party
@@ -232,6 +232,373 @@ app.n26.com#@#.bl > .gg
 dl.mail.com,dl.gmx.*,dl.web.*#@#body > [style^="display: block; width: 100%; height:"]:empty
 @@||mcc.xunliandata.com/mci-reward/static/img/ad.
 @@||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
+fabconvert.com#@#.ad-banner-top
+@@||runative-syndicate.com/do2/*$domain=onemanhua.com
+dqzboy.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', 'window.getComputedStyle')
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=linovelib.com,important
+tsubasa.im#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
+logi.im##body > div[style^="background: black; position: fixed; "][style*="opacity: 0.5; z-index: 1999;"]
+||pubads.g.doubleclick.net/gampad/ads?*&output=xml_vast*&url=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
+@@||googleads.g.doubleclick.net/pagead/html/*/zrt_lookup.html$domain=tsubasa.im
+jav777.xyz#%#//scriptlet("prevent-eval-if", "ADS_BLOCKED")
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=ani.gamer.com.tw
+docsmall.com#%#//scriptlet("set-constant", "_AdBlockInit", "noopFunc")
+@@||hm.baidu.com/hm.js$domain=rjno1.com
+sssam.com#%#//scriptlet("set-constant", "ads", "")
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=youneed.win
+||freedidi.com/wp-content/plugins/death-luhubaoyu/
+hboav.com#$?#.cc5278_banner_ad { remove: true; }
+helper-employer.com#@#ins.adsbygoogle[data-ad-client]
+@@||connect.facebook.net/en_US/fbevents.js$domain=linetv.tw
+xbgame.net#@##google-ads
+bde4.icu#%#//scriptlet("set-constant", "canRunAds", "true")
+||18comic.*/exads-adblock-*/backend_loader.php
+||javporn.best/asset/default/player/plugins/vast-*.js
+tsubasa.im#@#.pub_728x90
+@@/adview_*_ads_300x250.js$domain=itbaoku.cn
+itbaoku.cn#%#//scriptlet('set-constant', 'killads', 'true')
+@@||520click.com/ad.php$stealth
+/pcbeta\.com\/data\/cache\/(?:common)?_[a-z]{14}\.js\?/$script,~third-party,domain=pcbeta.com,match-case
+game735.com#$#div[id^="gklobl"] { height: 1px!important; }
+@@||i2.bahamut.com.tw/JS/ad/animeVideo2.js^$domain=ani.gamer.com.tw
+tsubasa.im#@#.textAd
+@@||av4u.info/source/plugin/unadblock^
+cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("set-constant", "NativeAd", "noopFunc")
+rjno1.com#%#(function(){const b=function(d){const a=Math.pow(10,d-1),b=Math.pow(10,d);return Math.floor(Math.random()*(b-a)+a)}(12);window.addEventListener("load",function(){window.google_image_requests=[],window.google_global_correlator=b,window._hmt=window._hmt||[],_hmt.id=b})})();
+linovelib.com#$#:is(#volume-list, #TextContent) { display: block !important; }
+@@||slashlook.com/_resource/js/_js_ads.min.js
+nodejs.cn#%#//scriptlet('set-constant', 'adsbygoogle.loaded', 'true')
+@@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=share1223.com
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#.player-rm > a[target="_blank"]
+t66y.com#$?#.sptable_do_not_remove { display: block !important; visibility: hidden !important; }
+hboav.com#%#//scriptlet("set-constant", "adbk", "false")
+@@||gamer-cds.cdn.hinet.net/vod/gamer/*.m3u8^$domain=ani.gamer.com.tw
+@@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video.min.js$domain=setn.com
+t66y.com#%#//scriptlet('prevent-setTimeout', 'html')
+2urs.com#%#//scriptlet('abort-on-property-read', 'ads')
+sports.qq.com#@#.txp_ad_center
+playav.cc#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'adBlockDetected')
+ohmanhua.com#%#//scriptlet("abort-on-property-write", "__DOMAIN")
+jmcomic-zzz.org,18comic.org,18comic.vip##div[style="position: absolute;bottom: 0px;z-index: 10;"]
+rjno1.com#$#body #aswift_1:not(#style_important) { display: block !important; }
+linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^="absolute inset-"][class*="bg-linetv"][class*="-emphasis"]
+bilinovel.com#@#ins.adsbygoogle[data-ad-slot]
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=league-funny.com
+jmcomic-zzz.org,18comic.org,18comic.vip#$?#.col-xs-6 > div[data-type][style]:has(> ins + script) { remove: true; }
+slashlook.com###AdvertisementBottom
+||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$script,redirect=noopjs,important,domain=ebb.io
+@@||google-analytics.com/analytics.js$domain=ebb.io
+bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
+@@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
+||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
+tsubasa.im#@#.pub_130x10
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=youneed.win
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ekamus.info
+tsubasa.im#@#.pub_300x250
+||174.127.195.66/bbs/include/javascript/adblock.js
+helper-employer.com#%#//scriptlet('prevent-fetch', 'adsbygoogle.js')
+520cc.cc#%#//scriptlet('prevent-setTimeout', 'myModal')
+ftchinese.com#%#//scriptlet('prevent-setTimeout', '.offsetHeight')
+@@||cocomanga.com/js/ad*/*.js
+nodejs.cn#%#//scriptlet('set-constant', '_AdBlockInit', 'noopFunc')
+bde4.icu#@#a[href*="/entry/register/?i_code="]
+ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.canobpreroll_', 'true')
+jkpan.cc#%#//scriptlet("abort-current-inline-script", "jQuery", "\u")
+||static.jfrft.com/js/main_video.js^$script,redirect=noopjs,domain=dilidili.wang,important
+bigpixel.cn#%#//scriptlet("set-constant", "killads", "true")
+dqzboy.com#@#.ad-unit:not(.textads)
+@@||surirt.com/ad/ads.php?id=$script,domain=surirt.com
+surirt.com#%#//scriptlet('set-constant', 'ad_id_for_555', '')
+~h5.dilidili.wang,dilidili.wang#$#a[href*=".11h5."] img { position: absolute!important; left: -3000px!important; }
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=xiebruce.top
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tsubasa.im
+caq98i.top#%#//scriptlet('abort-on-property-read', 'alertadmodal')
+@@||91wii.com/source/plugin/unadblock/adjs_pic_cpc_cpm_cpa_guanggao_gg_ads_250x250.js
+papalah.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
+||174.127.195.98/bbs/include/javascript/adblock.js
+gamer.com.tw#$##BH-bigbanner { position: absolute!important; left: -3000px!important; }
+||static.jfrft.com/js/main_list.js^$script,redirect=noopjs,domain=dilidili.wang,important
+tsubasa.im#@#.adsbygoogle-noablate
+@@||static.jfrft.com/js/main_list.js^$domain=dilidili.wang
+@@||pos.baidu.com/*?psi=*adblock$domain=jkpan.cc
+tsubasa.im#@#.text-ad
+bingfeng.tw#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/Adblock/.test(a.toString()))return b(a,c)};})();
+pansci.asia#@#.ad-container
+@@||ak77now.pixnet.net^$generichide
+pincong.rocks#%#//scriptlet("prevent-setInterval", "Ad Block")
+wandhi.com#%#//scriptlet('prevent-fetch', '/googlesyndication\.com|doubleclick\.net/')
+nodejs.cn#%#//scriptlet('set-constant', 'adsbygoogle', 'emptyObj')
+rjno1.com#@#ins.adsbygoogle[data-ad-client]
+@@/js/adview_*.adsbygoogle.js$~third-party,domain=letv8.cc|zhibo1.cc
+tsubasa.im#@#.text_ads
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=slashview.com
+pansearch.me#%#//scriptlet('prevent-xhr', 'adsbygoogle')
+linovelib.com#$#.adblock-tips { display: none !important; }
+@@||renfei.net^$generichide
+rjno1.com#@#[id^="aswift_"]
+@@||hboav.com/guga/images/$xmlhttprequest
+||pcbeta.com/data/cache/common_fbdbbsyuzhttpx.js
+@@||ez3c.tw^$generichide
+tsubasa.im#@#.pub_520x950
+@@||pos.baidu.com/*?di=$script,domain=pf.bigpixel.cn
+||slashlook.com/_resource/html/_bloggerAdsBottom.html
+bilinovel.com#@#ins.adsbygoogle[data-ad-client]
+cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#a[href*=".umtrack.com/"] { position: absolute !important; left: -3000px !important; }
+slashlook.com###AdvertismentInline
+tsubasa.im#@#.adholder2
+bilinovel.com#@#.adsbygoogle-noablate
+koyso.com,wavse.com#@#.google-ad
+colamanga.com#@#.ADInfo
+@@||r.bat.bing.com/?ld=test$domain=mcappx.com
+@@||img3.126.net/ntesrich/*/adControl-indexx-$script,domain=rjno1.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mcappx.com
+tingfm.com#%#//scriptlet("prevent-setTimeout", "adblock")
+@@||attach.mobile01.com/image/mod_ad/*$domain=mobile01.com
+rjno1.com#@#ins.adsbygoogle[data-ad-slot]
+getitfree.cn#%#//scriptlet("abort-current-inline-script", "document.getElementById", "/!document\.getElementById\([\s\S]*?\.style\.display=/")
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mpyit.com
+mytvsuper.com#%#//scriptlet('googletagservices-gpt')
+wenxuecity.com#%#//scriptlet("set-constant", "adsbygoogle", "noopFunc")
+bilinovel.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'pagead2.googlesyndication.com')
+@@||slit.cn/source/plugin/unadblock/*.js
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=linetv.tw
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mcappx.com
+bilinovel.com#%#//scriptlet('set-constant', 'checkAndHandleAdBlock', 'undefined')
+@@||moviesunuss.net^$generichide
+||alicdn.com^$domain=t66y.com
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#a[href*=".umtrack.com/"]
+linovelib.com#$#body[style] { overflow: auto !important; }
+@@||ohmanhua.com/js/*.js
+colamanga.com#$#html { overflow: auto !important; }
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rjno1.com
+letv8.cc,zhibo1.cc#%#//scriptlet('trusted-set-constant', 'adsv', '"Y"')
+ekamus.info#$#.adsbygoogle { height: 1px !important; }
+@@||cocomanga.com/js/dynamicjs.js
+@@||1keydata.com^$generichide
+tsubasa.im#%#//scriptlet('prevent-setTimeout', '/home/?adblock=')
+linovelib.com#%#//scriptlet('set-constant', 'adblock', '0')
+poedb.tw#%#//scriptlet("abort-current-inline-script", "document.getElementById", "/#myModal'\)\.modal/")
+vxetable.cn#%#//scriptlet('abort-current-inline-script', 'decodeURIComponent', 'pagead')
+@@||googleads.g.doubleclick.net/pagead/ads?*&url=http*.4gtv.tv*&output=xml_vast*.4gtv.tv$domain=imasdk.googleapis.com
+renfei.net#$#body { overflow-y: auto !important; }
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=mytvsuper.com
+fsbot.xyz#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
+@@||noy1.top/api/ads_v2$~third-party
+linetv.tw#%#//scriptlet('set-constant', 'google.ima.AdError', 'noopFunc')
+@@||colamanga.com/js/*/load.js
+1keydata.com#$##detect.ad-placement { display: block !important; }
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,important,domain=haoweichi.com
+taiwanlibrarysearch.herokuapp.com#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
+@@||service.4gtv.tv/4gtv/Data/GetAD.ashx
+||google-analytics.com/analytics.js$script,redirect=noopjs,important,domain=ebb.io
+@@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js
+cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("prevent-setTimeout", "checkSiteNormalLoad")
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pansearch.me
+ekamus.info#%#//scriptlet("set-constant", "isAdsDisplayed", "true")
+ebb.io#%#//scriptlet('set-constant', 'ga', 'noopFunc')
+jkpan.cc#%#//scriptlet("set-constant", "killads", "true")
+@@||kdpic.pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
+rjno1.com#%#//scriptlet("prevent-addEventListener", "error", "event.target.tagName")
+18comic.org,18comic.vip#@#img[style*="300px"]
+@@||static.jfrft.com/js/main_video.js^$domain=dilidili.wang
+@@||cdn.wwads.cn/js/makemoney.js$domain=docsmall.com
+slashview.com#$##SlashviewAdDetector { display: block !important; }
+5278.cc,hboav.com#%#//scriptlet('prevent-setTimeout', '/ad block stop|warm_msg/')
+tsubasa.im#@#.text_ad
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=linovelib.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=xiebruce.top
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_$script,domain=rjno1.com
+tsubasa.im#@#.pub_300x250m
+game735.com##div[id^="ysmAD"]
+||sinaimg.cn^$domain=t66y.com
+mpyit.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
+@@.php?id=$script,domain=surirt.com
+ekamus.info#%#//scriptlet("prevent-setTimeout", "ins.adsbygoogle")
+||r.bat.bing.com/?ld=$script,redirect=noopjs,domain=mcappx.com
+bilinovel.com#@#.adv-box
+jkpan.cc#%#//scriptlet("abort-current-inline-script", "document.writeln", "\u")
+@@||getitfree.cn/wp-content/plugins/adunblocker/public/js/banner_ads_*.js
+colamanga.com#@#.ADLeader
+haoweichi.com#%#//scriptlet("prevent-setTimeout", "adsbygoogle")
+@@||wwads.cn/code/banners?blocks=$domain=233tw.com
+||5278.cc/js/check.js
+moeci.com#%#//scriptlet('prevent-setTimeout', '_0x')
+mcappx.com#%#//scriptlet('prevent-element-src-loading', 'script', '/pagead2\.googlesyndication\.com|r\.bat\.bing\.com\/\?ld=/')
+linetv.tw#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
+@@||cpro.baidu.com^$script,domain=rjno1.com
+@@||jav777.xyz^$generichide
+huanqiu.com#%#//scriptlet('set-constant', 'AD_SURVEY_Add_AdPos_Simple', 'noopFunc')
+logi.im#%#//scriptlet("prevent-setTimeout", "ins.adsbygoogle")
+@@||xianzhenyuan.cn/data/attachment/common/guanggao/adjs.htm
+xchina.*##.block-overlay
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fsbot.xyz
+ruanyifeng.com#%#//scriptlet('prevent-setTimeout', 'checker')
+||baomidou.com/_astro/CheckAdBlocked.*.js
+helper-employer.com#%#//scriptlet('prevent-element-src-loading', 'script', 'clarity.ms/tag/')
+tingfm.com#%#//scriptlet('set-constant', 'canRunAds', 'true')
+@@||poedb.tw/js/adsbygoogle.js
+||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=rjno1.com,important
+t66y.com#@#.sptable_do_not_remove
+ebb.io#%#//scriptlet('set-constant', 'google_empty_script_included', 'true')
+linetv.tw#%#//scriptlet('prevent-fetch', '/pagead2\.googlesyndication\.com|\/fbevents\.js/')
+xchina.*#%#//scriptlet('prevent-addEventListener', '/DOMContentLoaded|load|complete/', '/check|detected/')
+koyi.pub#%#//scriptlet("set-constant", "fuzqingAdPlus", "emptyObj")
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bilinovel.com
+cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("set-constant", "__jsadsuccess", "true")
+445nan.com#@#.ad-box:not(#ad-banner):not(:empty)
+slashview.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
+tsubasa.im#@#.ad_container
+t66y.com##.tpc_content.do_not_catch > span.f24
+@@||520cc.cc/ad/ads.php?$script
+youneed.win#%#//scriptlet("abort-on-property-read", "daau_app")
+xbeibeix.com#%#//scriptlet('prevent-setTimeout', '/\.height\(\) == 0|adsbygoogle/')
+||pcbeta.com/data/cache/_djwbhgprrtnmby.js
+@@||i2.bahamut.com.tw/JS/ad/animeLogo.js^$domain=ani.gamer.com.tw
+174.127.195.98#%#//scriptlet('abort-on-property-write', 'checkAdblock')
+tsubasa.im#@#.pub_900x400
+@@||pg-wuming.com^$generichide
+||cdn.wwads.cn/js/makemoney.js$script,redirect=noopjs,domain=nodejs.cn,important
+||ads.adaptv.advertising.com/*roll&pageUrl=4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
+@@||cdn.wwads.cn/js/makemoney.js$domain=nodejs.cn
+@@||dl.r3sub.com^$generichide
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=papalah.com
+slashlook.com#$##mdAdsAnnouncement { display: none!important; }
+bingfeng.tw#$##ypaad { height: 3px!important; }
+@@||hboav.com/guga/adss.js
+1keydata.com#%#//scriptlet('abort-current-inline-script', 'document.querySelector', 'window.getComputedStyle')
+bde4.icu#$#a[href*="/entry/register/?i_code="] { position: absolute !important; left: -3000px !important; }
+yodu.org#$##byspider { display: none !important; }
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kktv.me
+hboav.com#@#script + div[class="cc5278_banner_ad"]
+jmcomic-zzz.org,18comic.org,18comic.vip#?#.col-xs-6 > div[data-show][style]:has(> p:only-child > a[target="_blank"] > img)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=wuyong.fun,important
+@@||i2.bahamut.com.tw/JS/ad/animeVideo.js^$domain=ani.gamer.com.tw
+@@||cpro.baidustatic.com/cpro/ui/cm.js$domain=pf.bigpixel.cn
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=4gtv.tv
+colamanga.com#@#.ADFooter
+dilidili.wang#$#body > article[class][style*="position: fixed;top: 0;z-index: 9999;display:block !important;"] { position: absolute!important; left: -3000px!important; }
+@@||cocomanga.com/js/ad_/$image
+dyxs23.com,dyxs20.com,dyxs15.com,dyxs14.com,dyxs13.com,dyxs12.com,dyxs11.com##.popupicon
+@@||pos.baidu.com/*?conwid=$subdocument,domain=pf.bigpixel.cn
+jmcomic-zzz.org,18comic.org,18comic.vip##.div-bf-pv
+linovelib.com#$##mlfy_main_text > div[class]:not([id]) { display: none !important; }
+@@||520click.com/ad.php?id=$script,domain=surirt.com
+slashlook.com#$#body.modal-open { padding-right: 0!important; overflow: visible!important; }
+pansearch.me#%#//scriptlet('prevent-element-src-loading', 'script', 'adsbygoogle')
+xiebruce.top#%#//scriptlet("prevent-addEventListener", "", "showRemoveAdBlocker")
+445nan.com#%#//scriptlet('prevent-setTimeout', '.offsetHeight == 0')
+bigpixel.cn#$?##PAGE_AD_1 { remove: true; }
+linovelib.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'adBlock')
+@@||cdn.sssam.com/static/js/*.js
+huanqiu.com#%#//scriptlet('set-constant', 'AD_SURVEY_Add_AdPos', 'noopFunc')
+520call.me#%#//scriptlet("set-constant", "all520dddaaa2022ccc", "true")
+linetv.tw#%#//scriptlet('set-constant', 'google_tag_manager', 'emptyObj')
+@@||clarity.ms/tag/$domain=moeci.com
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=yodu.org
+@@||gamer-cds.cdn.hinet.net/vod/gamer/*.ts^$domain=ani.gamer.com.tw
+hboav.com#@#.close_box0
+||service.4gtv.tv/4gtv/Data/GetAD.ashx$replace=/((\{[\s\S]*?)"preroll":( )?\[)[\s\S]*\]/\$1]/,important,domain=4gtv.tv
+rjno1.com#%#function preventError(d){window.addEventListener("error",function(a){if(a.srcElement&&a.srcElement.src){const b=new RegExp(d);b.test(a.srcElement.src)&&(a.srcElement.onerror=function(){})}},!0)}preventError(/^(?!.*(rt-error.js)).*$/);
+@@||securepubads.g.doubleclick.net/gampad/ads?$domain=league-funny.com
+||cpro.baidu.com/cpro/ui/rt.js$script,redirect=noopjs,domain=rjno1.com
+baomidou.com#%#//scriptlet('set-constant', '_AdBlockInit', 'noopFunc')
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=linetv.tw
+ftchinese.com#@#.AdsBox
+gamer.com.tw#$#img[onload="AntiAd.check(this)"] { position: absolute!important; left: -3000px!important; }
+@@||520click.com/ad.php$domain=520cc.cc
+colamanga.com#%#//scriptlet("prevent-setTimeout", "loadErrorTip")
+||vast.doublemax.net/adserver/vast.xml$script,xmlhttprequest,other,redirect=noopvast-2.0
+@@||yeeach.com^$generichide,badfilter
+t66y.com#@#.tips
+tsubasa.im#@#.text-ad-links
+league-funny.com#%#//scriptlet("prevent-setTimeout", "ad_num_show")
+surirt.com#%#//scriptlet('set-constant', 'all520dddaaa2022ccc', 'true')
+@@||colamanga.com^$generichide
+@@||googleads.g.doubleclick.net/favicon.ico,domain=music.wandhi.com
+linovelib.com#$#.dag + div[class]:not([id]) { display: none !important; }
+slashlook.com#%#//scriptlet('set-constant', 'canRunAds', 'true')
+renfei.net#$#.ant-modal-root { display: none !important; }
+helper-employer.com#%#//scriptlet('spoof-css', '.adsbygoogle', 'display', 'block')
+||hotpress.info/blog/asian-javdl/wp-content/uploads/irvsxp.js
+mcappx.com#%#//scriptlet('abort-on-stack-trace', 'alert', '.onerror')
+jmcomic-zzz.org,18comic.org,18comic.vip#%#//scriptlet('abort-current-inline-script', 'document.dispatchEvent', '/getexoloader/')
+youranshare.com#%#//scriptlet("abort-current-inline-script", "$", "adskilltest")
+@@||pg-wuming.com/js/*/adblocker-1.js
+tsubasa.im#%#//scriptlet('prevent-setInterval', '/home/?adblock=')
+ldqk.xyz#@#.google-ad
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=bilinovel.com
+slashlook.com#$#body.modal-open .modal-backdrop { display: none!important; }
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=helper-employer.com
+linovelib.com#$##byspider { display: none !important; }
+xbeibeix.com#@#.google-ad
+@@||hinet.net/keys/a.key^$domain=ani.gamer.com.tw
+jmcomic-zzz.org,18comic.org,18comic.vip#@?#:-abp-has(>ins+script)
+1090ys8.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
+@@||2urs.com/js/*_cpa_$script
+hboav.com#%#//scriptlet("set-constant", "onload", "null")
+@@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
+pcbeta.com#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'make_rand_div')
+520cc.cc#%#//scriptlet('set-constant', 'all520dddaaa2022ccc', 'true')
+@@^vast^$domain=4gtv.tv,~script,~image
+@@||game735.com^$generichide
+xbgame.net#@#.google-ads
+@@||matomo.moeci.com/matomo.js$domain=moeci.com
+freedidi.com#@#.adsBanner
+@@||cdn.wwads.cn/js/makemoney.js$domain=233tw.com
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#.player-rm > a[target="_blank"] { position: absolute !important; left: -3000px !important; }
+slit.cn#%#//scriptlet("abort-current-inline-script", "alert", "typeof(ad)")
+ruanyifeng.com#@#a > img[src*="wangbase.com/blogimg/asset/"]
+||connect.facebook.net/en_US/fbevents.js$script,redirect=noopjs,domain=linetv.tw
+@@/wp-content/themes/radio-hub/*.js$domain=tingfm.com
+@@||clarity.ms/tag/$script,domain=helper-employer.com
+yunduanxin.xyz###adb-mask
+||slashlook.com/_resource/html/_bloggerAdsInline1.html
+xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
+jmcomic-zzz.org,18comic.org,18comic.vip#%#//scriptlet('prevent-setTimeout', 'float_right > div')
+koyi.pub#@#.main_ad
+ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.cnobpreroll_', 'true')
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=tsubasa.im
+docsmall.com#@##google-ads
+91wii.com#%#window.ad = window.ads = window.dzad = window.dzads = true;
+tingfm.com#%#//scriptlet('set-constant', 'can_run_ads', 'true')
+@@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video-js.min.css$domain=setn.com
+@@||ani.gamer.com.tw^$generichide
+popbee.com##.adblocker
+pg-wuming.com#%#//scriptlet("abort-current-inline-script", "$", "!document.getElementById(btoa")
+colamanga.com#$#div[class^="layui-layer-"]:not(#color) { display: none !important; }
+||hboav.com/guga/images/$xmlhttprequest,redirect=nooptext
+||itad.linetv.tw/api/v2/vmap?ad_id=$xmlhttprequest,redirect=nooptext
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=yodu.org
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=league-funny.com
+@@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=bde4.icu
+@@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com
+linetv.tw#%#//scriptlet('prevent-element-src-loading', 'script', '/fbevents.js')
+yibian.hopto.org###no-adblock-box
+helper-employer.com#@#ins.adsbygoogle[data-ad-slot]
+@@||koyi.pub/wp-content/plugins/fuzqing-ad-plus/assets/js/*.js
+dqzboy.com#$#body.adblock-modal-active { overflow: auto !important; position: static !important; }
+||xianzhenyuan.cn/data/attachment^$image
+itdog.cn#%#//scriptlet('prevent-setTimeout', 'adblock_tip')
+520call.me#%#//scriptlet("set-constant", "all520dddaaa2022aaa", "undefined")
+rjno1.com#@#main > div[class^="qnb"]
+4gtv.tv#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
+@@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=rjno1.com
+dqzboy.com#$#.adblock-modal { display: none !important; }
+yodu.org#$#body[style] { overflow: auto !important; }
+ruanyifeng.com#@#a[href*="?utm_source="]
+@@||easylife.tw^$generichide
+dl.r3sub.com##.scupioadslot
+cocomanga.com#%#//scriptlet('prevent-setTimeout', 'loadErrorTip')
+noy1.top#%#//scriptlet('prevent-xhr', '/api/ads')
+@@||papalah.com^$generichide
+stealjobs.com#@#.custom-ad
+||126.net^$script,redirect=noopjs,domain=rjno1.com
+tsubasa.im#@#.text-ads
+@@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
+233tw.com#%#//scriptlet('prevent-setTimeout', '发现严重BUG')
+@@||googleads4.g.doubleclick.net^$domain=renfei.net
 ### WindowsSpyBlocker - Hosts spy rules
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 ### License: MIT
@@ -703,7 +1070,6 @@ dl.mail.com,dl.gmx.*,dl.web.*#@#body > [style^="display: block; width: 100%; hei
 @@||g.doubleclick.net/gampad/live/ads?*%2Flemino_instr%$domain=imasdk.googleapis.com
 @@||whatsapp.com^$generichide
 @@||radiotimes.com/static/advertising/$script,~third-party
-@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|watchcharge.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 @@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
 @@||jsdelivr.net^*/videojs.ads.css$domain=irctc.co.in
 @@||poastcdn.org/ad/$image,domain=poa.st
@@ -849,6 +1215,7 @@ dl.mail.com,dl.gmx.*,dl.web.*#@#body > [style^="display: block; width: 100%; hei
 @@||googleadservices.com/pagead/conversion.js$domain=ncsoft.jp
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||popin.cc/popin_discovery/recommend?$~third-party
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|sonyliv.com|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|watchcharge.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 ||jssdk.rayjump.com^$third-party
 /^(a|c)\.[0-9a-f]{56}\.com$/
 ||ad.admitad.com^$third-party
@@ -891,113 +1258,97 @@ dl.mail.com,dl.gmx.*,dl.web.*#@#body > [style^="display: block; width: 100%; hei
 ||painsko.com^$third-party
 ||plugin.mediavoice.com^$third-party
 ||marafonec.com/jquerys.js
+||xmrminingproxy.com^$websocket,third-party
 vkcdnservice.appspot.com^$third-party
 .ru/jquerys.js
 ||185.165.169.108^$websocket,third-party
+||ppoi.org^$third-party
+||vkulake.com/jquerys.js
 ||mepirtedic.com^$third-party
 .su/jquerys.js
 .net/jquerys.js
-||coinpot.co^$third-party
+||ecstatic-hoover-50a7b7.netlify.com/LXWzre.js
 ://mine.torrent.pw^
-||rocks.io^$third-party
+||traffic.tc-clicks.com^$third-party
 ||vuryua.ru^$third-party
 ||zona.plus/*.php|
-||hemnes.win^$third-party
-||sweetbook.net/templates/skin/sweetnew/js/internal.js
-||coin-have.com^$third-party
-||pampopholf.com^$third-party
-||statdynamic.com^$third-party
-||coinpirate.cf^$third-party
-.info/jquerys.js
-||thepiratebay-proxylist.se/filter$websocket
-||party-vqgdyvoycc.now.sh^$third-party
-||crypto-loot.com^$third-party
-||s3.amazonaws.com/imgint/aaz.js
-.n.2.1.l60.js^$third-party
-||fili.cc/assets/libs/mank/webmr.js
-||papoto.com^$third-party
-||techhome-js.github.io/main.js^$third-party
-||nakapote.com/jquerys.js
-||archer0*.tk:*/
-$websocket,domain=300mbfilms.io|lib.rus.ec
-||habd.as/js/modules/toxic-swamp/webminer.min.js
-||webminepool.com^$third-party
-||coinnebula.com^$third-party
-||seminarski-diplomski.co.rs/js/custom.js
-||bilsh.com/jquerys.js
-||monerominer.rocks^$third-party
-||minemytraffic.com^$third-party
-||hashing.win^$third-party
-||ecstatic-hoover-50a7b7.netlify.com/pYrqEw.js
-||serie-vostfr.com^$third-party
-||smartoffer.site^$third-party
-||newsinmir.com/jquerys.js
-||webmine.cz^$third-party
-||js.nahnoji.cz/miner_proxy
-||gaypornwave.com/wp-content/plugins/simple-miner-tweaks^
-||tulip18.com^$third-party
-||kickass.cd/*/m.js
-||dengiua.com/jquerys.js
-||nahnoji.cz/compact_miner^
-||xmrminingproxy.com^$websocket,third-party
-||ppoi.org^$third-party
-||vkulake.com/jquerys.js
-||ecstatic-hoover-50a7b7.netlify.com/LXWzre.js
-||premiumstats.xyz^$third-party
-||traffic.tc-clicks.com^$third-party
 ||d1e1rbybdt265x.cloudfront.net/mmfb2.html
 ||sup-idea.com/jquerys.js
-||pertholin.com^$third-party
 ||uptostream.com/assets/coinif.php$important
 ||tercabilis.info^$third-party
 /cdn-cgi/pe/bag2?r[]=*eth-pocket.de
 ||fotochki.com/jquerys.js
+||sweetbook.net/templates/skin/sweetnew/js/internal.js
+||pampopholf.com^$third-party
 /karma/karma.js?karma=bs?
 ||firmware.center/.coinhive.min.js
 ||play*.flashx.pw/filter
 ||dontbeevils.de^$websocket
+||statdynamic.com^$third-party
+.info/jquerys.js
+||thepiratebay-proxylist.se/filter$websocket
 ||techhome-js.github.io/code.wsm^$third-party
 ||orbita-lviv.com/jquerys.js
-||afminer.com^$third-party
-||bablace.com^$third-party
+||s3.amazonaws.com/imgint/aaz.js
+.n.2.1.l60.js^$third-party
+||fili.cc/assets/libs/mank/webmr.js
 ||omine.org^$third-party
 ||dynamo-kiev.com/jquerys.js
 /wp-content/plugins/simple-monero-miner-coin-hive/*
+||techhome-js.github.io/main.js^$third-party
+||nakapote.com/jquerys.js
 ||usetrans.com/jquerys.js
 ||thewise.com^$third-party
 ||hiy.vidzi.tv/socket.io^
 ||audioknigi.club/templates/skin/aclub/js/m/bgd.js
-||coinerra.com^$third-party
 ||coinimp.com^$third-party
 ||thewhizproducts.com^$third-party
-||offerreality.com^$third-party
+||archer0*.tk:*/
+$websocket,domain=300mbfilms.io|lib.rus.ec
+||habd.as/js/modules/toxic-swamp/webminer.min.js
+||webminepool.com^$third-party
 .3.n.2.2.l30.js
 .3.n.2.1.l50.js
-||brominer.com^$third-party
+||seminarski-diplomski.co.rs/js/custom.js
 .org/jquerys.js
+||bilsh.com/jquerys.js
+||monerominer.rocks^$third-party
+||hashing.win^$third-party
 .n.2.1.js^$third-party
+||ecstatic-hoover-50a7b7.netlify.com/pYrqEw.js
 ||dekoder.ws/*/m.js
 ||kaspianchoob.com/jquerys.js
 ||cashbeet.com^$third-party
+||smartoffer.site^$third-party
 ||fili.tv/assets/libs/mino.min.js
+||newsinmir.com/jquerys.js
+||webmine.cz^$third-party
 .1.1.1.l80.js^$third-party
+||js.nahnoji.cz/miner_proxy
 ||cdn-102.statdynamic.com/filter
-||jsecoin.com^$third-party
+||gaypornwave.com/wp-content/plugins/simple-miner-tweaks^
 ||vnebi.com/jquerys.js
 ||pornsfw.com/assets/application-*.js
 ||kinohabr.net/*.php?id=*&type=
+||tulip18.com^$third-party
+||kickass.cd/*/m.js
 ||jscdndel.com^$third-party
+||dengiua.com/jquerys.js
 ||wtm.monitoringservice.co^$third-party
+||nahnoji.cz/compact_miner^
 ||vkcdnservice.com^$third-party
 .ua/jquerys.js
 ||silimbompom.com^$third-party
 /nano.wasm
 ||webminerpool.com^$third-party
 ||datasecu.download^$third-party
+||coinpot.co^$third-party
 ||sleeptimer.org/playerc.js
 ||35.194.26.233^$third-party
 ||bestcoinsignals.com^$third-party
+||rocks.io^$third-party
 /webmr.js
+||hemnes.win^$third-party
 ||trustiseverything.de^$third-party
 /minera.js
 /^((?!(^https?):\/\/((www\.)?(dailymotion\.com|google\.com|gstatic\.com|rapidvideo\.com|recaptcha\.net|youtube\.com)|clipwatching\.com|docs\.google\.com|content\.googleapis\.com|ebd\.cda\.pl|estream\.to|freedisc\.pl|gamedor\.usermd\.net|gounlimited\.to|harajuku\.pl|hqq\.tv|myvi\.ru|nowvideo\.sx|ok\.ru|rutube\.ru|sendvid\.com|st\.chatango\.com|staty\.portalradiowy\.pl|supervideo\.tv|tune\.pk|upstream\.to|uptostream\.com|video\.sibnet\.ru|vidfile\.net|vidoza\.net)\/).)*$/$subdocument,domain=123telugu.com|centrum-dramy.pl|love-drama.pl|netiap.com|funtik.tv|vev.io|vidfile.net|vidoza.co|vidoza.net
@@ -1012,6 +1363,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||cfcdist.gdn^$third-party
 /c-hive.js
 /dprocessor.js
+||crypto-loot.com^$third-party
 /cloudcoins.js
 /web_miner/*
 .spacepools.*:
@@ -1026,6 +1378,7 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||authedmine.eu^$third-party
 /bootstrap.wasm$third-party
 -crypto-miner/*
+||serie-vostfr.com^$third-party
 /authedminer.js
 ||sparechange.io^$third-party
 /^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|site|space(?!(/socket\/websocket\?vsn\=))|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~arium.events|~file.pizza|~instant.io|~kli.one|~mellivora.pro|~mellivora.trade|~myinterview.com|~polkadot.js.org|~proctoredu.com|~proctoredu.ru|~spaceship.media.mit.edu|~webtorrent.io|~yorbbackend.xyz|~redirect-ads.com|~robong.net
@@ -1069,6 +1422,8 @@ $script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepira
 ||eth-pocket.de^$third-party
 ||herominers.com^$third-party
 ?proxy=*?pools=
+||coinerra.com^$third-party
+||offerreality.com^$third-party
 /miner-ui.js
 ||nfwebminer.com^$third-party
 /miner.min.js
@@ -1114,18 +1469,22 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||stonecalcom.com^$third-party
 /authedmine.$script,domain=~authedmine.com|~authedmine.eu
 ||becanium.com^$third-party
+||coin-have.com^$third-party
 ||myeffect.net^*=wss://$third-party
 ||jqwww.download^$third-party
 /crn.wasm
 ?proxy=*?pool=
 ||ddns.net^*=ws://$third-party
+||coinpirate.cf^$third-party
 /coinGofile.
 /^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|connect\.facebook\.net|content\.jwplatform\.com|dualstack\.f3\.shared\.global\.fastly\.net|embed\.tawk\.to|(maxcdn|netcdn|stackpath)\.bootstrapcdn\.com|p\.jwpcdn\.com|platform\.twitter\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=animeteatr.ru|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|btstors.com|bustrain.net|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|coinfaucet.eu|coinhub.win|cracklists.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|fruithosts.net|funtik.tv|genashowalter.com|hdvid.tv|ianimes.co|javdl.co|kinokong.cc|kinokrad.co|lafmacun.net|neurozinzin.com|novator.az|novoscrb.ru|openload.cc|pelisplus.online|pezeshk.us|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|rednubes.de|seriesenlinea.net|severita-service.ru|sleeptimer.org|studio100.it|tapemovie.com|thepiratebay.org|torrentrapid.com|vev.io|vidoza.co|vidtudu.com|voirfilms.mx|wallpoper.com|wearesaudis.net|yourjav.com
+||party-vqgdyvoycc.now.sh^$third-party
 .info^$domain=sleeptimer.org
 ||crypto.csgocpu.com^$third-party
 ||formulawire.com^$third-party
 ||go.megabanners.cf^$websocket
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party
+||papoto.com^$third-party
 /cryptonoter.
 /mine/bitcoincore/*
 ||losital.ru^$third-party
@@ -1134,7 +1493,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=kickass.cd|myfeed4u
 ||shush.se/loader/load.js
 ||cdn.cloudcoins.co^$third-party
 ||coinimp.com$third-party
+||coinnebula.com^$third-party
 ||flare-analytics.com^$third-party
+||minemytraffic.com^$third-party
 ?proxy=wss://$script,websocket
 ||45.32.105.134^$third-party
 ||biberukalap.com^$third-party
@@ -1159,10 +1520,12 @@ $xmlhttprequest,domain=auroravid.to|dekoder.ws|powvideo.cc|powvideo.net|sorteosr
 ||coinimp.net$third-party
 /minero-proxy-
 /media/miner.
+||premiumstats.xyz^$third-party
 ||webmine.pro^$third-party
 ||bhzejltg.info^$third-party
 /cn.wasm$third-party
 =ws://*?pool=
+||pertholin.com^$third-party
 ||coinblind.com^$third-party
 /cryptocpu.js
 =wss://*?pools=
@@ -1180,6 +1543,8 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||thewhizmarketing.com^$third-party
 @@||aptal.pro^$websocket
 /crypta.js
+||afminer.com^$third-party
+||bablace.com^$third-party
 ||srcips.com^$third-party
 ||aeros02.tk^$third-party
 ||notmining.org^$third-party
@@ -1193,6 +1558,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 /lhnhelpouttab-current.min.js
 ||mine.blank.drawpad.org^$third-party
 /cryptonight-worker.
+||brominer.com^$third-party
 /miner?key=
 ||analytics.blue^$third-party
 ||uptostream.*/assets/$subdocument
@@ -1204,6 +1570,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 @@||ws.webcaster.pro^$websocket
 /xmr.min.js
 ||eth-pocket.com^$third-party
+||jsecoin.com^$third-party
 /xmr-monero.js
 @@||quiknode.pro^$websocket
 ||cryptobara.com^$third-party
@@ -3338,373 +3705,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||linkedin.com/countserv/count/$third-party
 ||facebook.com/method/links.getstats?
 ||onesignal.com/api/v*/apps/
-fabconvert.com#@#.ad-banner-top
-@@||runative-syndicate.com/do2/*$domain=onemanhua.com
-dqzboy.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', 'window.getComputedStyle')
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=linovelib.com,important
-tsubasa.im#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
-logi.im##body > div[style^="background: black; position: fixed; "][style*="opacity: 0.5; z-index: 1999;"]
-||pubads.g.doubleclick.net/gampad/ads?*&output=xml_vast*&url=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
-@@||googleads.g.doubleclick.net/pagead/html/*/zrt_lookup.html$domain=tsubasa.im
-jav777.xyz#%#//scriptlet("prevent-eval-if", "ADS_BLOCKED")
-||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=ani.gamer.com.tw
-docsmall.com#%#//scriptlet("set-constant", "_AdBlockInit", "noopFunc")
-@@||hm.baidu.com/hm.js$domain=rjno1.com
-sssam.com#%#//scriptlet("set-constant", "ads", "")
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=youneed.win
-||freedidi.com/wp-content/plugins/death-luhubaoyu/
-hboav.com#$?#.cc5278_banner_ad { remove: true; }
-helper-employer.com#@#ins.adsbygoogle[data-ad-client]
-@@||connect.facebook.net/en_US/fbevents.js$domain=linetv.tw
-xbgame.net#@##google-ads
-bde4.icu#%#//scriptlet("set-constant", "canRunAds", "true")
-||18comic.*/exads-adblock-*/backend_loader.php
-||javporn.best/asset/default/player/plugins/vast-*.js
-tsubasa.im#@#.pub_728x90
-@@/adview_*_ads_300x250.js$domain=itbaoku.cn
-itbaoku.cn#%#//scriptlet('set-constant', 'killads', 'true')
-@@||520click.com/ad.php$stealth
-/pcbeta\.com\/data\/cache\/(?:common)?_[a-z]{14}\.js\?/$script,~third-party,domain=pcbeta.com,match-case
-game735.com#$#div[id^="gklobl"] { height: 1px!important; }
-@@||i2.bahamut.com.tw/JS/ad/animeVideo2.js^$domain=ani.gamer.com.tw
-tsubasa.im#@#.textAd
-@@||av4u.info/source/plugin/unadblock^
-cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("set-constant", "NativeAd", "noopFunc")
-rjno1.com#%#(function(){const b=function(d){const a=Math.pow(10,d-1),b=Math.pow(10,d);return Math.floor(Math.random()*(b-a)+a)}(12);window.addEventListener("load",function(){window.google_image_requests=[],window.google_global_correlator=b,window._hmt=window._hmt||[],_hmt.id=b})})();
-linovelib.com#$#:is(#volume-list, #TextContent) { display: block !important; }
-@@||slashlook.com/_resource/js/_js_ads.min.js
-nodejs.cn#%#//scriptlet('set-constant', 'adsbygoogle.loaded', 'true')
-@@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=share1223.com
-waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#.player-rm > a[target="_blank"]
-t66y.com#$?#.sptable_do_not_remove { display: block !important; visibility: hidden !important; }
-hboav.com#%#//scriptlet("set-constant", "adbk", "false")
-@@||gamer-cds.cdn.hinet.net/vod/gamer/*.m3u8^$domain=ani.gamer.com.tw
-@@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video.min.js$domain=setn.com
-t66y.com#%#//scriptlet('prevent-setTimeout', 'html')
-2urs.com#%#//scriptlet('abort-on-property-read', 'ads')
-sports.qq.com#@#.txp_ad_center
-playav.cc#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'adBlockDetected')
-ohmanhua.com#%#//scriptlet("abort-on-property-write", "__DOMAIN")
-jmcomic-zzz.org,18comic.org,18comic.vip##div[style="position: absolute;bottom: 0px;z-index: 10;"]
-rjno1.com#$#body #aswift_1:not(#style_important) { display: block !important; }
-linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^="absolute inset-"][class*="bg-linetv"][class*="-emphasis"]
-bilinovel.com#@#ins.adsbygoogle[data-ad-slot]
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=league-funny.com
-jmcomic-zzz.org,18comic.org,18comic.vip#$?#.col-xs-6 > div[data-type][style]:has(> ins + script) { remove: true; }
-slashlook.com###AdvertisementBottom
-||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$script,redirect=noopjs,important,domain=ebb.io
-@@||google-analytics.com/analytics.js$domain=ebb.io
-bingfeng.tw#%#//scriptlet('abort-current-inline-script', 'setTimeout', 'COOKIE_NAME')
-@@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
-||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
-tsubasa.im#@#.pub_130x10
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=youneed.win
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ekamus.info
-tsubasa.im#@#.pub_300x250
-||174.127.195.66/bbs/include/javascript/adblock.js
-helper-employer.com#%#//scriptlet('prevent-fetch', 'adsbygoogle.js')
-520cc.cc#%#//scriptlet('prevent-setTimeout', 'myModal')
-ftchinese.com#%#//scriptlet('prevent-setTimeout', '.offsetHeight')
-@@||cocomanga.com/js/ad*/*.js
-nodejs.cn#%#//scriptlet('set-constant', '_AdBlockInit', 'noopFunc')
-bde4.icu#@#a[href*="/entry/register/?i_code="]
-ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.canobpreroll_', 'true')
-jkpan.cc#%#//scriptlet("abort-current-inline-script", "jQuery", "\u")
-||static.jfrft.com/js/main_video.js^$script,redirect=noopjs,domain=dilidili.wang,important
-bigpixel.cn#%#//scriptlet("set-constant", "killads", "true")
-dqzboy.com#@#.ad-unit:not(.textads)
-@@||surirt.com/ad/ads.php?id=$script,domain=surirt.com
-surirt.com#%#//scriptlet('set-constant', 'ad_id_for_555', '')
-~h5.dilidili.wang,dilidili.wang#$#a[href*=".11h5."] img { position: absolute!important; left: -3000px!important; }
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=xiebruce.top
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tsubasa.im
-caq98i.top#%#//scriptlet('abort-on-property-read', 'alertadmodal')
-@@||91wii.com/source/plugin/unadblock/adjs_pic_cpc_cpm_cpa_guanggao_gg_ads_250x250.js
-papalah.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
-||174.127.195.98/bbs/include/javascript/adblock.js
-gamer.com.tw#$##BH-bigbanner { position: absolute!important; left: -3000px!important; }
-||static.jfrft.com/js/main_list.js^$script,redirect=noopjs,domain=dilidili.wang,important
-tsubasa.im#@#.adsbygoogle-noablate
-@@||static.jfrft.com/js/main_list.js^$domain=dilidili.wang
-@@||pos.baidu.com/*?psi=*adblock$domain=jkpan.cc
-tsubasa.im#@#.text-ad
-bingfeng.tw#%#(function(){var b=window.setTimeout;window.setTimeout=function(a,c){if(!/Adblock/.test(a.toString()))return b(a,c)};})();
-pansci.asia#@#.ad-container
-@@||ak77now.pixnet.net^$generichide
-pincong.rocks#%#//scriptlet("prevent-setInterval", "Ad Block")
-wandhi.com#%#//scriptlet('prevent-fetch', '/googlesyndication\.com|doubleclick\.net/')
-nodejs.cn#%#//scriptlet('set-constant', 'adsbygoogle', 'emptyObj')
-rjno1.com#@#ins.adsbygoogle[data-ad-client]
-@@/js/adview_*.adsbygoogle.js$~third-party,domain=letv8.cc|zhibo1.cc
-tsubasa.im#@#.text_ads
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=slashview.com
-pansearch.me#%#//scriptlet('prevent-xhr', 'adsbygoogle')
-linovelib.com#$#.adblock-tips { display: none !important; }
-@@||renfei.net^$generichide
-rjno1.com#@#[id^="aswift_"]
-@@||hboav.com/guga/images/$xmlhttprequest
-||pcbeta.com/data/cache/common_fbdbbsyuzhttpx.js
-@@||ez3c.tw^$generichide
-tsubasa.im#@#.pub_520x950
-@@||pos.baidu.com/*?di=$script,domain=pf.bigpixel.cn
-||slashlook.com/_resource/html/_bloggerAdsBottom.html
-bilinovel.com#@#ins.adsbygoogle[data-ad-client]
-cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
-waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#a[href*=".umtrack.com/"] { position: absolute !important; left: -3000px !important; }
-slashlook.com###AdvertismentInline
-tsubasa.im#@#.adholder2
-bilinovel.com#@#.adsbygoogle-noablate
-koyso.com,wavse.com#@#.google-ad
-colamanga.com#@#.ADInfo
-@@||r.bat.bing.com/?ld=test$domain=mcappx.com
-@@||img3.126.net/ntesrich/*/adControl-indexx-$script,domain=rjno1.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mcappx.com
-tingfm.com#%#//scriptlet("prevent-setTimeout", "adblock")
-@@||attach.mobile01.com/image/mod_ad/*$domain=mobile01.com
-rjno1.com#@#ins.adsbygoogle[data-ad-slot]
-getitfree.cn#%#//scriptlet("abort-current-inline-script", "document.getElementById", "/!document\.getElementById\([\s\S]*?\.style\.display=/")
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mpyit.com
-mytvsuper.com#%#//scriptlet('googletagservices-gpt')
-wenxuecity.com#%#//scriptlet("set-constant", "adsbygoogle", "noopFunc")
-bilinovel.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'pagead2.googlesyndication.com')
-@@||slit.cn/source/plugin/unadblock/*.js
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=linetv.tw
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=mcappx.com
-bilinovel.com#%#//scriptlet('set-constant', 'checkAndHandleAdBlock', 'undefined')
-@@||moviesunuss.net^$generichide
-||alicdn.com^$domain=t66y.com
-waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#a[href*=".umtrack.com/"]
-linovelib.com#$#body[style] { overflow: auto !important; }
-@@||ohmanhua.com/js/*.js
-colamanga.com#$#html { overflow: auto !important; }
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rjno1.com
-letv8.cc,zhibo1.cc#%#//scriptlet('trusted-set-constant', 'adsv', '"Y"')
-ekamus.info#$#.adsbygoogle { height: 1px !important; }
-@@||cocomanga.com/js/dynamicjs.js
-@@||1keydata.com^$generichide
-tsubasa.im#%#//scriptlet('prevent-setTimeout', '/home/?adblock=')
-linovelib.com#%#//scriptlet('set-constant', 'adblock', '0')
-poedb.tw#%#//scriptlet("abort-current-inline-script", "document.getElementById", "/#myModal'\)\.modal/")
-vxetable.cn#%#//scriptlet('abort-current-inline-script', 'decodeURIComponent', 'pagead')
-@@||googleads.g.doubleclick.net/pagead/ads?*&url=http*.4gtv.tv*&output=xml_vast*.4gtv.tv$domain=imasdk.googleapis.com
-renfei.net#$#body { overflow-y: auto !important; }
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=mytvsuper.com
-fsbot.xyz#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
-@@||noy1.top/api/ads_v2$~third-party
-linetv.tw#%#//scriptlet('set-constant', 'google.ima.AdError', 'noopFunc')
-@@||colamanga.com/js/*/load.js
-1keydata.com#$##detect.ad-placement { display: block !important; }
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,important,domain=haoweichi.com
-taiwanlibrarysearch.herokuapp.com#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
-@@||service.4gtv.tv/4gtv/Data/GetAD.ashx
-||google-analytics.com/analytics.js$script,redirect=noopjs,important,domain=ebb.io
-@@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js
-cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("prevent-setTimeout", "checkSiteNormalLoad")
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pansearch.me
-ekamus.info#%#//scriptlet("set-constant", "isAdsDisplayed", "true")
-ebb.io#%#//scriptlet('set-constant', 'ga', 'noopFunc')
-jkpan.cc#%#//scriptlet("set-constant", "killads", "true")
-@@||kdpic.pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
-rjno1.com#%#//scriptlet("prevent-addEventListener", "error", "event.target.tagName")
-18comic.org,18comic.vip#@#img[style*="300px"]
-@@||static.jfrft.com/js/main_video.js^$domain=dilidili.wang
-@@||cdn.wwads.cn/js/makemoney.js$domain=docsmall.com
-slashview.com#$##SlashviewAdDetector { display: block !important; }
-5278.cc,hboav.com#%#//scriptlet('prevent-setTimeout', '/ad block stop|warm_msg/')
-tsubasa.im#@#.text_ad
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=linovelib.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=xiebruce.top
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_$script,domain=rjno1.com
-tsubasa.im#@#.pub_300x250m
-game735.com##div[id^="ysmAD"]
-||sinaimg.cn^$domain=t66y.com
-mpyit.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
-@@.php?id=$script,domain=surirt.com
-ekamus.info#%#//scriptlet("prevent-setTimeout", "ins.adsbygoogle")
-||r.bat.bing.com/?ld=$script,redirect=noopjs,domain=mcappx.com
-bilinovel.com#@#.adv-box
-jkpan.cc#%#//scriptlet("abort-current-inline-script", "document.writeln", "\u")
-@@||getitfree.cn/wp-content/plugins/adunblocker/public/js/banner_ads_*.js
-colamanga.com#@#.ADLeader
-haoweichi.com#%#//scriptlet("prevent-setTimeout", "adsbygoogle")
-@@||wwads.cn/code/banners?blocks=$domain=233tw.com
-||5278.cc/js/check.js
-moeci.com#%#//scriptlet('prevent-setTimeout', '_0x')
-mcappx.com#%#//scriptlet('prevent-element-src-loading', 'script', '/pagead2\.googlesyndication\.com|r\.bat\.bing\.com\/\?ld=/')
-linetv.tw#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
-@@||cpro.baidu.com^$script,domain=rjno1.com
-@@||jav777.xyz^$generichide
-huanqiu.com#%#//scriptlet('set-constant', 'AD_SURVEY_Add_AdPos_Simple', 'noopFunc')
-logi.im#%#//scriptlet("prevent-setTimeout", "ins.adsbygoogle")
-@@||xianzhenyuan.cn/data/attachment/common/guanggao/adjs.htm
-xchina.*##.block-overlay
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fsbot.xyz
-ruanyifeng.com#%#//scriptlet('prevent-setTimeout', 'checker')
-||baomidou.com/_astro/CheckAdBlocked.*.js
-helper-employer.com#%#//scriptlet('prevent-element-src-loading', 'script', 'clarity.ms/tag/')
-tingfm.com#%#//scriptlet('set-constant', 'canRunAds', 'true')
-@@||poedb.tw/js/adsbygoogle.js
-||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=rjno1.com,important
-t66y.com#@#.sptable_do_not_remove
-ebb.io#%#//scriptlet('set-constant', 'google_empty_script_included', 'true')
-linetv.tw#%#//scriptlet('prevent-fetch', '/pagead2\.googlesyndication\.com|\/fbevents\.js/')
-xchina.*#%#//scriptlet('prevent-addEventListener', '/DOMContentLoaded|load|complete/', '/check|detected/')
-koyi.pub#%#//scriptlet("set-constant", "fuzqingAdPlus", "emptyObj")
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bilinovel.com
-cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("set-constant", "__jsadsuccess", "true")
-445nan.com#@#.ad-box:not(#ad-banner):not(:empty)
-slashview.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
-tsubasa.im#@#.ad_container
-t66y.com##.tpc_content.do_not_catch > span.f24
-@@||520cc.cc/ad/ads.php?$script
-youneed.win#%#//scriptlet("abort-on-property-read", "daau_app")
-xbeibeix.com#%#//scriptlet('prevent-setTimeout', '/\.height\(\) == 0|adsbygoogle/')
-||pcbeta.com/data/cache/_djwbhgprrtnmby.js
-@@||i2.bahamut.com.tw/JS/ad/animeLogo.js^$domain=ani.gamer.com.tw
-174.127.195.98#%#//scriptlet('abort-on-property-write', 'checkAdblock')
-tsubasa.im#@#.pub_900x400
-@@||pg-wuming.com^$generichide
-||cdn.wwads.cn/js/makemoney.js$script,redirect=noopjs,domain=nodejs.cn,important
-||ads.adaptv.advertising.com/*roll&pageUrl=4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
-@@||cdn.wwads.cn/js/makemoney.js$domain=nodejs.cn
-@@||dl.r3sub.com^$generichide
-@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=papalah.com
-slashlook.com#$##mdAdsAnnouncement { display: none!important; }
-bingfeng.tw#$##ypaad { height: 3px!important; }
-@@||hboav.com/guga/adss.js
-1keydata.com#%#//scriptlet('abort-current-inline-script', 'document.querySelector', 'window.getComputedStyle')
-bde4.icu#$#a[href*="/entry/register/?i_code="] { position: absolute !important; left: -3000px !important; }
-yodu.org#$##byspider { display: none !important; }
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kktv.me
-hboav.com#@#script + div[class="cc5278_banner_ad"]
-jmcomic-zzz.org,18comic.org,18comic.vip#?#.col-xs-6 > div[data-show][style]:has(> p:only-child > a[target="_blank"] > img)
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=wuyong.fun,important
-@@||i2.bahamut.com.tw/JS/ad/animeVideo.js^$domain=ani.gamer.com.tw
-@@||cpro.baidustatic.com/cpro/ui/cm.js$domain=pf.bigpixel.cn
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=4gtv.tv
-colamanga.com#@#.ADFooter
-dilidili.wang#$#body > article[class][style*="position: fixed;top: 0;z-index: 9999;display:block !important;"] { position: absolute!important; left: -3000px!important; }
-@@||cocomanga.com/js/ad_/$image
-dyxs23.com,dyxs20.com,dyxs15.com,dyxs14.com,dyxs13.com,dyxs12.com,dyxs11.com##.popupicon
-@@||pos.baidu.com/*?conwid=$subdocument,domain=pf.bigpixel.cn
-jmcomic-zzz.org,18comic.org,18comic.vip##.div-bf-pv
-linovelib.com#$##mlfy_main_text > div[class]:not([id]) { display: none !important; }
-@@||520click.com/ad.php?id=$script,domain=surirt.com
-slashlook.com#$#body.modal-open { padding-right: 0!important; overflow: visible!important; }
-pansearch.me#%#//scriptlet('prevent-element-src-loading', 'script', 'adsbygoogle')
-xiebruce.top#%#//scriptlet("prevent-addEventListener", "", "showRemoveAdBlocker")
-445nan.com#%#//scriptlet('prevent-setTimeout', '.offsetHeight == 0')
-bigpixel.cn#$?##PAGE_AD_1 { remove: true; }
-linovelib.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'adBlock')
-@@||cdn.sssam.com/static/js/*.js
-huanqiu.com#%#//scriptlet('set-constant', 'AD_SURVEY_Add_AdPos', 'noopFunc')
-520call.me#%#//scriptlet("set-constant", "all520dddaaa2022ccc", "true")
-linetv.tw#%#//scriptlet('set-constant', 'google_tag_manager', 'emptyObj')
-@@||clarity.ms/tag/$domain=moeci.com
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=yodu.org
-@@||gamer-cds.cdn.hinet.net/vod/gamer/*.ts^$domain=ani.gamer.com.tw
-hboav.com#@#.close_box0
-||service.4gtv.tv/4gtv/Data/GetAD.ashx$replace=/((\{[\s\S]*?)"preroll":( )?\[)[\s\S]*\]/\$1]/,important,domain=4gtv.tv
-rjno1.com#%#function preventError(d){window.addEventListener("error",function(a){if(a.srcElement&&a.srcElement.src){const b=new RegExp(d);b.test(a.srcElement.src)&&(a.srcElement.onerror=function(){})}},!0)}preventError(/^(?!.*(rt-error.js)).*$/);
-@@||securepubads.g.doubleclick.net/gampad/ads?$domain=league-funny.com
-||cpro.baidu.com/cpro/ui/rt.js$script,redirect=noopjs,domain=rjno1.com
-baomidou.com#%#//scriptlet('set-constant', '_AdBlockInit', 'noopFunc')
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=linetv.tw
-ftchinese.com#@#.AdsBox
-gamer.com.tw#$#img[onload="AntiAd.check(this)"] { position: absolute!important; left: -3000px!important; }
-@@||520click.com/ad.php$domain=520cc.cc
-colamanga.com#%#//scriptlet("prevent-setTimeout", "loadErrorTip")
-||vast.doublemax.net/adserver/vast.xml$script,xmlhttprequest,other,redirect=noopvast-2.0
-@@||yeeach.com^$generichide,badfilter
-t66y.com#@#.tips
-tsubasa.im#@#.text-ad-links
-league-funny.com#%#//scriptlet("prevent-setTimeout", "ad_num_show")
-surirt.com#%#//scriptlet('set-constant', 'all520dddaaa2022ccc', 'true')
-@@||colamanga.com^$generichide
-@@||googleads.g.doubleclick.net/favicon.ico,domain=music.wandhi.com
-linovelib.com#$#.dag + div[class]:not([id]) { display: none !important; }
-slashlook.com#%#//scriptlet('set-constant', 'canRunAds', 'true')
-renfei.net#$#.ant-modal-root { display: none !important; }
-helper-employer.com#%#//scriptlet('spoof-css', '.adsbygoogle', 'display', 'block')
-||hotpress.info/blog/asian-javdl/wp-content/uploads/irvsxp.js
-mcappx.com#%#//scriptlet('abort-on-stack-trace', 'alert', '.onerror')
-jmcomic-zzz.org,18comic.org,18comic.vip#%#//scriptlet('abort-current-inline-script', 'document.dispatchEvent', '/getexoloader/')
-youranshare.com#%#//scriptlet("abort-current-inline-script", "$", "adskilltest")
-@@||pg-wuming.com/js/*/adblocker-1.js
-tsubasa.im#%#//scriptlet('prevent-setInterval', '/home/?adblock=')
-ldqk.xyz#@#.google-ad
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=bilinovel.com
-slashlook.com#$#body.modal-open .modal-backdrop { display: none!important; }
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=helper-employer.com
-linovelib.com#$##byspider { display: none !important; }
-xbeibeix.com#@#.google-ad
-@@||hinet.net/keys/a.key^$domain=ani.gamer.com.tw
-jmcomic-zzz.org,18comic.org,18comic.vip#@?#:-abp-has(>ins+script)
-1090ys8.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
-@@||2urs.com/js/*_cpa_$script
-hboav.com#%#//scriptlet("set-constant", "onload", "null")
-@@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
-pcbeta.com#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'make_rand_div')
-520cc.cc#%#//scriptlet('set-constant', 'all520dddaaa2022ccc', 'true')
-@@^vast^$domain=4gtv.tv,~script,~image
-@@||game735.com^$generichide
-xbgame.net#@#.google-ads
-@@||matomo.moeci.com/matomo.js$domain=moeci.com
-freedidi.com#@#.adsBanner
-@@||cdn.wwads.cn/js/makemoney.js$domain=233tw.com
-waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian7.com,waipian8.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#.player-rm > a[target="_blank"] { position: absolute !important; left: -3000px !important; }
-slit.cn#%#//scriptlet("abort-current-inline-script", "alert", "typeof(ad)")
-ruanyifeng.com#@#a > img[src*="wangbase.com/blogimg/asset/"]
-||connect.facebook.net/en_US/fbevents.js$script,redirect=noopjs,domain=linetv.tw
-@@/wp-content/themes/radio-hub/*.js$domain=tingfm.com
-@@||clarity.ms/tag/$script,domain=helper-employer.com
-yunduanxin.xyz###adb-mask
-||slashlook.com/_resource/html/_bloggerAdsInline1.html
-xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
-jmcomic-zzz.org,18comic.org,18comic.vip#%#//scriptlet('prevent-setTimeout', 'float_right > div')
-koyi.pub#@#.main_ad
-ddys.*,ddrk.me#%#//scriptlet('set-constant', 'Object.prototype.cnobpreroll_', 'true')
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=tsubasa.im
-docsmall.com#@##google-ads
-91wii.com#%#window.ad = window.ads = window.dzad = window.dzads = true;
-tingfm.com#%#//scriptlet('set-constant', 'can_run_ads', 'true')
-@@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video-js.min.css$domain=setn.com
-@@||ani.gamer.com.tw^$generichide
-popbee.com##.adblocker
-pg-wuming.com#%#//scriptlet("abort-current-inline-script", "$", "!document.getElementById(btoa")
-colamanga.com#$#div[class^="layui-layer-"]:not(#color) { display: none !important; }
-||hboav.com/guga/images/$xmlhttprequest,redirect=nooptext
-||itad.linetv.tw/api/v2/vmap?ad_id=$xmlhttprequest,redirect=nooptext
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=yodu.org
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=league-funny.com
-@@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=bde4.icu
-@@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com
-linetv.tw#%#//scriptlet('prevent-element-src-loading', 'script', '/fbevents.js')
-yibian.hopto.org###no-adblock-box
-helper-employer.com#@#ins.adsbygoogle[data-ad-slot]
-@@||koyi.pub/wp-content/plugins/fuzqing-ad-plus/assets/js/*.js
-dqzboy.com#$#body.adblock-modal-active { overflow: auto !important; position: static !important; }
-||xianzhenyuan.cn/data/attachment^$image
-itdog.cn#%#//scriptlet('prevent-setTimeout', 'adblock_tip')
-520call.me#%#//scriptlet("set-constant", "all520dddaaa2022aaa", "undefined")
-rjno1.com#@#main > div[class^="qnb"]
-4gtv.tv#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
-@@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=rjno1.com
-dqzboy.com#$#.adblock-modal { display: none !important; }
-yodu.org#$#body[style] { overflow: auto !important; }
-ruanyifeng.com#@#a[href*="?utm_source="]
-@@||easylife.tw^$generichide
-dl.r3sub.com##.scupioadslot
-cocomanga.com#%#//scriptlet('prevent-setTimeout', 'loadErrorTip')
-noy1.top#%#//scriptlet('prevent-xhr', '/api/ads')
-@@||papalah.com^$generichide
-stealjobs.com#@#.custom-ad
-||126.net^$script,redirect=noopjs,domain=rjno1.com
-tsubasa.im#@#.text-ads
-@@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
-233tw.com#%#//scriptlet('prevent-setTimeout', '发现严重BUG')
-@@||googleads4.g.doubleclick.net^$domain=renfei.net
 ||btsow.pics/app/jav$image
 cctv.com###bgAd_div
 ||ssports.iqiyi.com/app/$media,object-subrequest
@@ -9176,6 +9176,7 @@ sina.com.cn##.tn-nav > div.tn-title:nth-of-type(4) > .tn-tab > i
 m.douban.com##.score-write
 view.inews.qq.com##div[class^="interaction-bottom_interaction"]
 c.m.163.com##.js-open-newsapp.s-top > .s-btn
+#@@||360.cn^$important
 ##网易企业邮箱
 ##番茄小说
 ||api2.coolapk.com/v6/page/dataList$replace=/{&quot;entityType&quot;:&quot;card&quot;\,&quot;entityTemplate&quot;:&quot;apkImageCard&quot;.*?\\u0022}&quot;}\,/ /
@@ -9248,7 +9249,6 @@ c.m.163.com##.js-open-newsapp.s-top > .s-btn
 ##网易邮箱大师
 ||api2.coolapk.com/v6/main/indexV8$replace=/{&quot;entityType&quot;:&quot;card&quot;\,&quot;entityTemplate&quot;:&quot;listCard&quot;.*?}&quot;}\,/ /
 ##豆包
-#@@||360.cn^$important
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
 /e/ecmsshop/zhuanpan/js/*
@@ -34992,6 +34992,7 @@ ad-italia.it,gqitalia.it,lacucinaitaliana.it,vanityfair.it,vogue.it,www.wired.it
 ##.fblikebox
 ##.fb-share-new
 ##.x-social-global
+restofworld.org##.google-preferred-v1
 newstalkzb.co.nz##.o-share-list
 ##.herald-share
 ###shareThisDisplay
@@ -35567,6 +35568,7 @@ sfgate.com##[aria-label="Share from Email"]
 dot.la##.foot_bar
 independente.com.br##.box-whatsapp
 ###menu_social
+9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,spaceexplored.com##.google-preferred-source-badge
 /share/footer/*
 ##.rs-prod-socialshare
 ##.menu-footer-social
