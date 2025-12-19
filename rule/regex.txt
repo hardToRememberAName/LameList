@@ -1,4 +1,4 @@
-# Update time: 2025-12-18 20:29:35
+# Update time: 2025-12-19 09:08:26
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -47,13 +47,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||ad*.nownews.com^
+||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||ad*.nownews.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,8 +74,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||acookie.*.gif?
 728x90.jpg|
+||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -261,6 +261,7 @@ analytics-*.aasaam.com
 ||bi-eventtracker-*.amazonaws.com^
 ||pxl-*.ozone.ru^
 ||mon*-*.tiktokv.us^
+||kbox-analytics-prod.s*.amazonaws.com^
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
 ||putrr*.com^
@@ -350,6 +351,7 @@ analytics-*.aasaam.com
 ||dw-informer-*.newsru.com^
 |piwik.
 ||datacollector-*.dt.hicloud.com^
+||mon-v*-boot.capcutapi.com^
 ||piwik.*.vn^
 ||letssex.
 ||ad-host-backup-*.aliyuncs.com^
