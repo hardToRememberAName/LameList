@@ -1,4 +1,4 @@
-# Update time: 2025-12-20 20:25:31
+# Update time: 2025-12-21 09:12:41
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -110,6 +110,8 @@
 ||fls-*.amazon.com^
 ||hbbtv.*.de^
 |lgtvsdp.com^
+||bpc-***.leadintelligent.com^
+||s4-***.leadchina.cn^
 @@||v*.douyinvod.com^
 ||ads*-normal-lf.zijieapi.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -164,8 +166,6 @@
 ||ads*-normal.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
-||bpc-***.leadintelligent.com^
-||s4-***.leadchina.cn^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
