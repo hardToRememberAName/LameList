@@ -1,4 +1,4 @@
-# Update time: 2025-12-22 20:29:28
+# Update time: 2025-12-23 09:07:53
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -47,12 +47,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||onetrust.
+||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -73,6 +74,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||acookie.*.gif?
+728x90.jpg|
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -98,9 +101,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 @@||cdn-msp*.18comic*.*^
-||acookie.*.gif?
-728x90.jpg|
-||onetrust.
 |samsungcloudsolution.net^
 |samsungcloudsolution.com^
 ||fkp.samsungcloudsolution.
