@@ -1,4 +1,4 @@
-# Update time: 2025-12-23 09:07:53
+# Update time: 2025-12-23 20:29:41
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -47,13 +47,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||ad*.nownews.com^
+||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||onetrust.
-||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -74,8 +74,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||acookie.*.gif?
 728x90.jpg|
+||acookie.*.gif?
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -110,8 +110,6 @@
 ||fls-*.amazon.com^
 ||hbbtv.*.de^
 |lgtvsdp.com^
-||bpc-***.leadintelligent.com^
-||s4-***.leadchina.cn^
 @@||v*.douyinvod.com^
 ||ads*-normal-lf.zijieapi.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -166,6 +164,8 @@
 ||ads*-normal.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||bpc-***.leadintelligent.com^
+||s4-***.leadchina.cn^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -248,6 +248,7 @@ analytics-*.aasaam.com
 ||telemetry*.transcend.io^
 ||cnt.vivatube.
 ||rotabanner.
+||collector-*.perimeterx.net^
 ||advert*.ultraweb.hu^
 ||log*-misc-lf.amemv.com^
 ||stats2.*.fdnames.com^
