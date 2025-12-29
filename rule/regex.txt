@@ -1,8 +1,17 @@
-# Update time: 2025-12-29 09:13:46
+# Update time: 2025-12-29 20:30:28
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
 ||zbb.bbb.*.pics^
+||s*.skencituer.com^
+||hostingcloud.*.wasm^
+||bc.geocities.
+||collector-*.luigisbox.com^
+||log-*.previewnetworks.com^
+||mcdp-*.outbrain.com^
+||tracker.twenga.
+||onetrust.
+||ad*.nownews.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads*.production-public.tubi.io^
 ||adx-*.op.dbankcloud.com.edgekey.net^
@@ -45,15 +54,6 @@
 ||banner.*.tccapis.com^
 ||cdn-adn-*.rayjump.com^
 ||adcs-*.myappsget.com^
-||s*.skencituer.com^
-||hostingcloud.*.wasm^
-||ad*.nownews.com^
-||onetrust.
-||bc.geocities.
-||collector-*.luigisbox.com^
-||log-*.previewnetworks.com^
-||mcdp-*.outbrain.com^
-||tracker.twenga.
 ||allyes.
 ||icast.
 ||gg.
