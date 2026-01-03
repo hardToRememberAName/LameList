@@ -1,5 +1,104 @@
-# Update time: 2026-01-02 20:28:24
+# Update time: 2026-01-03 09:05:33
 # 
+207.148.44.179$network
+||ysx8.vip^$third-party
+||chushoushijian.cn^$third-party
+||rz261.cn^$third-party
+||haoxxwang.com^$third-party
+||power.adhacker.online^$third-party
+||156.233.32.123^$third-party
+||mdfsbn.com^$third-party
+||adserve.work^$third-party
+||qienews.cn^$third-party
+||yxgfcj.com^$third-party
+||192.151.218.66^$third-party
+||cdxyb.cn^$third-party
+||tagtoo.co^$third-party
+/^https:\/\/[a-z0-9-]{3,12}\.[a-z0-9]+\.com\/([A-Za-z0-9.]+)(?:\/([A-Za-z0-9.]+))?\.\d{4}\.(doc|docx|html|jpeg|jpg|js|json|odf|pdf|png|ppt|psd|rtf|shtml|sxml|txt|wedp|wps|xml|xps)\?\d{13}$/$third-party,match-case
+||shilian168.cn^$third-party
+||gzzkjdam.cn^$third-party
+||vip.ludu319.com^$third-party
+||hbzjht.com^$third-party
+||9kh5b.cn^$third-party
+||ce.wlaoc.cn^$third-party
+||lnhsjob.com^$third-party
+||dat1.jzjxmj.com^$third-party
+||dns.chuzushijian.cn^$third-party
+||muxingkj.com^$third-party,image
+||jsckjqr.com^$third-party
+||zjgfq.com^$third-party
+||a.dlads.cn^$third-party
+||avspda.xyz^$third-party
+||ahejtw.onelink.me^$third-party
+||kolsh.cn^$third-party
+||adbottw.net^$third-party
+||d2kadvyeq051an.cloudfront.net^$third-party
+||cdn.holmesmind.com^$third-party
+||p.wktfkj.com^$third-party
+||trenhdg.com^$third-party
+||web.51fishplace.com^$third-party
+||j.sdqoi2d.com^$third-party
+||r528e.cn^$third-party
+||fam-8.net^$third-party
+||cxdcn9c.fjshxjs.cn^$third-party
+||t.yzwr588.com^$third-party
+||spl.ztvx8.com^$third-party
+||daliantong.com.cn^$third-party
+||byscy.cn^$third-party
+||youqunjx.com^$third-party
+||a.breaktime.com.tw^$third-party
+||remehealth.net^$third-party
+||ofd.meng-an.cn^$third-party
+||m.m216j.cn^$third-party
+||u.xogu.cn^$third-party
+||adotone.com^$third-party
+||tu2.taohuaimg.com^$third-party
+||m.91heima.cn^$third-party
+/^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
+||luolitang.com^$third-party
+||yijuxie.com^$third-party
+||m.qhxcdmfj.cn^$third-party
+||2cnjuh34jbman.com^$third-party
+||pxx.tnklrs.cn^$third-party
+||yeyemo4.com^$third-party,image
+||jg1668.com^$third-party
+||mscs.svaeuzh.cn^$third-party
+||nzydzsw.com^$third-party
+||count.xxxssk.com^$third-party
+||vip.min1319.com^$third-party
+||a32a.com.cn^$third-party
+||mgzjin.cn^$third-party
+||au.adhacker.online^$third-party
+||ad.ettoday.net^$redirect=nooptext
+||fanzhuang.net.cn^$third-party
+||1990tu.com^$third-party
+||hlstlyy.com^$third-party
+||k2n0f.cn^$third-party
+||ddgjjj.com^$third-party
+||zhy333.com^$third-party
+||hnyishidengbao.com^$third-party
+||cnzz.yifenghuyu.com^$third-party
+||m.ercos.cn^$third-party
+||zhongwangmy.cn^$third-party
+||ggsfq.xyz^$third-party
+||87uq.com^$third-party
+||qguwoq.cn^$third-party
+||jgstny.com^$third-party
+||1s8pj.cn^$third-party
+||pv.dakawm.cc^$third-party
+||fuoo1.top^$third-party
+||js.xz6d.com^$third-party
+||aa67678156.com^$third-party
+||tongbaimi.cn^$third-party
+||soorbka.cn^$third-party
+||23.224.89.2^$third-party
+||og.zyzjpx.cn^$third-party
+||pop.wioau.com^$third-party
+||m.nanyangqiaoxiang.cn^$third-party
+||yitongfang.com^$third-party
+||cwmlm.com^$third-party
+||onemob.mobi^$third-party
+||26gg.bnq86.com^$third-party
 @@||technews.tw^$generichide,badfilter
 @@||wkstatic.bdimg.com/static/wkcore/widget/commerce/fengchao/*$domain=wenku.baidu.com
 @@||d.line-scdn.net/*/torimochi.js/*/torimochi.js$script,domain=line.me
@@ -135,105 +234,11 @@ app.n26.com#@#.bl > .gg
 dl.mail.com,dl.gmx.*,dl.web.*#@#body > [style^="display: block; width: 100%; height:"]:empty
 @@||mcc.xunliandata.com/mci-reward/static/img/ad.
 @@||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
-207.148.44.179$network
-||ysx8.vip^$third-party
-||chushoushijian.cn^$third-party
-||rz261.cn^$third-party
-||haoxxwang.com^$third-party
-||power.adhacker.online^$third-party
-||156.233.32.123^$third-party
-||mdfsbn.com^$third-party
-||adserve.work^$third-party
-||qienews.cn^$third-party
-||yxgfcj.com^$third-party
-||192.151.218.66^$third-party
-||cdxyb.cn^$third-party
-||tagtoo.co^$third-party
-/^https:\/\/[a-z0-9-]{3,12}\.[a-z0-9]+\.com\/([A-Za-z0-9.]+)(?:\/([A-Za-z0-9.]+))?\.\d{4}\.(doc|docx|html|jpeg|jpg|js|json|odf|pdf|png|ppt|psd|rtf|shtml|sxml|txt|wedp|wps|xml|xps)\?\d{13}$/$third-party,match-case
-||shilian168.cn^$third-party
-||gzzkjdam.cn^$third-party
-||vip.ludu319.com^$third-party
-||hbzjht.com^$third-party
-||9kh5b.cn^$third-party
-||ce.wlaoc.cn^$third-party
-||lnhsjob.com^$third-party
-||dat1.jzjxmj.com^$third-party
-||dns.chuzushijian.cn^$third-party
-||muxingkj.com^$third-party,image
-||jsckjqr.com^$third-party
-||zjgfq.com^$third-party
-||a.dlads.cn^$third-party
-||avspda.xyz^$third-party
-||ahejtw.onelink.me^$third-party
-||kolsh.cn^$third-party
-||adbottw.net^$third-party
-||d2kadvyeq051an.cloudfront.net^$third-party
-||cdn.holmesmind.com^$third-party
-||p.wktfkj.com^$third-party
-||trenhdg.com^$third-party
-||web.51fishplace.com^$third-party
-||j.sdqoi2d.com^$third-party
-||r528e.cn^$third-party
-||fam-8.net^$third-party
-||cxdcn9c.fjshxjs.cn^$third-party
-||t.yzwr588.com^$third-party
-||spl.ztvx8.com^$third-party
-||daliantong.com.cn^$third-party
-||byscy.cn^$third-party
-||youqunjx.com^$third-party
-||a.breaktime.com.tw^$third-party
-||remehealth.net^$third-party
-||ofd.meng-an.cn^$third-party
-||m.m216j.cn^$third-party
-||u.xogu.cn^$third-party
-||adotone.com^$third-party
-||tu2.taohuaimg.com^$third-party
-||m.91heima.cn^$third-party
-/^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$/
-||luolitang.com^$third-party
-||yijuxie.com^$third-party
-||m.qhxcdmfj.cn^$third-party
-||2cnjuh34jbman.com^$third-party
-||pxx.tnklrs.cn^$third-party
-||yeyemo4.com^$third-party,image
-||jg1668.com^$third-party
-||mscs.svaeuzh.cn^$third-party
-||nzydzsw.com^$third-party
-||count.xxxssk.com^$third-party
-||vip.min1319.com^$third-party
-||a32a.com.cn^$third-party
-||mgzjin.cn^$third-party
-||au.adhacker.online^$third-party
-||ad.ettoday.net^$redirect=nooptext
-||fanzhuang.net.cn^$third-party
-||1990tu.com^$third-party
-||hlstlyy.com^$third-party
-||k2n0f.cn^$third-party
-||ddgjjj.com^$third-party
-||zhy333.com^$third-party
-||hnyishidengbao.com^$third-party
-||cnzz.yifenghuyu.com^$third-party
-||m.ercos.cn^$third-party
-||zhongwangmy.cn^$third-party
-||ggsfq.xyz^$third-party
-||87uq.com^$third-party
-||qguwoq.cn^$third-party
-||jgstny.com^$third-party
-||1s8pj.cn^$third-party
-||pv.dakawm.cc^$third-party
-||fuoo1.top^$third-party
-||js.xz6d.com^$third-party
-||aa67678156.com^$third-party
-||tongbaimi.cn^$third-party
-||soorbka.cn^$third-party
-||23.224.89.2^$third-party
-||og.zyzjpx.cn^$third-party
-||pop.wioau.com^$third-party
-||m.nanyangqiaoxiang.cn^$third-party
-||yitongfang.com^$third-party
-||cwmlm.com^$third-party
-||onemob.mobi^$third-party
-||26gg.bnq86.com^$third-party
+### WindowsSpyBlocker - Hosts spy rules
+### More info: https://github.com/crazy-max/WindowsSpyBlocker
+### License: MIT
+### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
+### Updated: 2022-05-16T13:25:00Z02:12
 fabconvert.com#@#.ad-banner-top
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
 dqzboy.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', 'window.getComputedStyle')
@@ -603,11 +608,6 @@ tsubasa.im#@#.text-ads
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
 233tw.com#%#//scriptlet('prevent-setTimeout', '发现严重BUG')
 @@||googleads4.g.doubleclick.net^$domain=renfei.net
-### WindowsSpyBlocker - Hosts spy rules
-### More info: https://github.com/crazy-max/WindowsSpyBlocker
-### License: MIT
-### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
-### Updated: 2022-05-16T13:25:00Z02:12
 @@||doda.jp/cmn_web/img/brand/ad/ad_top_3.mp4
 @@||adap.tv/redir/javascript/vpaid.js
 @@||basinnow.com/upload/settings/advertise-img.jpg
@@ -1330,7 +1330,6 @@ $websocket,domain=300mbfilms.io|lib.rus.ec
 ||dontbeevils.de^$websocket
 ||techhome-js.github.io/code.wsm^$third-party
 ||orbita-lviv.com/jquerys.js
-||afminer.com^$third-party
 ||bablace.com^$third-party
 ||omine.org^$third-party
 ||dynamo-kiev.com/jquerys.js
@@ -1552,6 +1551,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||thewhizmarketing.com^$third-party
 @@||aptal.pro^$websocket
 /crypta.js
+||afminer.com^$third-party
 ||srcips.com^$third-party
 ||aeros02.tk^$third-party
 ||notmining.org^$third-party
@@ -1600,6 +1600,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||*.sx^$denyallow=filemoon.sx|voe.sx
 ||*.tattoo^
 ||*.xn--3oq18vl8pn36a^
+||*.cfd^
 ||*.games^$denyallow=crazypanda.games|embark.games|eneba.games|gxcorner.games|skystone.games
 ||*.ninja^$denyallow=poe.ninja|protomedia.ninja
 ||*.ml^$denyallow=aire.ml|amap.ml|google.ml|info-matin.ml|lemmygrad.ml|lemmy.ml|lingva.ml|loma.ml|mastodon.ml|melody.ml|precure.ml|prompt.ml
@@ -1660,7 +1661,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||*.xn--kpry57d^
 ||*.irish^
 ||*.center^$denyallow=mein-kunden.center|oh.center|priv.center|relaxx.center
-||*.vlaanderen^
 ||*.claims^
 ||*.mov^$denyallow=david.mov|peerflix.mov|pstream.mov
 ||*.xn--pgbs0dh^
@@ -1708,6 +1708,7 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||*.xn--xhq521b^
 ||*.xn--jlq61u9w7b^
 ||*.xn--kprw13d^
+||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|immich.store|iqunix.store|pbshop.store|peugeot.store|roble.store|rokomari.store|shoplazza.store|shopware.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store
 ||*.house^$denyallow=lanparty.house|nature.house
 ||*.skin^
 ||*.wang^
@@ -1860,7 +1861,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||*.xn--mgbpl2fh^
 ||*.xn--fzys8d69uvgm^
 ||*.xn--c1avg^
-||*.store^$denyallow=adidashardware.store|beyondagency.store|bigtimerush.store|bigtimerushuk.store|cleanmasters.store|ettoresoftware.store|fbits.store|g-h.store|glitchproductions.store|hacksmith.store|heavysaurus.store|immich.store|iqunix.store|pbshop.store|peugeot.store|roble.store|rokomari.store|shoplazza.store|shopware.store|stan.store|tatemcraeeu.store|tatemcrae.store|timberjacks.store
 ||*.webcam^
 ||*.xn--xkc2al3hye2a^
 ||*.studio^$denyallow=affinity.studio|ai.studio|firebase.studio|flourish.studio|starapps.studio|woodsea.studio|zenn.studio
@@ -1993,7 +1993,6 @@ $csp=worker-src 'none',domain=123telugu.com|300mbfilms.co|agp.com.pk|ajplugins.c
 ||*.boats^
 ||*.xn--bck1b9a5dre4c^
 ||*.giving^
-||*.cfd^$denyallow=freedium.cfd
 ||*.xn--j1amh^
 ||*.xn--q9jyb4c^
 ||*.computer^$denyallow=helium.computer|libre.computer|neat.computer|silly.computer
@@ -9200,7 +9199,6 @@ sina.com.cn##.tn-nav > div.tn-title:nth-of-type(4) > .tn-tab > i
 m.douban.com##.score-write
 view.inews.qq.com##div[class^="interaction-bottom_interaction"]
 c.m.163.com##.js-open-newsapp.s-top > .s-btn
-#@@||360.cn^$important
 ##网易企业邮箱
 ##番茄小说
 ||api2.coolapk.com/v6/page/dataList$replace=/{&quot;entityType&quot;:&quot;card&quot;\,&quot;entityTemplate&quot;:&quot;apkImageCard&quot;.*?\\u0022}&quot;}\,/ /
@@ -9273,6 +9271,7 @@ c.m.163.com##.js-open-newsapp.s-top > .s-btn
 ##网易邮箱大师
 ||api2.coolapk.com/v6/main/indexV8$replace=/{&quot;entityType&quot;:&quot;card&quot;\,&quot;entityTemplate&quot;:&quot;listCard&quot;.*?}&quot;}\,/ /
 ##豆包
+#@@||360.cn^$important
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
 /e/ecmsshop/zhuanpan/js/*
@@ -36262,6 +36261,7 @@ idlprocycling.com,indeleiderstrui.nl,twenteinsite.nl##.share_item
 @@||obituaries.therecord.com^|
 -bandarkiu.
 @@||my.tealiumiq.com^|
+@@||sedge.nfl.com^|
 @@||admin.dable.io^|
 @@||ma135-r.analytics.edgekey.net^|
 .tpm.pw^
