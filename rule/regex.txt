@@ -1,4 +1,4 @@
-# Update time: 2026-01-04 09:17:19
+# Update time: 2026-01-04 20:27:10
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -48,12 +48,12 @@
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
 ||ad*.nownews.com^
-||onetrust.
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,8 +74,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-728x90.jpg|
 ||acookie.*.gif?
+728x90.jpg|
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
