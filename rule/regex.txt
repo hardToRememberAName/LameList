@@ -1,4 +1,4 @@
-# Update time: 2026-01-05 09:15:49
+# Update time: 2026-01-05 20:32:08
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -47,12 +47,12 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
-||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
+||ad*.nownews.com^
 ||onetrust.
 ||allyes.
 ||icast.
@@ -367,7 +367,6 @@ analytics-*.aasaam.com
 ||s*.adduplex.com^
 ||util-*.simply-hentai.com^
 ||collect-elb-*.amazonaws.com^
-||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||adserver1.
 ||ad*.mellesleg.hu^
