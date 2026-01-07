@@ -1,4 +1,4 @@
-# Update time: 2026-01-07 09:10:08
+# Update time: 2026-01-07 20:31:15
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -47,13 +47,13 @@
 ||adcs-*.myappsget.com^
 ||s*.skencituer.com^
 ||hostingcloud.*.wasm^
+||ad*.nownews.com^
 ||bc.geocities.
 ||collector-*.luigisbox.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
 ||onetrust.
-||ad*.nownews.com^
 ||allyes.
 ||icast.
 ||gg.
