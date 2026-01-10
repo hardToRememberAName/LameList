@@ -1,4 +1,4 @@
-# Update time: 2026-01-10 09:07:56
+# Update time: 2026-01-10 20:26:46
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -52,8 +52,8 @@
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||tracker.twenga.
-||onetrust.
 ||ad*.nownews.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -74,8 +74,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-728x90.jpg|
 ||acookie.*.gif?
+728x90.jpg|
 ||zcchyr*.xyz^
 ||js.*2023*.live^
 ||zaqlovh*.xyz^
@@ -110,6 +110,8 @@
 ||fls-*.amazon.com^
 ||hbbtv.*.de^
 |lgtvsdp.com^
+||bpc-***.leadintelligent.com^
+||s4-***.leadchina.cn^
 @@||v*.douyinvod.com^
 ||ads*-normal-lf.zijieapi.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -164,8 +166,6 @@
 ||ads*-normal.zijieapi.com^
 @@||d*.static.yximgs.com^
 ||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
-||bpc-***.leadintelligent.com^
-||s4-***.leadchina.cn^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
