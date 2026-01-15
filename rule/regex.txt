@@ -1,4 +1,4 @@
-# Update time: 2026-01-14 20:31:18
+# Update time: 2026-01-15 09:08:53
 # 
 ||ad*.on.cc^
 ||tw-726620180914.*.run.app^
@@ -553,6 +553,7 @@ analytics-*.aasaam.com
 ||telemetry.*.pvp.net^
 ||sgtm.wimdu.
 ||snowplow-collector.
+||gbxreport-*.wf.com^
 ||www.fuze-hill*.xyz^
 ||spa-tracker*.spapi.io^
 ||parkdomainreal*.site^
