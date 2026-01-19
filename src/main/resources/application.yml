@@ -13,11 +13,11 @@ application:
     #远程规则
     remote:
       # Adguard
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt' #AdGuard DNS BaseFilter #Combined in AdGuard DNS filter
-      #- 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #AdGuard Base filter #Combined in AdGuard DNS filter
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt' #AdGuard DNS BaseFilter #Combined in AdGuard DNS filter
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #AdGuard Base filter #Combined in AdGuard DNS filter
       #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt' #AdGuard BaseFilter — first-party servers
       #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/content_blocker.txt' #BaseFilter content_blocker
-      #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/allowlist.txt' #BaseFilter allowlist 
+      - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/allowlist.txt' #BaseFilter allowlist 
       #- 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_original_trackers.txt' #cname-trackers adspyglass
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' #AdGuard DNS filter
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt' #AdGuard DNS filter mobile
@@ -25,6 +25,7 @@ application:
       #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/allowlist_app.txt' #MobileFilter allowlist_app
       #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/allowlist_web.txt' #MobileFilter allowlist_web
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt' #AdGuard Chinese filter
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdGuard Chinese filter
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers_firstparty.txt' #AdGuard Chinese filter — first-party servers
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/antiadblock.txt'#ChineseFilter antiadblock
       - 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/allowlist.txt' #ChineseFilter allowlist
