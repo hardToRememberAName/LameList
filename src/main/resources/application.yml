@@ -93,7 +93,7 @@ application:
       - 'https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt' #PiHoleBlocklist/SmartTV-AGH
       - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #Noyllopa/NoAppDownload
       - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/regex.txt' #afwfv/DD-AD regex
-      - 'https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_small.txt' #sjhgvr/oisd
+      - 'https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_big.txt' #sjhgvr/oisd
       - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #StevenBlack Basic
       - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts' #StevenBlack gambling
       
