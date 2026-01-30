@@ -93,6 +93,8 @@ application:
       - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #Noyllopa/NoAppDownload
       - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/regex.txt' #afwfv/DD-AD regex
       - 'https://raw.githubusercontent.com/sjhgvr/oisd/main/abp_small.txt' #sjhgvr/oisd
+      - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #StevenBlack Basic
+      - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts' #StevenBlack gambling
       
       #白名单
       - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt' #afwfv/DD-AD
