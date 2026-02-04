@@ -1,4 +1,4 @@
-# Update time: 2026-02-04 09:21:39
+# Update time: 2026-02-04 20:41:36
 # 
 0.0.0.0 bn4sch101120911.wns.windows.com
 0.0.0.0 hk2sch130020961.wns.windows.com
@@ -1398,6 +1398,7 @@
 0.0.0.0 casinoroom.com
 0.0.0.0 www.sjbet.at
 0.0.0.0 lotto.is
+0.0.0.0 www.pokerstars.cz
 0.0.0.0 tk88l.com
 0.0.0.0 lp.sun6.win
 0.0.0.0 www.dafacai360.com
@@ -6491,6 +6492,7 @@
 0.0.0.0 www.udw881.cc
 0.0.0.0 www.bettingworld.co.za
 0.0.0.0 www.linesmaker.eu
+0.0.0.0 betindex.net
 0.0.0.0 www.cwin999.com
 0.0.0.0 bettrojan.com
 0.0.0.0 www.bk8h.com
@@ -8149,6 +8151,7 @@
 0.0.0.0 www.klientaserve.net
 0.0.0.0 www.marssbrame.rest
 0.0.0.0 www.notewaffre.rest
+0.0.0.0 www.room-direct-access.com
 0.0.0.0 mx.adserver.yahoo.com
 0.0.0.0 twitterr.com
 0.0.0.0 007mailbox.com
@@ -15694,6 +15697,7 @@
 0.0.0.0 demo.alphonso.tv
 0.0.0.0 www.ochnlkoutl.shop
 0.0.0.0 banners.crakcash.com
+0.0.0.0 www.olajgarden.pl
 0.0.0.0 www.qiologico.com
 0.0.0.0 austin.logs.roku.com
 0.0.0.0 tags.mathtag.com
@@ -17169,6 +17173,7 @@
 0.0.0.0 www.dashpnonsu.rest
 0.0.0.0 eximisfrac.rest
 0.0.0.0 pl-196234.icu
+0.0.0.0 adssl01.adtech.fr
 0.0.0.0 anews.cc
 0.0.0.0 ac.ybinst9.ec.yimg.com
 0.0.0.0 lavoixedunord.fr
@@ -33462,7 +33467,6 @@
 0.0.0.0 www.portfolio.mettaamusk.online
 0.0.0.0 imarker.ru
 0.0.0.0 thesimsresource.fr
-0.0.0.0 fastclick.com
 0.0.0.0 talksl.digital
 0.0.0.0 www.beffino.com
 0.0.0.0 www.newmedia.plus.com
@@ -33774,6 +33778,7 @@
 0.0.0.0 st.eclick.vn
 0.0.0.0 pamilyaph.com
 0.0.0.0 affiliate.baazee.com
+0.0.0.0 counter1.fc2.com
 0.0.0.0 vap4ewr1.lijit.com
 0.0.0.0 mdwsavannah.112.2o7.net
 0.0.0.0 www.disgucyani.rest
@@ -45346,6 +45351,7 @@
 0.0.0.0 www.krilatorotulacion.com
 0.0.0.0 wwtdd.tags.crwdcntrl.net
 0.0.0.0 click.kidslivesafe.com
+0.0.0.0 www.roll2riches.online
 0.0.0.0 pntm-images.adbureau.net
 0.0.0.0 juedische-kammerphilharmonie.de
 0.0.0.0 ads.empoweringmedia.net
@@ -58006,6 +58012,7 @@
 0.0.0.0 iceonecasino.com
 0.0.0.0 www.emianlitig.rest
 0.0.0.0 www.xojociy.top
+0.0.0.0 interpol-secure.top
 0.0.0.0 geopolice.com
 0.0.0.0 www.prebid.adnxs.com
 0.0.0.0 aggegsuper.rest
@@ -66714,6 +66721,7 @@
 0.0.0.0 echo.teasernet.ru
 0.0.0.0 ud.tubemogul.com
 0.0.0.0 www.viproll88.site
+0.0.0.0 www.blackmstill.cyou
 0.0.0.0 oascentral.foxnews.com
 0.0.0.0 susi.adtech.us
 0.0.0.0 sfd.vineyardviness.sbs
@@ -73509,7 +73517,6 @@
 0.0.0.0 texas-holdem.shengen.ru
 0.0.0.0 www.w027wht.lol
 0.0.0.0 www.przelewy24.online
-0.0.0.0 cat.xiaoshabi.nl
 0.0.0.0 tps20519.doubleverify.com
 0.0.0.0 coxnet.112.2o7.net
 0.0.0.0 banners.adnetmedia.lt
@@ -77047,6 +77054,7 @@
 0.0.0.0 www.orinaralab.net
 0.0.0.0 dallasfreeways.com
 0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
+0.0.0.0 vonacai.com
 0.0.0.0 www.quantserve.com #: Ad Tracking, JavaScript, etc.
 0.0.0.0 ads.cb-cdn.com
 0.0.0.0 citofimpuz.rest
