@@ -1,4 +1,4 @@
-# Update time: 2026-04-14 21:10:15
+# Update time: 2026-04-15 09:51:32
 # 
 0.0.0.0 bn4sch101120911.wns.windows.com
 0.0.0.0 hk2sch130020961.wns.windows.com
@@ -9268,6 +9268,7 @@
 0.0.0.0 www.storytellingplatformnp.pro
 0.0.0.0 public.adgger.jp
 0.0.0.0 85320647.xyz
+0.0.0.0 sslstatic.yomedia.vn
 0.0.0.0 www.szklarventmond.top
 0.0.0.0 banners.thirdmovies.com
 0.0.0.0 j.2004cms.com
@@ -20345,6 +20346,7 @@
 0.0.0.0 www.vinted.pl-826171625181zamowienie9172628362.com
 0.0.0.0 aussiefuneral.site
 0.0.0.0 www.dpacel.movieshuffler.com
+0.0.0.0 apn-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 fybtt.com
 0.0.0.0 radiant-sprout.com
 0.0.0.0 www.mikkomoi.com
@@ -38529,6 +38531,7 @@
 0.0.0.0 ocworkbench.us.intellitxt.com
 0.0.0.0 stats.virtuemart.net #[Piwik.Analytics]
 0.0.0.0 www.tijaji.pro
+0.0.0.0 www.tifcarpa.com
 0.0.0.0 garvostellmikrovandst.info
 0.0.0.0 www.stratego-be.com
 0.0.0.0 www.fuzzyybear.info
@@ -44923,7 +44926,6 @@
 0.0.0.0 vortex-widgets.com
 0.0.0.0 www.aa2000gpt.com
 0.0.0.0 freewheel-match.dotomi.com
-0.0.0.0 solicita.info
 0.0.0.0 www.qf4yua.club
 0.0.0.0 www.jhpxa.com
 0.0.0.0 wdfl.co
